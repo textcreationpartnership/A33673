@@ -1,0 +1,1043 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A supplement by way of additions to and amplifications of the foregoing treatise, concerning copy-hold and customary estates wherein the grounds laid down in the said treatise are made good and confirmed by several resolutions and judgements given in the courts of common laws of England in divers cases.</title>
+            <author>Coke, Edward, Sir, 1552-1634.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 154 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33673</idno>
+            <idno type="STC">Wing C4957</idno>
+            <idno type="STC">ESTC R31649</idno>
+            <idno type="EEBO-CITATION">99826981</idno>
+            <idno type="PROQUEST">99826981</idno>
+            <idno type="VID">31393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31393)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1882:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A supplement by way of additions to and amplifications of the foregoing treatise, concerning copy-hold and customary estates wherein the grounds laid down in the said treatise are made good and confirmed by several resolutions and judgements given in the courts of common laws of England in divers cases.</title>
+                  <author>Coke, Edward, Sir, 1552-1634.</author>
+               </titleStmt>
+               <extent>[6], 111, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Streater, James Flesher, and Henry Twyford, assignes of Richard Atkyns and Edward Atkyns, Esquires,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A supplement, published separately, to; Coke, Sir Edward.  The complete copy-holder.</note>
+                  <note>Running title reads: A supplement, concerning copy-hold and customary estates.</note>
+                  <note>Reproduction of the original in the Harvard University Law Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coke, Edward, --  Sir, 1552-1634. --  Complete copy-holder --  Early works to 1800.</term>
+               <term>Estates (Law) --  England --  Early works to 1800.</term>
+               <term>Copyhold --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31393:1"/>
+            <pb facs="tcp:31393:1"/>
+            <p>A Supplement By way of ADDITIONS to and AMPLIFICA<g ref="char:EOLhyphen"/>TIONS of the foregoing TREATISE, CONCERNING COPY-HOLD and CUSTOMARY ESTATES: Wherein the Grounds laid down in the ſaid <hi>Treatiſe</hi> are made good and con<g ref="char:EOLhyphen"/>firmed by ſeveral Reſolutions and Judgements given in the Courts of the Common Laws of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in divers Caſes.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater, James Fleſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er,</hi> and <hi>Henry Twyford,</hi> Aſſignes of <hi>Richard Atkyes</hi> and <hi>Ed<g ref="char:EOLhyphen"/>ward Atkyns,</hi> Eſquires. 1668.</p>
+            <p>Cum Gratia &amp; Privilegio Regiae Majeſtatis.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:31393:2" rendition="simple:additions"/>
+            <pb facs="tcp:31393:2"/>
+            <head>THE INTRODUCTION.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Learned Au<g ref="char:EOLhyphen"/>thour of the before-going Book, intitu<g ref="char:EOLhyphen"/>led, <hi>The Compleat Copy-holder,</hi> having in a very compendi<g ref="char:EOLhyphen"/>ous manner treated of the Origi<g ref="char:EOLhyphen"/>nal of <hi>Manors</hi> and how conſtitu<g ref="char:EOLhyphen"/>ted; and of their <hi>Demeſn Lands,</hi> as alſo of the ſeveral <hi>Tenancies</hi> thereof, and of the nature of the <hi>Services, Qualities,</hi> and <hi>Courts</hi> in<g ref="char:EOLhyphen"/>cident and belonging thereunto; and (amongſt the reſt) of <hi>Copy-holders, Copy-holds</hi> and <hi>Cuſtomary
+<pb facs="tcp:31393:3"/> Eſtates,</hi> and their <hi>Tenures, Services</hi> and <hi>Cuſtomes,</hi> diſtinguiſhing them from the other Tenures and Ser<g ref="char:EOLhyphen"/>vices; ſetting forth therein like<g ref="char:EOLhyphen"/>wiſe the Antiquity and Original of <hi>Copy-holds,</hi> the <hi>Services, Duties,</hi> and other things incident to ſuch Tenure; with divers <hi>Cuſtomes, Preſcriptions</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſages,</hi> claimed by ſuch <hi>Copy-hold-Tenants,</hi> toge<g ref="char:EOLhyphen"/>ther with the manner of <hi>Grants</hi> and <hi>Eſtates</hi> thereof, and how and in what manner they are either to be granted or accepted of: Now becauſe the drift of the Authour of the ſaid Book was (as I conceive) to ſpeak more particularly of <hi>Co<g ref="char:EOLhyphen"/>py-hold</hi> and <hi>Cuſtomary Eſtates</hi> then of the other Tenures; and there<g ref="char:EOLhyphen"/>fore the Authour of the ſaid Book hath therein laid down ſome gene<g ref="char:EOLhyphen"/>ral Grounds concerning the ſame, but hath not confirmed them ei<g ref="char:EOLhyphen"/>ther by <hi>Judgments</hi> or <hi>Precedents</hi> of the <hi>Common Law,</hi> which would
+<pb facs="tcp:31393:3"/> have more illuſtrated the ſame; and ſome things likewiſe concern<g ref="char:EOLhyphen"/>ing <hi>Copy-holds</hi> and <hi>Cuſtomary Lands</hi> and <hi>Eſtates</hi> have been o<g ref="char:EOLhyphen"/>mitted by the ſaid Authour wor<g ref="char:EOLhyphen"/>thy to be known by all Students and others whom the ſame may concern: therefore at the requeſt of divers perſons, by way of <hi>Amplification</hi> of what hath there<g ref="char:EOLhyphen"/>in been formerly treated of by the ſaid Authour, and by way of <hi>Ad<g ref="char:EOLhyphen"/>dition</hi> of what therein hath been omitted, I have added what here<g ref="char:EOLhyphen"/>after followeth by way of a <hi>Sup<g ref="char:EOLhyphen"/>plement</hi> to the former Book; wherein I ſhall endeavour to con<g ref="char:EOLhyphen"/>tribute ſomewhat <hi>de novo,</hi> and to make good the former Grounds laid down in the ſaid Book, and what ſhall be added thereunto, by ſeveral <hi>Reſolutions</hi> and <hi>Judg<g ref="char:EOLhyphen"/>ments</hi> given in the Courts of the <hi>Common Laws</hi> of <hi>England</hi> in ſe<g ref="char:EOLhyphen"/>veral Caſes concerning the ſame.
+<pb facs="tcp:31393:4"/> And therefore <hi>Surrenders</hi> (after a Grant thereof made) being one of the principal matters which do concern <hi>Copy-holders</hi> and their E<g ref="char:EOLhyphen"/>ſtates, I ſhall firſt begin with them, and then proceed to other matters concerning <hi>Copy-holders</hi> and their <hi>Cuſtomary Eſtates.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="section">
+            <pb n="1" facs="tcp:31393:4"/>
+            <head>SECTION I.</head>
+            <argument>
+               <p>What a Surrender of Copy-hold or Cuſtoma<g ref="char:EOLhyphen"/>ry Eſtate is; to whom, and in what manner and place it is to be done; and who ſhall be ſaid ſuch a Tenant of a Co<g ref="char:EOLhyphen"/>py-hold as may make ſuch a Surrender.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">S</seg>Urrenders of Copy-hold-lands and Copy-holders are of two ſorts; <hi>viz.</hi> Surrenders Actual, and Surrenders in Law.</p>
+            <p>An Actual Surrender, according<g ref="char:punc">▪</g> to the Definition of Mr. <hi>Little<g ref="char:EOLhyphen"/>ton,</hi> and the beſt Deſcription of it, is a Copy-holder's yielding up of his Copy-hold-lands or Cuſtomary Eſtate into the hands of the Lord of the Manor, in the Court of the Manor, or unto his Bailiff, Reeve, or Steward, to ſuch Uſes and
+<pb n="2" facs="tcp:31393:5"/> for ſuch Eſtates as are particularly men<g ref="char:EOLhyphen"/>tioned in the Surrender it ſelf, made by a Deed or Writing; or if it be by Word, in the preſence of the Lord and Te<g ref="char:EOLhyphen"/>nants in the Court of the Manor. And yet it hath been a great doubt and Que<g ref="char:EOLhyphen"/>ſtion, whether of Copy-holds or Cuſto<g ref="char:EOLhyphen"/>mary Eſtates, any words uſed to the Lord himſelf ſhall amount to make it a good Surrender.</p>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>
+                  <hi>Vide</hi> Mr. <hi>Littleton,</hi> in his Chapter of<note place="margin">Litt. 15. <hi>b.</hi> Book of En<g ref="char:EOLhyphen"/>tries, 131. acc.</note> Tenant by Copy, &amp;c. <hi>fol. 15. Ad hanc Curiam venit</hi> A B, <hi>&amp; ſurſumreddidit in eadem Curia in manus Domini, &amp;c. unum Meſſuagium, &amp;c. ad uſum</hi> C D. <hi>&amp; haere<g ref="char:EOLhyphen"/>dum ſuorum, &amp;c.</hi>
+               </p>
+               <p>But if the Surrender be made in Court into the hands of the Lord or his Steward, it muſt be to ſuch a perſon or his Uſe who is <hi>in eſſe</hi> and capable of ſuch a Sur<g ref="char:EOLhyphen"/>render, or that may take Preſenty by force of the Surrender; otherwiſe ſuch Surrender, though it be an Actual Sur<g ref="char:EOLhyphen"/>render made in the Court of the Manor to the Lord or Steward himſelf, is not good.</p>
+               <p>A Copy-holder in Fee ſurrendred
+<pb n="3" facs="tcp:31393:5"/> his Copy-hold-lands into the hands of<note place="margin">
+                     <hi>H. 7 Jac. B. R. Simp<g ref="char:EOLhyphen"/>ſon</hi> and <hi>So<g ref="char:EOLhyphen"/>thern's</hi> Caſe. <hi>H. 17 Jac. in B. R. Bambridge</hi> and <hi>Whit<g ref="char:EOLhyphen"/>ton's</hi> Caſe acc.</note> the Lord of the Manor, <hi>Habendum</hi> after his deceaſe to the Uſe of an Enfant <hi>in Ventre ſa mier,</hi> and if the ſaid Enfant died within age, then to the Uſe of <hi>J S</hi> and his Heirs. In this Caſe theſe Points were Reſolved. 1. If a Copy-holder in Fee doth ſurrender his Copy-hold-lands into the hands of the Lord, to the Uſe of him<g ref="char:EOLhyphen"/>ſelf and his Heirs, That in that Caſe, be<g ref="char:EOLhyphen"/>cauſe the Limitation of the Uſe to him who had it before was void, the Surrender thereof to the Lord himſelf was alſo void. 2. That the Surrender made to the Enfant <hi>in Ventre ſa mier</hi> was not good as an im<g ref="char:EOLhyphen"/>mediate Surrender, and to take effect im<g ref="char:EOLhyphen"/>mediately, as the intention of the Surren<g ref="char:EOLhyphen"/>derer was it ſhould, becauſe it was of a Free-hold, which could not begin at a day to come.</p>
+               <p>But yet <hi>Quere,</hi> If the Surrender be made into the hands of the Lord, to the Uſe of the right Heirs of the Surrenderer,<note place="margin">
+                     <hi>Vid. P. 30 Eliz. Allen</hi> and <hi>Palmer's</hi> Caſe. <hi>Leon.</hi> part 1. 101.</note> if the Lands ſhall not continue in the hands of the Lord till the death of the Copy-holder who made the Surrender, for the Court doubted of it, <hi>Paſc. 30 Eliz.</hi> in <hi>Allen</hi> and <hi>Palmer's</hi> Caſe.</p>
+               <p>A Surrender being then by the Copy-holder
+<pb n="4" facs="tcp:31393:6"/> himſelf, in the Court of the Ma<g ref="char:EOLhyphen"/>nor, to the Lord, of his Copy-hold or Cuſtomary Lands; if then, upon the very Act done, the Eſtate be in the Lord, or in the Surrenderer, or in whom it reſteth, re<g ref="char:EOLhyphen"/>maineth a Doubt. For Reſolution there<g ref="char:EOLhyphen"/>of, I humbly conceive the Law to be, and ſo it hath been Reſolved, That not<g ref="char:EOLhyphen"/>withſtanding ſuch a Surrender made, yet the Eſtate remaineth in the Copy-holder who ſurrendreth, and is not in the Lord, or in any other perſon whatſoever. But in caſe where the Copy-holder doth ſur<g ref="char:EOLhyphen"/>render his Copy-hold in the Court of the Manor to the Uſe of the Lord himſelf, (which he may doe) there, by ſuch a Surrender, the Land is immediatly veſted in the Lord without any other Act done or required, becauſe the Lord cannot take a Surrender, as to make thereof an Ad<g ref="char:EOLhyphen"/>mittance unto himſelf.</p>
+               <p>And to that purpoſe <hi>Vide Eriſh</hi> and <hi>Rive's</hi> Caſe, where it was Reſolved, That<note place="margin">
+                     <hi>Vid.</hi> Cro. part 1. in <hi>Eriſh</hi> and <hi>Rive's</hi> Caſe, acc.</note> if a Surrender be made by a Copy-holder of his Copy-hold-lands into the hands of the Steward of the Manor to the Uſe of the Steward himſelf, that Surrender is good without any farther Act, for the rea<g ref="char:EOLhyphen"/>ſon aforeſaid.</p>
+               <pb n="5" facs="tcp:31393:6"/>
+               <p>Having thus ſhewed what will be a good Surrender of Copy-hold or Cuſto<g ref="char:EOLhyphen"/>mary Lands by an actual Surrender in the Court of the Lord of the Manor, I ſhall now conſider</p>
+            </div>
+         </div>
+         <div n="2" type="section">
+            <head>SECT. II.</head>
+            <argument>
+               <p>
+                  <hi>Whether a Copy-hold may be ſaid to be ſur<g ref="char:EOLhyphen"/>rendred by any Act, Words, or Agree<g ref="char:EOLhyphen"/>ment, made betwixt the Lord and the Copy-holder, or by the Copy-holder with a Stranger made in the Court, in the Pre<g ref="char:EOLhyphen"/>ſence of the Lord or his Steward.</hi>
+               </p>
+            </argument>
+            <p>I Do conceive generally, that no Act or Words of the Copy-holder can<note place="margin">
+                  <hi>Vid.</hi> Leon. 1. part, 172. <hi>Penruddock</hi> and <hi>New<g ref="char:EOLhyphen"/>man's</hi> Caſe.</note> paſs his Copy-hold in ſuch a manner, as that the ſame ſhall be accompted to a<g ref="char:EOLhyphen"/>mount to a good Surrender of the ſame. But yet it reſts upon a Difference.</p>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>If a Copy-holder bargains and ſells his Copy-hold by Deed of Bargain and Sale enrolled, though it be to the Lord of the Manor himſelf, it is void, and ſhall not a<g ref="char:EOLhyphen"/>mount to a Surrender.</p>
+               <pb n="6" facs="tcp:31393:7"/>
+               <p>If Tenant for life of Lands at the Com<g ref="char:EOLhyphen"/>mon Law agrees with his Leſſor, or him in the Reverſion, that he ſhall have his Intereſt in the Land for the Rent of 20 <hi>s. per annum;</hi> this Agreement will not a<g ref="char:EOLhyphen"/>mount to a Surrender of his Land by the Common Law. <hi>A fortiori,</hi> If a Copy-holder, or other Cuſtomary Tenant, ſhall ſay to his Lord, or other perſon in the Court of the Manor, I agree to ſurren<g ref="char:EOLhyphen"/>der my Lands; theſe words will not be a preſent or an expreſs Surrender, nor will they amount to ſo much as a Relinquiſh<g ref="char:EOLhyphen"/>ing of his Eſtate: for in truth it is not any thing in preſent, but an Act to be done <hi>in futuro:</hi> Like unto the Caſe put by <hi>Wray</hi>
+                  <note place="margin">
+                     <hi>Tr. 31 Eliz. in B. R. Sweeper and Randall's</hi> Caſe, <hi>Leon.</hi> 1 part, 178.</note> Chief Juſtice; <hi>A</hi> ſeiſed of the Manor of <hi>D</hi> demiſeth the ſame Manor at will; that it is no Leaſe. No more in the other Caſe ſhall it be a Surrender, or a Relin<g ref="char:EOLhyphen"/>quiſhing of his Copy-hold or Copy-hold-eſtate. But yet notwithſtanding it will be agreed that in ſome caſes an expreſs and particular Agreement made by a Copy-holder with the Lord of the Manor for or concerning his Copy-hold-lands will amount to a Surrender of the ſame.</p>
+               <p>The Caſe was, That the Lord of a Manor, pretending that a Copy-holder
+<pb n="7" facs="tcp:31393:7"/> had forfeited his Copy-hold-lands, entred<note place="margin">
+                     <hi>M. 32 Eliz. in Ce<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> B. Collam</hi> and Sir <hi>Hugh Portman's</hi> Caſe, <hi>Leon.</hi> 1 part, 191.</note> into a Communication with the Copy-holder concerning the ſame: Upon the Communication thereof had betwixt them, it was agreed, that the Copy-hol<g ref="char:EOLhyphen"/>der ſhould pay unto the Lord the ſumme of 10 <hi>l,</hi> which he paid accordingly; and that in conſideration thereof, the Copy-holder ſhould have Election, whether he would have the Land aſſured unto him by Copy or by Bill, for the life of him and his Wife, or <hi>durante viduit ate</hi> of the Wife: who made his Election to have the Land by Bill. It was the opinion of the Ju<g ref="char:EOLhyphen"/>ſtices in that Caſe, That this Agreement was a good Surrender of the Lands, and a good Eſtate thereupon veſted in the Wife for her life.</p>
+               <p>A Copy-holder in Fee came into the<note place="margin">
+                     <hi>M. 13 Jat. B. R. Betfield</hi> and <hi>Adams</hi> Caſe.</note> Court of the Lord of the Manor, and took a new Eſtate of his Copy-hold-lands from the Lord to himſelf for life, and afterwards to his Wife for life, and after to his Son for life. It was a Que<g ref="char:EOLhyphen"/>ſtion, whether this Act of the Copy-hol<g ref="char:EOLhyphen"/>der was the giving up and the relin<g ref="char:EOLhyphen"/>quiſhing of his Eſtate of Inheritance in his Copy-hold, and did amount to a Sur<g ref="char:EOLhyphen"/>render of his old Eſtate therein. It was
+<pb n="8" facs="tcp:31393:8"/> agreed in this Caſe, That if a Copy-holder<note place="margin">
+                     <hi>Vid. 29 Eliz.</hi> Co. 2. part, <hi>Lanc's</hi> Caſe.</note> of Inheritance takes a Leaſe by Indenture for years of the Lord of his Copy-hold, that by that Act of his his Inheritance in his Copy-hold is gone and determined. But it ſeemed to be the better opinion of the Court, That although that this ta<g ref="char:EOLhyphen"/>king of a new Eſtate ſhall imply a Sur<g ref="char:EOLhyphen"/>render, and be accounted as to ſome pur<g ref="char:EOLhyphen"/>poſe to amount to a Surrender; yet in the judgment of Law it ſhall be but as a Sur<g ref="char:EOLhyphen"/>render to his Uſe for life, and after to his Wife and Son for their ſeveral lives, and that ſtill the Inheritance of the Copy-hold remains in him. But <hi>Quere</hi> this Caſe. For that <hi>H. 36 Eliz. in Co. B. Rot.</hi> 2640. in <hi>Adams</hi> and <hi>Shepheard</hi>'s Caſe, it ſeem<g ref="char:EOLhyphen"/>eth to be adjudged to the contrary.</p>
+               <p>A Copy-holder ſaid to his Lord, that<note place="margin">
+                     <hi>Vid. Colman</hi> and <hi>Bedil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>'s Caſe, <hi>An<g ref="char:EOLhyphen"/>derſon</hi>'s Re<g ref="char:EOLhyphen"/>ports 199. acc.</note> he would not hold his Land longer by Co<g ref="char:EOLhyphen"/>py, but by a Bill under the Lord's hand for his life, who made him ſuch a Bill, which the Copy-holder accepted of. It was agreed by the Juſtices in that Caſe, That thereby his Copy-hold was deter<g ref="char:EOLhyphen"/>mined.</p>
+            </div>
+         </div>
+         <div n="3" type="section">
+            <pb n="9" facs="tcp:31393:8"/>
+            <head>SECT. III.</head>
+            <argument>
+               <p>Of Surrenders out of Court; and where Sur<g ref="char:EOLhyphen"/>renders to the Steward, Deputy-ſteward, or into the hands of Tenants of the Ma<g ref="char:EOLhyphen"/>nor, out of Court, ſhall be good, where not.</p>
+            </argument>
+            <p>BY the general Cuſtome of the Realm a Copy-holder may ſurrender his Lands in the Court of the Lord of the Manor, or out of Court, to the Lord, by the hands of Tenants of the Manor: But a Surrender out of Court to the Lord, or by the hands of Tenants of the Manor, or of the Bailiff or Reeve, is not good without a ſpecial Cuſtome.</p>
+            <p>The Lord hath ſuch an abſolute Inter<g ref="char:EOLhyphen"/>eſt in his Manor, that he may hold a Court within his Manor at what time he pleaſ<g ref="char:EOLhyphen"/>eth: But he is not compellable by his Co<g ref="char:EOLhyphen"/>py-holder to hold or call a Court to ac<g ref="char:EOLhyphen"/>cept of a Surrender. But if he doth ac<g ref="char:EOLhyphen"/>cept of ſuch a Surrender of his Copy-holder out of Court, the ſame is good, whether it be to his own Uſe, or to the Uſe of other perſons. And as the Lord may himſelf accept of a Surrender out
+<pb n="10" facs="tcp:31393:9"/> of Court, ſo likewiſe may the Lord him<g ref="char:EOLhyphen"/>ſelf grant new Copies of the Lands out of Court, and ſuch Grants ſhall be good. But the Lord himſelf cannot hold his own Court for any of the purpoſes aforeſaid. But the Lord himſelf may give authority unto others to take Surrenders to the Uſe of others out of Court; and ſo may his Steward or Under-ſteward give Condi<g ref="char:EOLhyphen"/>tions to others to take the like Surren<g ref="char:EOLhyphen"/>ders out of Court to others Uſes, which Conditions ſhall be in the nature of a <hi>De<g ref="char:EOLhyphen"/>dimus poteſtatem.</hi> And ſo it was Reſolved in a Caſe out of <hi>Ireland,</hi> referred to the Judges of <hi>England,</hi> to certifie their opini<g ref="char:EOLhyphen"/>ons therein; where the Caſe was, The Steward of the Court of a Manor in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> being in <hi>England,</hi> ſent a Writ in the nature of a <hi>Dedimus poteſtatem</hi> to one who was in <hi>Ireland,</hi> to take a Surrender there of Copy-hold-lands: and the opinion of the Judges here, to whom the Caſe was referred to adviſe and certifie their opi<g ref="char:EOLhyphen"/>nions was, That ſuch a Surrender taken by <hi>Dedimus</hi> was good enough. But note, that in ſuch caſe it muſt be intended, that ſuch giving power to take a Surrender, if it be to be done, it muſt be alledged to be done either by Preſcription or Cu<g ref="char:EOLhyphen"/>ſtome:
+<pb n="11" facs="tcp:31393:9"/> for that Surrenders generally ta<g ref="char:EOLhyphen"/>ken out of Court muſt be by Cuſtome.</p>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>If the Under-ſteward hold a Court<note place="margin">
+                     <hi>2 E.</hi> 6. Br. <hi>Tenant per Copie 26.</hi>
+                  </note> within the Manor, and grants Copies by Court-Roll, without the authority of the Lord or of the high Steward, the Grants are good. But contrary it is, if he doe it out of Court, as it ſeemeth. And there it is a <hi>Quere,</hi> if the high Steward out of Court may grant Lands by Copy. But it is clearly holden, that he cannot admit a Copy-holder upon a Surrender out of Court, without a ſpecial authority from the Lord ſo to doe.</p>
+               <p>A Deputy-ſteward may take a Sur<g ref="char:EOLhyphen"/>render<note place="margin">19 Eliz. in Co. B.</note> out of Court, if the Office be granted to the Steward and his ſufficient Deputies, or to be exerciſed by him and his ſufficient Deputies; as it was Reſolved 19 <hi>Eliz.</hi> in the Court of <hi>Common-Pleas.</hi>
+               </p>
+               <p>The Lord of a Manor may retain a<note place="margin">
+                     <hi>8 Eliz.</hi> Dyer 248.</note> Steward by Word, and ſuch a Retainer ſhall be good untill he be diſcharged, and ſuch a Steward may take a Surrender out of Court, as it is holden in <hi>Coke</hi> 4. part, in the Lady <hi>Holcroft</hi>'s Caſe. And ſo was<note place="margin">
+                     <hi>Co.</hi> 4. part, <hi>Holcroft</hi>'s Caſe.</note> it Reſolved <hi>Tr. 41 Eliz.</hi> in <hi>Harris</hi> and
+<pb n="12" facs="tcp:31393:10"/> 
+                  <hi>Jaye</hi>'s Caſe <hi>in B. R.</hi> But <hi>Quere</hi> of the firſt<note place="margin">
+                     <hi>Vr. 31 Eliz. C. B. Bl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>grave</hi> and <hi>Wood</hi>'s Caſe, Godb. 142.</note> Point. For that <hi>Tr. 31. Eliz. in Co. B.</hi> in <hi>Blagrave</hi> and <hi>Wood</hi>'s Caſe, the opinion of the Juſtices was, That a Surrender to a Steward who was by word onely, out of Court, was not good.</p>
+               <p>In 17 <hi>Eliz. in Co. B.</hi> it was ſaid by<note place="margin">
+                     <hi>M. 17 Eliz.</hi> in <hi>C. B.</hi> by <hi>Dyer</hi> and <hi>Mounſon.</hi>
+                  </note> 
+                  <hi>Dyer</hi> and <hi>Mounſon,</hi> That without a Pre<g ref="char:EOLhyphen"/>ſcription a Surrender of Copy-hold-land could not be out of Court, nor an Admittance out of Court, neither to the Lord himſelf nor to his Steward. But in divers places it is uſed by Cuſtome ſo to be. And then and thereupon the doing of Fealty and the paying of the Lord's Fine ſhall be preſented by the Homage to be done at the next Court. And all theſe things they ſaid are to be done by Cu<g ref="char:EOLhyphen"/>ſtome. And in that Caſe it was ſaid by the Lord <hi>Dyer,</hi> That a Surrender out of Court might be to the Lord himſelf, to go by the way of Extinguiſhment.</p>
+               <p>A Copy-holder in Fee did, according to the Cuſtome of the Manor, ſurrender his Copy-hold-lands into the hands of two Tenants; but the Surrender was to the Uſe of <hi>J S,</hi> to take effect immediately after his death. In this caſe it was Reſolved, That as unto the Surrender into the hands
+<pb n="13" facs="tcp:31393:10"/> of two Tenants, that might be good, al<g ref="char:EOLhyphen"/>though it was out of Court, by Cuſtome. But becauſe in that Caſe the Surrender was unto the Uſe of <hi>J S,</hi> to take effect im<g ref="char:EOLhyphen"/>mediately after the death of the Surren<g ref="char:EOLhyphen"/>deror, and a Free-hold cannot begin <hi>in futuro,</hi> or at a day to come, by the Com<g ref="char:EOLhyphen"/>mon Law, and for that the Eſtates of Co<g ref="char:EOLhyphen"/>py-holders ſhall be directed according to the Rules of the Common Law; for that cauſe onely the Surrender was holden to be void.</p>
+               <p>But although a Surrender out of Court may be good into the hands of Tenants of the Manor by Cuſtome; yet untill ſuch Surrender be preſented by them in the Court of the Lord of the Manor, the E<g ref="char:EOLhyphen"/>ſtate of the Lands doth remain in the Surrenderor, and nothing paſſeth thereby.</p>
+               <p>A Copy-holder in Fee did ſurrender<note place="margin">
+                     <hi>M. 14 Jac. B. R. Froſ<g ref="char:EOLhyphen"/>well</hi> and <hi>Welſhe</hi>'s Caſe, <hi>Bridg<g ref="char:EOLhyphen"/>man 52.</hi>
+                  </note> into the hands of two Tenants, according to the Cuſtome, to the Uſe of <hi>A</hi> and <hi>B,</hi> who thereupon entred into and upon the Lands, and paid the Rent to the Lord; but before any Court was kept for the Manor, the Tenants to whom the Surren<g ref="char:EOLhyphen"/>der was made, as alſo the Copy-holder the Surrenderor, all of them died, and thereupon the Heir of the Copy-holder
+<pb n="14" facs="tcp:31393:11"/> Surrenderor entred upon the ſaid <hi>A</hi> and <hi>B,</hi> and made a Leaſe for years of the Lands, which Leaſe was warranted by the Cuſtome. In that Caſe it was Reſolved, That the Leaſe for years was well made, becauſe that before ſuch time that the Preſentment was made in Court of the Surrender, the Intereſt of the Copy-hol<g ref="char:EOLhyphen"/>der did remain in the Surrenderor, and his Right deſcended unto and upon his Heir, and he might take &amp; receive the Rents and Profits of the Lands; for that no perſon can have a Copy-hold or a Copy-hold-Eſtate, but ſuch a perſon who comes in<g ref="char:EOLhyphen"/>to the ſame by the Cuſtome of the Ma<g ref="char:EOLhyphen"/>nor, <hi>viz.</hi> by Admittance of the Lord, which in this Caſe <hi>A</hi> and <hi>B</hi> did not doe. But in that Caſe it was doubted by the Ju<g ref="char:EOLhyphen"/>ſtices, but not Reſolved, Whether the Acceptance of the Rent by the Lord at the hands of the ſaid <hi>A</hi> and <hi>B</hi> did amount to an Admittance or not.</p>
+               <p>There were two Joynt-tenants in Fee<note place="margin">
+                     <hi>M. 9. Jac. Cro.</hi> 2. part, <hi>Porter</hi> and <hi>Porter's</hi> Caſe.</note> of Lands which were holden by Copy. One of them, according to the Cuſtome, ſurrendred into the hands of two Tenants to the Uſe of his laſt Will, and afterwards he made his Will, and thereby deviſed the Lands. In that Caſe it was holden
+<pb n="15" facs="tcp:31393:11"/> by the Juſtices, That becauſe the ſaid Surrender was preſented by the Tenants in the Court of the Lord, that the ſaid Surrender ſhould bind the Survivor; for that it ſhall have a relation to the firſt time of the Surrender. But if in that caſe the Copy-holder who made the Surrender had died before the ſame had been preſen<g ref="char:EOLhyphen"/>ted, then the Copy-hold had ſurvived to the ſurviving Joynt-tenant.</p>
+               <p>Two Coparcenors, Copy-holders, were<note place="margin">
+                     <hi>p. 10 Jac. B. R.</hi> Godb<g ref="char:punc">▪</g> 141.</note> in poſſeſſion; the one did ſurrender her Reverſion in the Moyety after her deceaſe. It was adjudged a void Surrender, becauſe a Free-hold could not commence <hi>in fu<g ref="char:EOLhyphen"/>turo,</hi> as well of Copy-hold-lands as of Free-hold-lands.</p>
+               <p>A Copy-holder ſurrendred a Meſſuage<note place="margin">
+                     <hi>M. 8 Jac. in B. R.</hi> Cro. 3. part, <hi>Bur<g ref="char:EOLhyphen"/>goyne</hi> and <hi>Spurling</hi>'s Caſe.</note> and 20 Acres of Lands into the hands of two Tenants out of Court, to the Uſe of <hi>J S</hi> and his Heirs, upon Condition, that if he paid <hi>J S 100 l.</hi> before ſuch a day, the Surrender to be void. Before the day of payment he ſurrendred one Acre, parcel of the 20 Acres, unto <hi>J D</hi> and his Heirs, and afterwards he performed the Condition by paying the 100 <hi>l.</hi> and afterwards in Court he ſurrendred the ſaid Meſſuage and 20 Acres of Lands in<g ref="char:EOLhyphen"/>to
+<pb n="16" facs="tcp:31393:12"/> the hands of the Steward, to the Uſe of <hi>J N</hi> and his Heirs. It was found by the Jurours that the firſt Surrender made to <hi>J S</hi> was never preſented, but the two laſt Surrenders were preſented. In this Caſe it was Reſolved, That by the Condi<g ref="char:EOLhyphen"/>tional Surrender nothing paſſed, untill it was preſented; but the Intereſt, Right and Poſſeſſion remained in the Copy-hol<g ref="char:EOLhyphen"/>der who made the Surrender, ſo as he might transfer it to whom he thought good. For although it was a Surrender into the hands of Tenants, and ſo accor<g ref="char:EOLhyphen"/>ding to the manner of the Surrender the ſame was good by the Cuſtome; yet be<g ref="char:EOLhyphen"/>cauſe the ſaid Surrender into the hands of Tenants was but an Inchoation of the Caſe to whoſe Uſe the Surrender was made, which had no farther perfection or proſecution, but became void by the performance of the Condition, the firſt of the two laſt Surrenders preſented, <hi>viz.</hi> the Surrender to the Uſe of <hi>J D</hi> and his Heirs, ſtood good, and the laſt Surrender to the Uſe of <hi>J N</hi> and his Heirs took no effect.</p>
+               <p>A Copy-holder in Fee made a Letter<note place="margin">
+                     <hi>Coke</hi> 9. part, <hi>Comb's</hi> Caſe.</note> of Attorney to two Tenants of the Ma<g ref="char:EOLhyphen"/>nor, to ſurrender his Copy-hold out of
+<pb n="17" facs="tcp:31393:12"/> Court unto the Uſe of <hi>J S</hi> and his Heirs: They ſurrendred the ſame accordingly, and at the next Court brought in the Sur<g ref="char:EOLhyphen"/>render into Court, (but no Cuſtome was found to warrant ſuch a Surrender.) Not<g ref="char:EOLhyphen"/>withſtanding in that Caſe it was Re<g ref="char:EOLhyphen"/>ſolved, 1. That it was a good Surrender, becauſe he might doe it <hi>de communi jure</hi> without alledging any Cuſtome. 2. When the Tenants ſhewed the ſame in Court, and the Authority which was given to make the Surrender, all which they had done was Reſolved to be good, and legal<g ref="char:EOLhyphen"/>ly done.</p>
+            </div>
+         </div>
+         <div n="4" type="section">
+            <head>SECT. IV.</head>
+            <argument>
+               <p>Where, although Surrenders are made to the Lord or to Tenants out of Court by Cu<g ref="char:EOLhyphen"/>ſtome, yet nothing paſſeth out of the Co<g ref="char:EOLhyphen"/>py-holder before Admittance: And what ſhall be a good Admittance in ſuch caſe, what not.</p>
+            </argument>
+            <p>ADmittance is the life and perfection of the Copy-holder's Eſtate, and before Admittance the Tenant is not a perfect Copy-holder.</p>
+            <div type="proofs">
+               <pb n="18" facs="tcp:31393:13"/>
+               <head>Proofs.</head>
+               <p>The Cuſtome of a Manor was, That a<note place="margin">
+                     <hi>M. 23 Car. B. R. Baker</hi> and <hi>Den<g ref="char:EOLhyphen"/>ham's</hi> Caſe.</note> Copy-holder might ſurrender his Copy-hold out of Court to the Uſe of another; the party to whoſe Uſe it was, to be ad<g ref="char:EOLhyphen"/>mitted at the next Court. Such a Surren<g ref="char:EOLhyphen"/>der was made, but before the next Court <hi>Ceſtuy que uſe</hi> died, and ſo was not admit<g ref="char:EOLhyphen"/>ted. It was Reſolved in this Caſe, That he was not a Copy-holder within the Cu<g ref="char:EOLhyphen"/>ſtome; for by the Surrender before Ad<g ref="char:EOLhyphen"/>mittance the Surrenderee hath no poſſeſſ<g ref="char:EOLhyphen"/>on, and the Heir is in by Diſcent, and holds by the Copy of his Anceſtor, and ſo the <hi>Ceſtuy que uſe</hi> is not a perfect nor compleat Copy-holder. And it may be compared to the Caſe where a man makes a Feoffment in Fee of Lands, and makes Livery within the View; it is no perfect Livery till he doth enter into the Lands, but the Feoffor may puniſh a Treſpaſs there done in the interim, for it is but <hi>in<g ref="char:EOLhyphen"/>choatum</hi> untill he enter. And ſo it is in caſe of a Copy-holder; the Surrender is but <hi>quaſi inchoatum,</hi> as before, till he be admitted to the Copy-hold, <hi>Vid. Froſ<g ref="char:EOLhyphen"/>well</hi>'s Caſe before.</p>
+               <pb n="19" facs="tcp:31393:13"/>
+               <p>In 26 <hi>Eliz.</hi> the Queſtion was, Whe<g ref="char:EOLhyphen"/>ther<note place="margin">
+                     <hi>26 Eliz. Gal<g ref="char:EOLhyphen"/>loway</hi>'s Caſe vouched in <hi>Bulſtr.</hi> 3. part, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>17.</note> the Copy-holder might have an A<g ref="char:EOLhyphen"/>ction upon the Caſe againſt the Lord for not holding his Court, and not admitting of him to whom a Surrender was made according to the Cuſtome of the Manor. It was Reſolved in that Caſe, That the Copy-holder himſelf might have the A<g ref="char:EOLhyphen"/>ction. But in that Caſe it was Reſolved, That he to whom the Surrender was made, untill Admittance, by force of the Sur<g ref="char:EOLhyphen"/>render had nothing; it was onely an Act begun, and not perfected; and therefore in ſuch caſe he could not maintain the A<g ref="char:EOLhyphen"/>ction of the Lord for not admitting of him.</p>
+               <p>A Surrender of a Copy-hold is like to the Induction into a Benefice: before Induction there is no Poſſeſſion; ſo before Admittance there is no Poſſeſſion.</p>
+               <p>A Copy-holder, according to the Cu<g ref="char:EOLhyphen"/>ſtome,<note place="margin">
+                     <hi>M. 12 Jac, Robinſon</hi> and <hi>Green</hi>'s Caſe, <hi>Bridg<g ref="char:EOLhyphen"/>man</hi> 82, 83. Bulſtr. 3. part, 238. acc.</note> did ſurrender out of Court into the hands of Tenants to the Uſe of <hi>J S</hi> and his Heirs; which Surrender was de<g ref="char:EOLhyphen"/>livered into the Court by the ſaid Te<g ref="char:EOLhyphen"/>nants and there preſented; which was ac<g ref="char:EOLhyphen"/>cepted of by the Steward of the Manor, and an Entry made thereof in the Court-Roll, and a Copy of the Surrender was
+<pb n="20" facs="tcp:31393:14"/> delivered unto <hi>J S;</hi> and in the Copy it was, <hi>viz. Compertum eſt per Homagium,</hi> that the Surrender was to <hi>J S</hi> and his Heirs. It was the opinion of the Court in this Caſe, That none of theſe colou<g ref="char:EOLhyphen"/>rable things did imply a perfect Ad<g ref="char:EOLhyphen"/>mittance to the Copy-hold. For 1. The Acceptance of the Preſentment by the Steward from the Homage was no more then what he was bounden to doe as be<g ref="char:EOLhyphen"/>ing Judge of the Court. 2. The Entry of it in the Roll was but an Office of Du<g ref="char:EOLhyphen"/>ty, being but an Evidence for the Lord, as alſo for him to whoſe Uſe the Surrender was; and ſo was the delivery of the Co<g ref="char:EOLhyphen"/>py to <hi>J S,</hi> the <hi>Ceſtuy que uſe.</hi> But none of theſe things did imply the Conſent or Will of the Lord, that the <hi>Ceſtuy <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ue uſe</hi> ſhould be admitted or have the Lands according to the Surrender; and all theſe things together do not imply any Admit<g ref="char:EOLhyphen"/>tance, for all of them may be done, though no Admittance be in the caſe.</p>
+               <p>Note, It was Reſolved in the Court of<note place="margin">
+                     <hi>M. 6 Jac. in B. R. Wil<g ref="char:EOLhyphen"/>ſon</hi> and <hi>Wed<g ref="char:EOLhyphen"/>dall</hi>'s Caſe, <hi>
+                        <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>lv. 144.</hi>
+                  </note> 
+                  <hi>King's Bench,</hi> That if a Surrender be of a Copy-hold to <hi>J S,</hi> it is of no effect untill he be admitted Tenant: and if be<g ref="char:EOLhyphen"/>fore Admittance <hi>J S</hi> doth ſurrender the Land unto another, a Stranger, who is
+<pb n="21" facs="tcp:31393:14"/> admitted, yet nothing paſſeth to the Stranger by this Admittance of the Stran<g ref="char:EOLhyphen"/>ger.</p>
+            </div>
+         </div>
+         <div n="5" type="section">
+            <head>SECT. V.</head>
+            <argument>
+               <p>Where ſome things, and what things, may be done by the Copy-holder or his Heir before Admittance.</p>
+            </argument>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>1. THE Heir of a Copy-holder may<note place="margin">
+                     <hi>Co.</hi> 4. part, <hi>Clark</hi> and <hi>Penyfather</hi>'s Caſe.</note> enter and have an Action of Treſpaſs before Admittance. 2. A <hi>Poſ<g ref="char:EOLhyphen"/>ſeſſio Fratris</hi> or <hi>Sororis</hi> may be of a Copy-hold before Admittance. 3. A Diſcent ſhall not bind the Heir of a Copy-holder. 4. He may ſurrender unto a Stranger be<g ref="char:EOLhyphen"/>fore Admittance.</p>
+               <p>A Copy-holder in Fee had Iſſue two<note place="margin">
+                     <hi>Vid. 12 Eliz.</hi> Dyer 291.</note> Daughters by divers Women, and died ſeiſed; the Daughters entred, and took the Profits many years; and before Ad<g ref="char:EOLhyphen"/>mittance, the eldeſt Daughter died with<g ref="char:EOLhyphen"/>out Iſſue, and afterwards the youngeſt Daughter was admitted to the whole Land, as ſole Heir to the Father. In this Caſe it was holden, That the poſſeſſion of the eldeſt Daughter, though before
+<pb n="22" facs="tcp:31393:15"/> Admittance, ſhould make her Siſter, though of the half bloud, inheritable to the Land.</p>
+               <p>If a Copy-holder in Fee by Licence<note place="margin">
+                     <hi>24 Eliz. in Co. B. Coke</hi> 4. part, 23. <hi>Brown's</hi> Caſe acc.</note> maketh a Leaſe for years, and the Leſſee entreth, the Copy-holder having a Son and a Daughter by one Woman, and a Son by another; the Land ſhall diſcend to the Daughter of the whole bloud, al<g ref="char:EOLhyphen"/>though that the Son died, and was not ad<g ref="char:EOLhyphen"/>mitted to the Copy-hold as Heir to his Father. And that that ſhould be <hi>Poſſeſſio Fratris</hi> of a Copy-hold before Admit<g ref="char:EOLhyphen"/>tance.</p>
+               <p>If a Copy-holder doth ſurrender to a<note place="margin">
+                     <hi>40 Eliz. in B. R. Arnold</hi> and <hi>George</hi>'s Caſe, <hi>Yelv.</hi> 16. acc.</note> Stranger, and the Steward will not admit him, and the Stranger enters, and holds the Land; if the Lord bring Treſpaſs a<g ref="char:EOLhyphen"/>gainſt him before Admittance, he may plead Not guilty, and his Plea ſhall be good, and it ſhall be found againſt the Lord, becauſe he is <hi>particeps criminis</hi> to the Admittance, becauſe it ſhall be inten<g ref="char:EOLhyphen"/>ded, that the Lord would not ſuffer the Steward to admit him to the Copy-hold.</p>
+               <p>A Copy-hold was ſeized by the Lord<note place="margin">
+                     <hi>Tr. 3 Jac. B. R. Joyner</hi> and <hi>Lam<g ref="char:EOLhyphen"/>ber<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>'s Caſe, <hi>Cro.</hi> 2. part, 36.</note> of the Manor, and he granted it to ano<g ref="char:EOLhyphen"/>ther in Fee, who died, and his Heir was admitted; then the firſt Copy-holder di<g ref="char:EOLhyphen"/>ed,
+<pb n="23" facs="tcp:31393:15"/> and his Heir entred, and ſurrendred unto a Stranger in Fee. It was Reſolved in that Caſe, That the Entry of the Heir was lawfull, though he was not admitted to the Copy-hold-eſtate, and the Diſcent of the Land to the Heir of the Grantee of the Lord ſhould not bind him. And farther it was Reſolved in that Caſe, That the Heir of the Copy-holder being in the Land, his Surrender of the Land unto a Stranger was good before his Admit<g ref="char:EOLhyphen"/>tance.</p>
+            </div>
+         </div>
+         <div n="6" type="section">
+            <head>SECT. VI.</head>
+            <argument>
+               <p>Where the Lord is but an Inſtrument to con<g ref="char:EOLhyphen"/>vey the Copy-hold by Admittance onely, and that the Surrenderee is in by the Copy-holder, and not by the Lord.</p>
+            </argument>
+            <p>ALthough generally (as before is ſaid)<note place="margin">
+                  <hi>Vide</hi> Plow. <hi>Com.</hi> 421. in <hi>Hare</hi> and <hi>Bickley's</hi> Caſe.</note> a Copy-holder cannot enter and have Seiſin of the Land without the Ad<g ref="char:EOLhyphen"/>mittance of the Lord, no more then a Parſon or Prebend can have Seiſm, or be full Incumbent, till the Arch-deacon hath inducted him, or the Dean and Chapter enſtalled him: yet the Lord is but an Inſtrument uſed for the ſettling of the Co<g ref="char:EOLhyphen"/>py-holder
+<pb n="24" facs="tcp:31393:16"/> in his Copy-hold, and to tranſ<g ref="char:EOLhyphen"/>fer the Land <hi>ſecundum formam &amp; effe<g ref="char:EOLhyphen"/>ctum Surſumredditionis,</hi> and the Eſtate, Right and Intereſt in the Copy-hold doth not paſs as from the Lord; but upon the Admittance made by the Lord the Copy-holder is in by him who made the Surren<g ref="char:EOLhyphen"/>der, and by the Cuſtome, and ſeiſed of the Copy-hold <hi>ſecundùm Conſuetudinem Manerii,</hi> &amp;c.</p>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>The Lord of a Manor demiſed Copy-hold<note place="margin">
+                     <hi>M. 40 Eliz. B. R. Pay</hi> and <hi>Brown's</hi> Caſe, <hi>Cro.</hi> 1. part.</note> of Inheritance to <hi>A,</hi> upon Conditi<g ref="char:EOLhyphen"/>on that he ſhould pay to <hi>B 20 s.</hi> yearly during his Minority, and 100 <hi>l.</hi> at his full age. <hi>A</hi> paid not the 20 <hi>s.</hi> but ſur<g ref="char:EOLhyphen"/>rendred the Land to the Uſe of <hi>P</hi> and his Heirs. The Lord admits him. <hi>B</hi> attains his full age, and the 100 <hi>l.</hi> is not paid. The Lord enters for the Condition bro<g ref="char:EOLhyphen"/>ken, and grants the Land by Copy to <hi>B. P</hi> enters upon him. It was holden in this Caſe, That his Entrie was lawfull, for that he to whoſe Uſe the Surrender was made comes in by him who ſurren<g ref="char:EOLhyphen"/>dred, and not by the Lord.</p>
+               <p>A Copy-holder in Fee ſurrendred
+<pb n="25" facs="tcp:31393:16"/> his Lands into the hands of the Lord by the<note place="margin">
+                     <hi>Tr. 15 Jac. B. R. Brook's</hi> Caſe, <hi>Poph. 125.</hi>
+                  </note> hands of Tenants, according to the Cu<g ref="char:EOLhyphen"/>ſtome, without expreſſing to whoſe Uſe it ſhould be. At the next Court he was admitted <hi>Habendum</hi> to him and his Wife in tail. It was objected, That no Uſe being expreſſed, the Surrender was void, and the Admittance not good, to paſs an Eſtate to the Wife not being named in the Premiſſes, but in the <hi>Habendum</hi> one<g ref="char:EOLhyphen"/>ly. It was Reſolved, 1. The Surrender was good, for it ſhall be intended, that the Surrender generally made was to ſuch Uſe as was ſpecified in the Admittance; and the Lord was onely as an Inſtrument put in truſt to convey the Eſtate, and make ſuch Admittance as he who ſurren<g ref="char:EOLhyphen"/>dred would have him to make. 2. That the Wife ſhould take by the Admittance, though ſhe was not named in the Premiſ<g ref="char:EOLhyphen"/>ſes, but in the <hi>Habendum</hi> onely.</p>
+               <p>If a Copy-holder ſurrendreth his Lands<note place="margin">
+                     <hi>33 Eliz. Co.</hi> 4. part, <hi>Weſt<g ref="char:EOLhyphen"/>wick's</hi> Caſe.</note> to the Uſe of <hi>J S,</hi> the Lord hath but a Cuſtomary power to make the Admit<g ref="char:EOLhyphen"/>tance <hi>ſecundùm effectum &amp; formam Sur<g ref="char:EOLhyphen"/>ſumredditionis.</hi> And if in ſuch caſe the Lord grants the Land to <hi>J S</hi> and a Stran<g ref="char:EOLhyphen"/>ger, all ſhall enure to <hi>J S,</hi> and nothing to the Stranger. And if the Copy-holder
+<pb n="26" facs="tcp:31393:17"/> doth ſurrender his Lands without a Con<g ref="char:EOLhyphen"/>dition, if the Lord doth admit the Te<g ref="char:EOLhyphen"/>nant upon a Condition, the Condition is void; for that after the Admittance the Surrenderee is in by him who made the Surrender, and not by the Lord.</p>
+               <p>A Copy-holder ſurrenders to the Uſe<note place="margin">
+                     <hi>28 Eliz.</hi> Co. 4. part, <hi>Bunting's</hi> Caſe.</note> of another; the Lord admits him to hold to him and his Heirs: yet he ſhall have but an Eſtate for life, for that after the Admittance he is in by him who made the Surrender, and not by the Lord.</p>
+               <p>The Cuſtome of the Manor was, That<note place="margin">
+                     <hi>Coke</hi> 8. part, in <hi>Swayne's</hi> Caſe.</note> a Copy-holder for life might take Timber to repair: The King made a Leaſe of the Manor, excepting Woods and Under<g ref="char:EOLhyphen"/>woods and Trees: The Leſſee for years of the Manor grants a Copy-hold upon which were Timber-trees to another for life, who cuts Timber to repair. It was Reſolved, That in this Caſe, notwith<g ref="char:EOLhyphen"/>ſtanding the Severance and Exception, the Grantee ſhould have the Trees, for that the Eſtate of the Copy-holder who comes in by a voluntary Grant is in by the Cu<g ref="char:EOLhyphen"/>ſtome, and the Lord is but an Inſtrument to make the Grant.</p>
+               <p>When a Copy-holder ſurrenders to the<note place="margin">
+                     <hi>Co.</hi> 4. part, in <hi>Tavernor's</hi> Caſe.</note> Uſe of another, and the Lord admits him;
+<pb n="27" facs="tcp:31393:17"/> now he who is admitted is in by him who makes the Surrender. For in a Plaint in the nature of a Writ of Entry in the <hi>Per,</hi> he ſhall be ſuppoſed to be in the <hi>Per</hi> by him who made the Surrender, becauſe the Lord is but an Inſtrument to make the Admit<g ref="char:EOLhyphen"/>tance; and he who is admitted ſhall not be ſubject to any Charges or Incumbrances of the Lord, for the Lord hath but a Cuſto<g ref="char:EOLhyphen"/>mary power to make the Admittance <hi>ſe<g ref="char:EOLhyphen"/>cundùm effectum ſurſumredditionis,</hi> as be<g ref="char:EOLhyphen"/>fore is ſaid.</p>
+               <p>A Copy-holder ſurrenders to the Uſe<note place="margin">
+                     <hi>M. 37 Eliz. Cro.</hi> 1. part, <hi>Berry</hi> and <hi>Green's</hi> Caſe.</note> of <hi>J S;</hi> the Lord refuſeth to admit him: he cannot enter, unleſs there be an eſpe<g ref="char:EOLhyphen"/>cial Cuſtome to warrant it; but if there be, then he may enter.</p>
+            </div>
+         </div>
+         <div n="7" type="section">
+            <head>SECT. VII.</head>
+            <argument>
+               <p>Where the Admittance of the particular Tenant ſhall be the Admittance of him in the Remainder.</p>
+            </argument>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>A Copy-holder in Fee by Licence made a Leaſe for years; the Leſſee enters;<note place="margin">
+                     <hi>M. 24 Eliz. Co.</hi> 4. part, <hi>Browne's</hi> Caſe.</note> the Copy-holder, having Iſſue a Son and a Daughter by one Woman, and a Son by
+<pb n="28" facs="tcp:31393:18"/> another, died; the eldeſt Son died before Admittance. In this Caſe it was Reſolved, (amongſt other things) That the Admit<g ref="char:EOLhyphen"/>tance of Tenant for life is the Admittance of him in the Remainder, but not to bar the Lord of his Fine, which he ought to have by the Cuſtome.</p>
+               <p>The Father a Copy-holder in Fee<note place="margin">P. 36 <hi>Eliz. B. R. Coke</hi> 4. part, <hi>Fitch</hi> and <hi>Huckley's</hi> Caſe.</note> made a Surrender to the Uſe of himſelf for life, and after to the Uſe of his Son for life, and after to the Uſe of his laſt Will. The Father was admitted, and died: The Lord pretending a Forfeiture entred, and granted the Copy-hold to a Stranger. Reſolved, That the Admit<g ref="char:EOLhyphen"/>tance of the Tenant for life was the Ad<g ref="char:EOLhyphen"/>mittance of him in the Remainder; and then the Land could not veſt in the Gran<g ref="char:EOLhyphen"/>tee of the Lord.</p>
+               <p>It was Reſolved by the Juſtices, That<note place="margin">
+                     <hi>Tr. 36 Eliz. B. R. Deal</hi> and <hi>Hig<g ref="char:EOLhyphen"/>den's</hi> Caſe, <hi>Moore 358.</hi>
+                  </note> the Admittance of Tenant for life of a Copy-hold is the Admittance of him in the Remainder, becauſe he is to pay his Fine which is intire, and no Fine is due to be paid by him in the Remainder to the Lord: but otherwiſe it is of him in the Reverſion.<note place="margin">
+                     <hi>M. 39 Eliz. B. R. Cro.</hi> 2. part, <hi>Gip<g ref="char:EOLhyphen"/>pin</hi> and <hi>Ban<g ref="char:EOLhyphen"/>nye's</hi> Caſe.</note>
+               </p>
+               <p>A Copy-holder ſurrendred to the Uſe of one for life, the Remainder to another
+<pb n="29" facs="tcp:31393:18"/> in Fee: Tenant for life was admitted: He in the Remainder ſurrendred to the Uſe of <hi>J S;</hi> which Surrender the Lord accepted of, and admitted him, and then the Tenant for life died. It was holden in this Caſe, That the Heir of <hi>J S</hi> ſhould have the Land, for that the Admittance of the Tenant for life was the Admittance of him in the Remainder; and alſo be<g ref="char:EOLhyphen"/>cauſe the Acceptance of the Lord was <hi>quaſi</hi> an Admittance to him in the Re<g ref="char:EOLhyphen"/>mainder.</p>
+               <p>A Copy-holder in Fee ſurrendred to<note place="margin">
+                     <hi>Tr. 2 Jac. B. R. Aun<g ref="char:EOLhyphen"/>celme</hi> and <hi>Auncelme's</hi> Caſe, <hi>Cro.</hi> 2. part.</note> the Uſe of his Wife for life, the Remain<g ref="char:EOLhyphen"/>der to his younger Son in Fee, and died: The Wife was admitted, but the younger Son refuſed to be admitted during the life of his Mother, but afterwards, without other Admittance, he ſurrendred to the Uſe of <hi>J S.</hi> It was Reſolved, That the Admittance of the Mother Tenant for life was the Admittance of the younger Son in the Remainder, becauſe they made but one Eſtate.</p>
+               <p>A Copy-holder had Iſſue 3 Sons, <hi>B, C,</hi>
+                  <note place="margin">
+                     <hi>Hil. 31 Eliz. B. R. Bullein</hi> and <hi>Graunt's</hi> Caſe, <hi>Leon.</hi> 1 part, 174<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> and <hi>D,</hi> and ſurrendred to the Uſe of his laſt Will, and thereby deviſed the ſame to his Wife for life, the Remainder to <hi>C</hi> and the Heirs of his body: The Wife di<g ref="char:EOLhyphen"/>ed
+<pb n="30" facs="tcp:31393:19"/> after Admittance, and the Lord gran<g ref="char:EOLhyphen"/>ted the Copy-hold to <hi>D</hi> in Fee, who ſur<g ref="char:EOLhyphen"/>rendered to the Uſe of <hi>J S</hi> for life, and after died without Iſſue: <hi>B</hi> the eldeſt Son entred. It was adjudged, That his Entry was lawfull, and that Admittance of him was not neceſſary; for that if a Copy-holder ſurrendreth to the Uſe of one for life, he in the Reverſion or Remain<g ref="char:EOLhyphen"/>der may enter without any new Admit<g ref="char:EOLhyphen"/>tance.</p>
+            </div>
+         </div>
+         <div n="8" type="section">
+            <head>SECT. VIII.</head>
+            <argument>
+               <p>By what and whoſe Act, either of the Law, of the Copy-holder himſelf, or of the Lord, ſeverally or all together, the Co<g ref="char:EOLhyphen"/>py-hold-land or Eſtate ſhall be gone, de<g ref="char:EOLhyphen"/>termined, or extinguiſhed; and where ſuſpended onely.</p>
+            </argument>
+            <p>HAving in the Sections before decla<g ref="char:EOLhyphen"/>red where a Surrender and Admit<g ref="char:EOLhyphen"/>tance thereupon, either by the Lord or his Steward in Court, or to them, or into the hands of Tenants out of Court, ſhall be good, and where not: Let us now look upon this Diviſion, and ſee in what caſe the Copy-hold or Copy-holder's E<g ref="char:EOLhyphen"/>ſtate
+<pb n="31" facs="tcp:31393:19"/> or Intereſt ſhall be ſaid to be gone, determined, or extinguiſhed; and by what and whoſe Act it was or may be determined. Firſt, It may be determi<g ref="char:EOLhyphen"/>ned by the Act of the Lord himſelf. 2. By the Act of the Copy-holder. 3. By Acts of them both joyned together. And laſtly, by the Act of the Law. All which will evidently appear by the Judgments, Reſolutions and Precedents after enſuing.</p>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>The Lord by his Act cannot, without<note place="margin">
+                     <hi>Co.</hi> 2. part, 17. in <hi>Lane'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Caſe.</note> the concurrent Act of the Copy-holder himſelf, determine the Eſtate and Intereſt which the Copy-holder hath in his Co<g ref="char:EOLhyphen"/>py-hold. And therefore the Severance of the Free-hold and Inheritance of the Land holden by Copy of Court-Roll (being done by the Act of the Lord) doth not determine the Copy-holder's Eſtate, or extinguiſh the Copy-hold. For although that the Eſtate of the Copy-holder be but an Eſtate at will, <hi>viz. ad</hi>
+                  <note place="margin">
+                     <hi>Co.</hi> 4. part, 21. <hi>in Brown</hi>'s Caſe.</note> 
+                  <hi>voluntatem Domini ſecundùm Conſuetu<g ref="char:EOLhyphen"/>dinem Manerii;</hi> yet Cuſtome hath ſo eſtabliſhed the Eſtate of the Copy-hol<g ref="char:EOLhyphen"/>der, that he is not removeable at the
+<pb n="32" facs="tcp:31393:20"/> will of the Lord, ſo long as he performs the Cuſtomes and Services.</p>
+               <p>If a Copy-holder will joyn with the Lord in a Deed of Feoffment of the Ma<g ref="char:EOLhyphen"/>nor, there, by that Act of them both, the Copy-hold is extinct; as it was ſaid by the Lord <hi>Anderſon</hi> Chief Juſtice, <hi>P. 24 Eliz. in Co. B.</hi>
+               </p>
+               <p>A Feme-ſole was Lady of a Manor, to<note place="margin">
+                     <hi>Vid. Cro.</hi> 1. part, 5 acc.</note> which were divers Copy-holders: One of the Copy-holders did intermarry with the Seignioreſs of the Manor. It was the opinion of the Juſtices, That the Inter<g ref="char:EOLhyphen"/>marriage was onely a Suſpenſion of the Copy-hold, and not an Extinguiſhment of it. But afterwards they joyned in ſuffering a common Recovery of the Land; and upon that their Act it was Reſolved, that the Copy-hold was extinguiſhed.</p>
+               <p>Husband and Wife Copy-holders in<note place="margin">
+                     <hi>H. 26 Eliz. in Co. B. Cro.</hi> 1. part, <hi>Stockbrid<g ref="char:EOLhyphen"/>ge</hi>'s Caſe.</note> Fee to them and their Heirs: The Huſ<g ref="char:EOLhyphen"/>band for Money obtained an Eſtate of Free-hold to him and his Wife, and the Heirs of their bodies. It was Reſolved in that Caſe, That by the Acceptance of the new Eſtate the Copy-hold was de<g ref="char:EOLhyphen"/>termined.</p>
+               <p>If a Copy-holder doth ſurrender to<note place="margin">
+                     <hi>M. 29 Eliz. in C. B.</hi> Godb. 101.</note> him who hath a Leaſe for years of the
+<pb n="33" facs="tcp:31393:20"/> Manor to the Uſe of the ſame Leſſee, by that Act of his the Copy-hold-eſtate is extinct.</p>
+               <p>The Lord of a Manor ſold the Free-hold<note place="margin">
+                     <hi>P. 30 Eliz. B. R.</hi> Leon. 1. part, 102. <hi>Wakeſield</hi>'s Caſe.</note> of a Copy-hold unto another, and ſo it was divided from the Manor; and af<g ref="char:EOLhyphen"/>terwards the Copy-holder did releaſe to the Purchaſor. It was the opinion of the Juſtices, That by this Releaſe the Copy-hold was gone and extinct. But in that Caſe it was ſaid, That if a Copy-holder be ouſted, ſo as the Lord of the Manor is diſſeiſed, and the Copy-holder releaſeth to the Diſſeiſor, <hi>Nihil operatur</hi> by ſuch Releaſe.</p>
+               <p>A Copy-holder had common by Uſage in the Waſtes of the Lord as to his Meſ<g ref="char:EOLhyphen"/>ſuage and Lands belonging: The Copy-hold comes to the Lord, who after grants the ſame to the Copy-holder <hi>cum per<g ref="char:EOLhyphen"/>tinentiis.</hi> In this Caſe it was holden, That theſe words, <hi>viz. (cum pertinentiis)</hi> could not create a new Common, and the Com<g ref="char:EOLhyphen"/>mon firſt holden was by Cuſtome annex<g ref="char:EOLhyphen"/>ed to the Cuſtomary Eſtate, and was ab<g ref="char:EOLhyphen"/>ſolutely extinguiſhed.</p>
+               <p>If there be Leſſee for life, the Remain<g ref="char:EOLhyphen"/>der<note place="margin">
+                     <hi>M. 9 Jac. in C. B.</hi> ad<g ref="char:EOLhyphen"/>judge. acc.</note> for life of a Copy-hold, and the firſt Tenant for life purchaſeth the Free-hold
+<pb n="34" facs="tcp:31393:21"/> of the Copy-hold, and afterwards levieth a Fine thereof, and five years paſs: It was adjudged, That in that Caſe by the Fine levied the Copy-hold was not gone nor deſtroyed, and that this Fine was not a Bar to him who was in Remainder in life of the Copy-hold.</p>
+               <p>There was Tenant for life of a Copy-hold:<note place="margin">
+                     <hi>P. 8 Jac. in Co. B. Moore</hi> and <hi>Ride<g ref="char:EOLhyphen"/>val</hi>'s Caſe.</note> The Lord granted the Reverſion of the Copy-hold after the determination of the particular Eſtate to another for 20 years: Afterwards the Copy-holder, who was Tenant for life, by Deed made a Leaſe for life of his Copy-hold, and made Live<g ref="char:EOLhyphen"/>ry, which was a Forfeiture of his Copy-hold-eſtate. It was the opinion of the Juſtices in that Caſe, That this Act of the Tenant for life was not a Determina<g ref="char:EOLhyphen"/>tion or an Extinguiſhment of the Copy-hold: For although it was a Determina<g ref="char:EOLhyphen"/>tion of the particular Eſtate of the Co<g ref="char:EOLhyphen"/>py-holder, and that he in the Remain<g ref="char:EOLhyphen"/>der might enter; yet the Land remained Copy-hold as it was before.</p>
+               <p>The Cuſtome of a Manor is, That if<note place="margin">
+                     <hi>3 Jac. in B. R. Laſhmor</hi> and <hi>Averi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>'s Caſe, <hi>Cro.</hi> 2. part.</note> a Copy-holder in Fee dieth ſei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, his Wife ſhall hold the Land during her life as Free-Bench: The Lord enfeoffeth the Copy-holder of the Land. It was ad<g ref="char:EOLhyphen"/>judged,
+<pb n="35" facs="tcp:31393:21"/> That ſhe ſhould not hold the Land for her life as Free-Bench, but it was gone by the Purchaſe. Contrary, if the Lord had infeoffed a Stranger of the Land.</p>
+               <p>
+                  <hi>C</hi> purchaſed a Copy-hold from <hi>A</hi>
+                  <note place="margin">
+                     <hi>Vid. 30 H.</hi> 8. Dyer, acc.</note> Lord of the Manor, to him and his Wife and their Child for their lives: After<g ref="char:EOLhyphen"/>wards <hi>A</hi> by Indenture granted the Free<g ref="char:EOLhyphen"/>hold to <hi>B</hi> for life, rendring Rent, and made Livery: And afterwards <hi>A</hi> levied a Fine <hi>ſur Conuſans de droit,</hi> &amp;c. to <hi>C</hi> of the ſame Lands, who afterwards accep<g ref="char:EOLhyphen"/>ted of the Rent from <hi>B.</hi> It was holden in that Caſe, That by the Acceptance of the Rent from <hi>B</hi> the Copy-hold of <hi>C</hi> was deſtroyed and determined.</p>
+               <p>Note, If a Copy-holder takes a Leaſe<note place="margin">M. 15 &amp; 16 Eliz. in Co. B.</note> for years of his Copy-hold-lands, the Copy-hold is determined: and ſo it is, if the Lord leaſeth a Copy-hold for years which is eſcheated, the Copy-hold is determined. But if a Copy-holder pur<g ref="char:EOLhyphen"/>chaſeth the Manor, the Copy-hold is not determined, but ſuſpended, becauſe there is no Interruption, but it is able to be gran<g ref="char:EOLhyphen"/>ted again, becauſe by the Cuſtome it ſuf<g ref="char:EOLhyphen"/>ficeth that it hath been demiſed and de<g ref="char:EOLhyphen"/>miſable.</p>
+            </div>
+         </div>
+         <div n="9" type="section">
+            <pb n="36" facs="tcp:31393:22"/>
+            <head>SECT. IX.</head>
+            <argument>
+               <p>Of Forfeitures of Copy-holds and Copy-hold-eſtates; and what Acts or things done by the Copy-holder ſhall amount unto or be adjudged a Forfeiture of the Co<g ref="char:EOLhyphen"/>py-holder's Eſtate, what not.</p>
+            </argument>
+            <p>THE general Grounds of Forfeitures of Copy-holds, or of their Eſtates, are declared in the former part of this Treatiſe, unto which I ſhall refer you. That which I ſhall now ſay is but by way of Amplification of thoſe Grounds, with ſome Judgments and Authorities in ſeve<g ref="char:EOLhyphen"/>ral Caſes upon ſundry differences. All Forfeitures may be reduced unto theſe Heads: Either voluntary Acts done to the prejudice of the Lord, or negligent or wilfull refuſall to doe and pay his Duties and Services to the Lord, which by the Laws and Cuſtomes of the Manor he ought to doe and perform.</p>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>A Copy-holder makes a Leaſe either<note place="margin">
+                     <hi>Coke</hi> 4. part, <hi>Murrel</hi>'s Caſe.</note> for life or years of his Copy-hold-lands,
+<pb n="37" facs="tcp:31393:22"/> which is not warranted by the Cuſtome of the Manor: now although ſuch Leaſe ſhall be a good Leaſe as betwixt the Co<g ref="char:EOLhyphen"/>py-holder and his Leſſee, and he ſhall not avoid his own Leaſe; yet as unto the Lord it is a Forfeiture of the Copy-hold and of his Eſtate, and the Lord ſhall take advantage of ſuch Forfeiture, and may enter upon the Lands leaſed.</p>
+               <p>So if a Copy-holder makes a Leaſe of<note place="margin">
+                     <hi>H. 37 Eliz. Eaſt</hi> and <hi>Harding</hi>'s Caſe.</note> his Copy-hold for 3 years by word, to begin at <hi>Michaelmas</hi> or at a day to come; although it is a good Leaſe as betwixt the parties to it, yet it is a Forfeiture of the Copy-hold to the Lord; and ſo it was holden <hi>Hil. 37 Eliz.</hi> in <hi>Eaſt</hi> and <hi>Har<g ref="char:EOLhyphen"/>ding</hi>'s Caſe.</p>
+               <p>A Copy-holder of a Manor made a<note place="margin">
+                     <hi>P. 10 Jac. in Co. B.</hi> the Lady <hi>Moun<g ref="char:EOLhyphen"/>tague</hi>'s Caſe, <hi>Cro.</hi> 2. part, acc.</note> Leaſe of his Free-hold-lands for 10 years, and, to avoid a Forfeiture, made a Leaſe of his Copy-hold-lands for one year; but covenanted with his Leſſee, that he ſhould enjoy the Copy-hold-lands <hi>de anno in annum,</hi> during the 10 years. It was the opinion of the Juſtices in this Caſe, That becauſe this Demiſe of the Copy-holder was but for one year, and ſo warranted both by Law and Cuſtome, and it was but onely a Covenant on the part of the Leſſee that
+<pb n="38" facs="tcp:31393:23"/> he ſhould hold it for a longer time, that this was no Forfeiture, although the Lord pretended the ſame to be a Forfei<g ref="char:EOLhyphen"/>ture.</p>
+               <p>The Lord licenſed his Copy-holder to<note place="margin">
+                     <hi>M. 27 Eliz. in Co. B.</hi> by <hi>Anderſon.</hi> Moore 184.</note> make a Leaſe of his Copy-hold-lands for 21 years, to begin at <hi>Michaelmas</hi> follow<g ref="char:EOLhyphen"/>ing: The Copy-holder by Indenture made a Leaſe accordingly; but afterwards, before <hi>Michaelmas,</hi> he made another Leaſe by Indenture to another perſon, to begin at <hi>Michaelmas</hi> following. It was the opinion of the Lord <hi>Anderſon</hi> Chief Juſtice, <hi>Mich. 27 Eliz. in Co. B.</hi> That the making of this ſecond Leaſe, being without the Licence of the Lord, was a Forfeiture of his Copy-hold.</p>
+               <p>A Copy-holder for life hath Licence<note place="margin">
+                     <hi>M. 15 Jac. in B. R. Wor<g ref="char:EOLhyphen"/>lidge</hi> and <hi>Banburie</hi>'s Caſe, <hi>Cro.</hi> 2. part.</note> of the Lord to make a Leaſe for 3 years, if he ſo long live, and he makes a Leaſe for 3 years without ſuch Limitation. It was holden to be no Forfeiture of his Eſtate in the Copy-hold, becauſe the Law makes ſuch a Limitation to the Eſtate which he makes, that it ſhall continue but during his life. But if he had been a Copy-holder in Fee, it had been a For<g ref="char:EOLhyphen"/>feiture of his Eſtate to have made ſuch an abſolute Leaſe, becauſe he had done more
+<pb n="39" facs="tcp:31393:23"/> then he was licenſed to doe by the Law. And ſo it was adjudged in <hi>Hall</hi> and <hi>Ar<g ref="char:EOLhyphen"/>rowſmith</hi>'s Caſe, which ſee in <hi>Popham</hi>'s Reports, 185.</p>
+               <p>If a Copy-holder without Licence of<note place="margin">
+                     <hi>M. 8 Jac. in B R. Ward</hi>'s Caſe.</note> the Lord doth erect a new Houſe upon his Copy-hold-lands, ſome opinion hath been, That the ſame is a Forfeiture of his E<g ref="char:EOLhyphen"/>ſtate. But I doubt much of that Caſe, becauſe the Act done is for the benefit and advantage of the Lord, and not to his Prejudice. <hi>Quere</hi> of it.</p>
+            </div>
+         </div>
+         <div n="10" type="section">
+            <head>SECT. X.</head>
+            <argument>
+               <p>Where deniall or refuſall to pay his Rent, Fine, or to doe his other Cuſtomes and Services, ſhall be a Forfeiture of his Copy-hold and Copy-hold-eſtate, and where not.</p>
+            </argument>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>A Copy-holder in Fee was ſeiſed of<note place="margin">
+                     <hi>H. 33 Eliz. Criſpe</hi> and <hi>Fryer</hi>'s Caſe in <hi>Moore.</hi>
+                  </note> Land rendring Rent at <hi>Michaelmas</hi> and our <hi>Lady-day.</hi> The Lord at the laſt inſtant of the day of payment demanded the Rent upon the Land, and the Copy-holder was not there, nor any for him, to pay it. It was a Queſtion, if his Non<g ref="char:EOLhyphen"/>payment of the Rent was a Forfeiture of
+<pb n="38" facs="tcp:31393:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="39" facs="tcp:31393:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="40" facs="tcp:31393:25"/> his Copy-hold or not. And the better opinion of the Court ſeemed to be, That it was a Forfeiture, becauſe the Copy-holder was to take peremptory notice of the day of payment of his Rent, and his not being there ſeemed to imply that it was a voluntary Denial, or Refuſal at the leaſt, of doing the ſame. But <hi>Quere</hi> of it; for it was Reſolved in another Caſe, <hi>Tr. 21 Jac. in C. B.</hi> That<note place="margin">Tr. 21 Jac. in Co. B.</note> not payment of Rent, or of the Fine upon Admittance to his Copy-hold, was no Forfeiture of his Copy-hold-eſtate, without there was ſome expreſs verbal Denial of it, which there was not in this Caſe.</p>
+               <p>A Copy-holder ſeiſed by force of ſe<g ref="char:EOLhyphen"/>veral<note place="margin">
+                     <hi>M. 37 Eliz. B. R. Taver<g ref="char:EOLhyphen"/>nor</hi> and Lord <hi>Crom<g ref="char:EOLhyphen"/>wel</hi>'s Caſe, <hi>Cro.</hi> 1. part.</note> Copies of <hi>Black-acre</hi> by the Rent of <hi>4d, White-acre</hi> by the Rent of <hi>4d,</hi> and <hi>Green-acre</hi> by the Rent of <hi>6d,</hi> denied the Rent of <hi>Black-acre.</hi> In that caſe it was holden to be a Forfeiture of that Acre, but no Forfeiture of the other two Acres, be<g ref="char:EOLhyphen"/>cauſe, although they were all in one hand, yet becauſe they were holden by ſeveral Rents, the Forfeiture of the one Acre can<g ref="char:EOLhyphen"/>not be the Forfeiture of the other two Acres.</p>
+               <p>No Fine is either due or payable to
+<pb n="41" facs="tcp:31393:25"/> the Lord, but either upon a Diſcent, or<note place="margin">
+                     <hi>Vid. Coke</hi> 4. part, 28. in <hi>Sands</hi> Caſe.</note> upon an Admittance. But if ſuch a Co<g ref="char:EOLhyphen"/>py-holder upon his Admittance ſhall make an abſolute Refuſal to pay the Fine to the Lord, the ſame is a Forfeiture of his Co<g ref="char:EOLhyphen"/>py-hold and of his Eſtate. But there ſuch a Fine muſt be reaſonable. For if the Fine aſſeſſed by the Lord be an unreaſo<g ref="char:EOLhyphen"/>nable Fine, (of which the Judges ſhall determine) a Refuſal or Denial of the Copy-holder to pay the ſame ſhall be no Forfeiture of his Eſtate or Copy-hold.</p>
+               <p>Note, It was Reſolved by the Juſtices,<note place="margin">
+                     <hi>M. 43 Eliz. Dalton</hi> and <hi>Hamond</hi>'s Caſe, <hi>Moor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 622.</hi>
+                  </note> That if the Lord demandeth an unrea<g ref="char:EOLhyphen"/>ſonable Fine of his Copy-holder, and he refuſeth to pay it, it is no Forfeiture; otherwiſe where it is a reaſonable Fine. If a Fine be certain, the Tenant is to bring it with him to the Court, and to pay it before Admittance; and if he be not ready to pay it, it is a Forfeiture, and ſo it was adjudged. But what ſhall be a reaſonable Fine or an unreaſonable Fine, ought to be determined <hi>per arbitrium bo<g ref="char:EOLhyphen"/>ni viri;</hi> and the Court and Juſtices of it ſhall be Judges of the Reaſonableneſſe of the ſame, if it be pleaded that the Fine demanded by the Lord, or the
+<pb n="42" facs="tcp:31393:26"/> Diſtreſs for it, be unreaſonable or exceſ<g ref="char:EOLhyphen"/>ſive.</p>
+               <p>A Copy-holder ſeiſed of Copy-hold-lands<note place="margin">
+                     <hi>M. 6 Jac. in C. B. Wil<g ref="char:EOLhyphen"/>lowes</hi> and <hi>Willowes</hi> Caſe, <hi>Coke</hi> Select Caſes.</note> of the yearly value of <hi>53s. 4d. per annum,</hi> and no more, ſurrendred them into the hands of the Lord of the Manor to the Uſe of <hi>J S</hi> and his Heirs: The Cuſtome of the Manor was, That upon the Admiſſion of any perſon a reaſonable Fine ſhall be aſſeſſed by the Lord or his Steward to be paid. The Steward at the Court holden for the ſaid Manor aſſeſſed a Fine of <hi>5l. 6s. 8d.</hi> (the value of the Lands for 2 years) to be paid by <hi>J S</hi> for a Fine; which Fine being requeſted of him by the Lord to pay, he refuſed to pay the ſame; whereupon the Lord en<g ref="char:EOLhyphen"/>tred upon the Lands for a Forfeiture. In which Caſe theſe Points were Reſolved. 1. That if the Fine aſſeſſed had been rea<g ref="char:EOLhyphen"/>ſonable, yet a certain time was to be ſet, and a certain place where it ſhould be paid: for it ſhall not be intended that the Tenant hath ſufficient Money about him to pay a Fine which is uncertain to be aſſeſſed. 2. That the Fine aſſeſſed by the Steward was an unreaſonable Fine: and 3. That the Refuſal was no Forfei<g ref="char:EOLhyphen"/>ture.</p>
+               <pb n="43" facs="tcp:31393:26"/>
+               <p>If the Fine of a Copy-holder be aſ<g ref="char:EOLhyphen"/>ſeſſed<note place="margin">
+                     <hi>H. 13 Jac. C. B. Denny</hi> and <hi>Lemon</hi>'s Caſe, <hi>Hob. 135. Co.</hi> 11. part, <hi>God<g ref="char:EOLhyphen"/>frie</hi>'s Caſe acc.</note> by the Lord or his Steward, be the Fine reaſonable or unreaſonable, the Lord muſt demand the Fine of the Copy-hol<g ref="char:EOLhyphen"/>der before he can enter upon the Copy-hold for not payment thereof, and the Reaſonableneſſe or Unreaſonableneſſe thereof ſhall be adjudged by the Court.</p>
+               <p>Lands being Cuſtomary Lands, and<note place="margin">
+                     <hi>P. 30 Eliz. B. R. Aumo<g ref="char:EOLhyphen"/>ry</hi> and <hi>Eves</hi> Caſe, <hi>Leon.</hi> 1 part, 100.</note> by the Cuſtome diſcendable to the youn<g ref="char:EOLhyphen"/>ger Son, the Father died, the younger Son being of the age of 2 years: Thir<g ref="char:EOLhyphen"/>ty years incurred after the death of the Father, and no Court had been holden for the Lord of the Manor: But in the in<g ref="char:EOLhyphen"/>terim the younger Son had made a Leaſe of the Lands to a Stranger; and after, at the next Court holden for the Manor, he came into Court and prayed to be ad<g ref="char:EOLhyphen"/>mitted, but the Steward refuſed to admit him. It was holden in this Caſe, That the Leaſe made by him was good, and that there was no negligence in him to be admitted to the Copy-hold-eſtate; for that it was holden in this Caſe, That if a Copy-holder dieth, his Heir within age, he is not bound to come at any Court during his Nonage to pray Admittance, or to tender his Fine for the ſame; and
+<pb n="44" facs="tcp:31393:27"/> if the death of the Anceſtor be not pre<g ref="char:EOLhyphen"/>ſented, nor Proclamations made that the Heir come in to take up the Land and pay his Fine, the Heir ſhall not forfeit his Land for ſuch neglect, although he be of full age.</p>
+               <p>If the Homagers in a Court-Baron<note place="margin">
+                     <hi>4 Eliz.</hi> Dyer 211.</note> being Copy-holders do refuſe to make their Preſentments, it is a Forfeiture of their Copy-holds: and ſo it was Reſolved to be by both the Chief Juſtices in the <hi>Star-Chamber</hi> in the Earl of <hi>Arundel</hi>'s Caſe.</p>
+               <p>A Copy-holder came not to the Lord's<note place="margin">
+                     <hi>H. 13 Jac. B. R. Bel<g ref="char:EOLhyphen"/>field</hi> and <hi>A<g ref="char:EOLhyphen"/>dams</hi> Caſe, <hi>Bulſtr.</hi> 3. part, 81.</note> Court of the Manor to doe his Suit and Service by the ſpace of 3 years toge<g ref="char:EOLhyphen"/>ther. The Queſtion was, if it was a ſuf<g ref="char:EOLhyphen"/>ficient cauſe of Forfeiture of his Copy-hold. It was ſaid by the Court, That it was no cauſe of Forfeiture, if a Warning be not given by the Lord of the time of his Court to be holden, and no<g ref="char:EOLhyphen"/>tice thereof given to the Copy-holder himſelf; and the withdrawing of his Suit by a Copy-holder is onely fineable: but if he doth deny to doe his Suit and Ser<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e, then it is a Forefeiture of his Copy-hold: and ſo was it adjudged <hi>M. 14 Jac. in B. R.</hi> in <hi>Hammond</hi> and <hi>Winibank</hi>'s Caſe.</p>
+               <pb n="45" facs="tcp:31393:27"/>
+               <p>Summons was given at the Church<g ref="char:EOLhyphen"/>door<note place="margin">
+                     <hi>H. 36 Eliz. in Co. B.</hi> Godb. 142.</note> for a Copy-holder to appear at the Lord's Court, and doe his Suit and Ser<g ref="char:EOLhyphen"/>vice; upon which Summons he did not<note place="margin">
+                     <hi>Vid. M. 30 Eliz. C. B.</hi> Sir <hi>John Bruanche</hi>'s Caſe, <hi>Leon.</hi> 1 part, 104. Where gene<g ref="char:EOLhyphen"/>ral Warning of a Copy-holder to appear at the Lord's Court given with<g ref="char:EOLhyphen"/>in the Pariſh ſhall be ſuf<g ref="char:EOLhyphen"/>ficient, where not.</note> appear. The Doubt was, if it was a cauſe of Forfeiture of his Copy-hold. It was the opinion of the whole Court, That it was no cauſe of Forfeiture of his Copy-hold, becauſe that it was not ſhewed that it was the Cuſtome to make ſuch Sum<g ref="char:EOLhyphen"/>mons: and the Court ſaid, That it were hard to make it a Forfeiture, becauſe per<g ref="char:EOLhyphen"/>haps the Copy-holder had not Notice of it: and they held that in ſuch caſe Notice muſt be given to the perſon, and his Re<g ref="char:EOLhyphen"/>fuſall muſt be a wilfull Refuſall.</p>
+               <p>The Cuſtome of a Manor was, That if<note place="margin">
+                     <hi>H. 25 Eliz. in B. R. Borneford</hi> and Sir <hi>John Packington</hi>'s Caſe, <hi>Leon.</hi> 1. part, 1.</note> a Copy-holder died ſeiſed, his Wife ſhould hold his Lands as her Free-Bench, and be admitted Tenant, and that the Son ſhould not be admitted Tenant during the life of his Mother: and farther the Cu<g ref="char:EOLhyphen"/>ſtome was, That if any Copy-holder com<g ref="char:EOLhyphen"/>mitted Felony, and it were preſented by the Homage, that the Lord might ſeize the Copy-hold as forfeit: The Copy-holder died; his Wife was admitted to her Free-Bench: The Son committed Fe<g ref="char:EOLhyphen"/>lony; the Wife died. The Queſtion
+<pb n="46" facs="tcp:31393:28"/> was, if the Lord might ſeize the Copy-hold as forfeit. It was objected, He could not, for that the Son was not Te<g ref="char:EOLhyphen"/>nant at the time of the Forfeiture com<g ref="char:EOLhyphen"/>mitted, and ſo the Lord could not then ſeize, and the Cuſtome ſhould be taken ſtrictly. But notwithſtanding it was Re<g ref="char:EOLhyphen"/>ſolved, That the Lord ſhould have the Land as forfeit, and that the Son was a Copy-holder within the Intent of the Cu<g ref="char:EOLhyphen"/>ſtome.</p>
+               <p>If Husband and Wife be Joynt-Copy-holders of the purchace of the Husband; during the Coverture the Husband is at<g ref="char:EOLhyphen"/>tainted of Felony, and dieth: It is no Forfeiture of any part of the Copy-hold. But if the Purchace be made before the Coverture, then it is a Forfeiture of the moyety.</p>
+               <p>The King being Lord of a Manor, a<note place="margin">
+                     <hi>M. 5 Jac. in Scaceario,</hi> Godb. 269.</note> Copy-holder within the Manor made a Leaſe of his Copy-hold for 3 Lives; and the ſurviving Tenant for life continued the poſſeſſion of the Lands for 40 years. Though the making of ſuch a Leaſe for 3 Lives was in Law a Forfeiture of the Copy-hold; yet becauſe it did not ap<g ref="char:EOLhyphen"/>pear upon the Endorſement of the Deed that Livery was made, it was holden, That
+<pb n="47" facs="tcp:31393:28"/> the King could not take advantage of the Forfeiture.</p>
+               <p>If a Copy-holder doth bargain and ſell his Copy-hold-lands by Deed indented and enrolled, it was Reſolved, The ſame was no cauſe of Forfeiture of the Copy-hold of which the Lord can take advan<g ref="char:EOLhyphen"/>tage, becauſe the Copy-hold did not paſs by the Deed: and ſo it was ſaid it was adjudged in <hi>London</hi>'s Caſe.</p>
+               <p>So, if a Copy-holder for life ſurren<g ref="char:EOLhyphen"/>dreth to the Uſe of another in Fee, and<note place="margin">
+                     <hi>35 Eliz. Bul<g ref="char:EOLhyphen"/>lock</hi>'s Caſe.</note> beſides that makes Livery of the Land; this is no Forfeiture of his Copy-hold, becauſe the Eſtate paſſeth by the Surren<g ref="char:EOLhyphen"/>der, and not by the Livery.</p>
+               <p>If a Copy-holder for life cuts down Timber-trees, it is a Forfeiture of his Co<g ref="char:EOLhyphen"/>py-hold: and ſo it was adjudged in <hi>Bel<g ref="char:EOLhyphen"/>field</hi> and <hi>Adams</hi> Caſe. But if a Copyhol<g ref="char:EOLhyphen"/>der makes a Leaſe for years, and the Leſ<g ref="char:EOLhyphen"/>ſee cuts down Timber-trees, or commits other Waſte upon the Copy-hold-lands, the Lord cannot enter upon the Land for a Forfeiture; but in ſuch caſe the Lord is put to his Action upon the Caſe againſt the Wrong-doer.</p>
+            </div>
+         </div>
+         <div n="11" type="section">
+            <pb n="48" facs="tcp:31393:29"/>
+            <head>SECT. XI.</head>
+            <argument>
+               <p>Where the Act of the Lord, and what Act of his, ſhall diſpenſe with a Forfeiture made by his Copy-holder; where and what not.</p>
+            </argument>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>A Copy-holder commits Waſte, and af<g ref="char:EOLhyphen"/>ter<note place="margin">
+                     <hi>Paſc. 5 Jac. Cro.</hi> 2. part, <hi>Mantlie</hi> and <hi>Willington</hi>'s Caſe.</note> the Waſte done, the Lord ac<g ref="char:EOLhyphen"/>cepts of the Rent from the hands of the Copy-holder. <hi>Quere</hi> if it ſhall bar him to enter for the Forfeiture. It is a <hi>Quere</hi> not Reſolved.</p>
+               <p>If Lands be demiſable to two by Copy<note place="margin">
+                     <hi>P. 5 Eliz.</hi> Moore 49.</note> for life <hi>ſucceſſivè,</hi> and the Cuſtome of the Manor is, that they may not cut Trees: if the firſt of them cutteth down Trees, it is a Forfeiture both of the Eſtate of the preſent Tenant for life, and of the Eſtate of the other in Remainder over.</p>
+               <p>If a Copy-holder levies a Fine, makes a Feoffment, or ſuffers a common Re<g ref="char:EOLhyphen"/>covery which deſtroys the Eſtate: in ſuch caſe no Acceptance of the Rent, or Act done by the Lord, ſhall be available to make the Eſtate again good. But where the Cuſtome of the Manor onely is bro<g ref="char:EOLhyphen"/>ken;
+<pb n="49" facs="tcp:31393:29"/> as if the Copy-holder makes a Leaſe of his Copy-hold-lands for more years then one year, or denies to pay his Rent, or denies to be ſworn of the Homage, or commits Waſte: there his Eſtate may be afterwards confirmed, and there and in ſuch caſe the Acceptance of the Rent by the Lord will amount to a Confirmati<g ref="char:EOLhyphen"/>on of the firſt Eſtate.</p>
+               <p>In ſome caſes, where an Eſtate of a Co<g ref="char:EOLhyphen"/>py-holder is forfeited by Law, yet by Cu<g ref="char:EOLhyphen"/>ſtome, and the Act of the Lord in his Court of the Manor, the Forfeiture may be mitigated, and the Land ſhall not be utterly forfeited or deſtroyed. As where the Cuſtome is, That for Waſte Copy-hold ſhall be forfeited, a Cuſtome for to amerce the Tenant for the Waſte done, and to diſtrain for the Amercement, will be a good Cuſtome to mitigate the Forfei<g ref="char:EOLhyphen"/>ture of the Copy-hold.</p>
+               <p>The Cuſtome of the Manor where Co<g ref="char:EOLhyphen"/>py-hold-tenements<note place="margin">
+                     <hi>17 Car. in B. R. Thorne</hi> and <hi>Tyler</hi>'s Caſe.</note> were demiſable for lives was, That if any ſuch Copy-holder ſuffered his Meſſuage to be ruined for want of Repairing, or by committing of Waſte, if the ſame was preſented by the Homage, the Lord uſed to di<g ref="char:EOLhyphen"/>ſtrain the Cattel as well of the Copy-holder
+<pb n="50" facs="tcp:31393:30"/> himſelf as of his Under-tenant levant and couchant upon the Lands for the ſaid Amercement. It was objected, That the Cuſtome was not good, for that it was an unreaſonable Cuſtome, that the Under-tenant ſhould be puniſhed for the offence of the Copy-holder, for the Under<g ref="char:EOLhyphen"/>tenant is a Stranger to the Cuſtome, and Cuſtomes ſhould be taken ſtrictly. But it was Reſolved that the Cuſtome was good: For by the Law, the ſuffering of the Co<g ref="char:EOLhyphen"/>py-hold Meſſuage to fall to ruine, or to be waſted, was a Forfeiture of the Copy-hold, and the Cuſtome did abridge and mitigate the Forfeiture, and the Under<g ref="char:EOLhyphen"/>tenant for a year was a Tenant to the Lord, and diſtrainable for the Rents and Services, and the Charge lies upon the Land, and not upon the perſon; and there<g ref="char:EOLhyphen"/>fore it was Adjudged, That the Cuſtome was good, and the Amercement lawfull, and the Diſtreſs of the Cattel of the Un<g ref="char:EOLhyphen"/>der-tenant levant upon the Land was law<g ref="char:EOLhyphen"/>full, all of them being by the Act of the Lord in his Court, and by the Cuſtome of the Manor, in mitigation of the For<g ref="char:EOLhyphen"/>feiture of the Land, and ſo for the good of the Copy-holder.</p>
+            </div>
+         </div>
+         <div n="12" type="section">
+            <pb n="51" facs="tcp:31393:30"/>
+            <head>SECT. XII.</head>
+            <argument>
+               <p>Whether Copy-hold-lands be within the Sta<g ref="char:EOLhyphen"/>tute of <hi>Weſtm. 2.</hi> and may be entailed, or not; and where and by what Acts the Iſſues in tail may be barred; and what ſhall be a Diſcontinuance of the Eſtate, what not.</p>
+            </argument>
+            <p>WHether Copy-hold-lands are with<g ref="char:EOLhyphen"/>in the Statute of <hi>Weſt. 2. cap. 1. de Donis, &amp;c.</hi> or may be entailed, hath been much controverted, and many Judg<g ref="char:EOLhyphen"/>ments and Reſolutions have been on both ſides; and it ſeemeth to be a Point not fully agreed upon at this day. I ſhall therefore make ſome little mention what hath been ſaid on either ſide, and leave it to the judgement of others. And firſt for the Affirmative part, That Copy-holds are within the ſaid Statute, and may be entailed, I ſhall begin with Mr. <hi>Lit<g ref="char:EOLhyphen"/>tleton</hi> himſelf. Tenant by Copy of Court-Roll is, ſaith he, where there is a Cu<g ref="char:EOLhyphen"/>ſtome in a Manor time out of mind uſed, that certain Tenants within the ſaid Ma<g ref="char:EOLhyphen"/>nor have uſed to have Lands and Tene<g ref="char:EOLhyphen"/>ments
+<pb n="52" facs="tcp:31393:31"/> to them and their Heirs in Fee<g ref="char:EOLhyphen"/>ſimple or in Fee-tail: and in that Chap<g ref="char:EOLhyphen"/>ter he particularly ſets forth the manner of Grants of ſuch Eſtates, <hi>viz. Ad hanc Curiam venit</hi> A <hi>de</hi> B, <hi>&amp; ſurſumreddi<g ref="char:EOLhyphen"/>dit in manus Domini, &amp;c. unum Meſſua<g ref="char:EOLhyphen"/>glum, &amp;c. ad uſum</hi> C <hi>de</hi> D, <hi>&amp; Haeredum ſuorum, vel Haeredum de corpore ſuo exeunt. Habendum ſibi &amp; Haeredibus de corpore ſuo exeunt. &amp;c.</hi> By which it appeareth to be the opinion of Mr. <hi>Littleton,</hi> that an Eſtate may and might be of Copy-hold-lands. And herewith agreeth the opini<g ref="char:EOLhyphen"/>on of Mr. <hi>Plowden</hi> in his Commentaries in <hi>Morgan</hi> and <hi>Manxell</hi>'s Caſe. But note, that the opinion of Mr. <hi>Littleton</hi> is, That there muſt be a Cuſtome of the Manor to enable ſuch Eſtates of Co<g ref="char:EOLhyphen"/>py-hold-lands.</p>
+            <p>It is ſaid in <hi>Coke</hi> 3. part, in <hi>Heydon</hi>'s Caſe, That where an Act of Parliament doth alter the Service, Tenure or Inte<g ref="char:EOLhyphen"/>reſt of the Eſtate, either in prejudice of the Lord or of the Cuſtome of the Ma<g ref="char:EOLhyphen"/>nor, or in prejudice of the Tenants, there ſuch an Act of Parliament doth not ex<g ref="char:EOLhyphen"/>tend to Copy-holds. And therefore the Statute of <hi>Weſtm. 2. de Donis,</hi> becauſe it extendeth to the Alteration of the Ser<g ref="char:EOLhyphen"/>vice
+<pb n="53" facs="tcp:31393:31"/> and Tenure of the Land, and is pre<g ref="char:EOLhyphen"/>judicial to the Lord of the Manor, doth not extend to Copy-holds. But in that Caſe it is agreed, That by a ſpecial Cu<g ref="char:EOLhyphen"/>ſtome Lands might be entailed; for that it might be, that upon the creation of the Ma<g ref="char:EOLhyphen"/>nors Lands were given by Lords of Ma<g ref="char:EOLhyphen"/>nors to hold by their Tenants by parti<g ref="char:EOLhyphen"/>cular Services and for particular Uſes; <hi>viz.</hi> to ſome to them and their Heirs in Fee-ſimple, to ſome others to hold to them and the Heirs of their bodies begotten, and to ſome others for particular Eſtates, as for life, <hi>&amp;c.</hi> and ſuch Eſtates having continued in their Iſſues time out of mind, Cuſtome hath now enabled ſuch Eſtates to be of Copy-holds in tail: and although they have and enjoy ſuch their Eſtates, be it either Fee-ſimple or Fee<g ref="char:EOLhyphen"/>tail, yet it is but <hi>ſecundùm Conſuetudi<g ref="char:EOLhyphen"/>nem Manerii:</hi> and therefore and for theſe Reaſons and cauſes, although that Co<g ref="char:EOLhyphen"/>py-hold be not or could not be entailed within the general words of the Statute <hi>de Donis, &amp;c.</hi> yet by Cuſtome time out of mind uſed, they ſay that Copy-holds may be entailed.</p>
+            <p>36 <hi>Eliz.</hi> in the <hi>King's Bench,</hi> it was Adjudged, That where the Cuſtome of
+<pb n="54" facs="tcp:31393:32"/> the Manor was, that Lands might be gran<g ref="char:EOLhyphen"/>ted unto any in Fee-ſimple, in ſuch caſe a Grant of Lands unto a man and the Heirs of his bodie was within the Cuſtome: For a Cuſtome which extendeth to the greater will extend to the leſſer Eſtate.</p>
+            <p>Tenant in tail of a Copy-hold ſurrendred<note place="margin">
+                  <hi>M. 15 Jac. Lee</hi> and <hi>Brown</hi>'s Caſe, <hi>Poph. 128.</hi>
+               </note> the ſame into the hands of the Lord, to the Uſe of <hi>J S, &amp;c.</hi> In that Caſe 2 Queſtions did ariſe. 1. If Copy-holds were within the Statute <hi>de Donis, &amp;c.</hi> 2. Whether the Tail might be cut off by a Surrender. The Court doubted of the firſt Point; but the better opinion ſeemed to be, That the Statute co-operating with the Cuſtome, they might be entailed.</p>
+            <p>A Copy-holder had Iſſue 3 Sons, <hi>A,</hi>
+               <note place="margin">
+                  <hi>H. 31 Eliz. B. R. Bullein</hi> and <hi>Graun<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>'s Caſe, <hi>Leon.</hi> 1. part, 174.</note> 
+               <hi>B,</hi> and <hi>C,</hi> and ſurrendred his Copy-hold-lands to the Uſe of his laſt Will, and thereby declared the ſame to be to the Uſe of his Wife for life, the Remainder to <hi>B</hi> his ſecond Son in tail, and after<g ref="char:EOLhyphen"/>wards to <hi>A</hi> in Fee. It was a Queſtion in this Caſe, if <hi>B</hi> had a Fee-ſimple conditi<g ref="char:EOLhyphen"/>onal in the Lands, or an Eſtate-tail. For if a conditional Fee, then a Remainder over of it could not be limited. It was the opinion of <hi>Wray</hi> Chief Juſtice, That it was an Eſtate-tail in <hi>B,</hi> and not a Fee
+<pb n="55" facs="tcp:31393:32"/> conditional, and that Cuſtomary Lands might be granted in tail.</p>
+            <p>A Surrender of Copy-hold-lands was<note place="margin">
+                  <hi>H. 34 Eliz. B. R. rot. 29<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Stanton</hi> and <hi>Barney</hi>'s Caſe.</note> made within the Manor of <hi>Stevenſon,</hi> to the Uſe of <hi>J S</hi> and the Heirs of his body; and after Iſſue, he ſurrendred the Lands unto another. It was agreed by all the Juſtices, That it was a Fee-ſimple con<g ref="char:EOLhyphen"/>ditional at the Common Law, and after Iſſue that he might alien the Lands.</p>
+            <p>A Copy-holder in Fee of the Manor<note place="margin">
+                  <hi>M. 36 Eliz. B. R. Gra<g ref="char:EOLhyphen"/>venor</hi> and <hi>Brook</hi>'s Caſe, <hi>Poph. 34.</hi>
+               </note> of <hi>Fairchilds</hi> and <hi>Preachers, 3 H.</hi> 8. ſur<g ref="char:EOLhyphen"/>rendred his Copy-hold-lands to the Uſe of his eldeſt Daughter for life, the Re<g ref="char:EOLhyphen"/>mainder to the eldeſt Son of the ſaid Daughter and the Heirs-males of his bo<g ref="char:EOLhyphen"/>dy, the Remainder to the right Heirs of <hi>A</hi> the Copy-holder in Fee. In this Caſe it was ſaid, That an Eſtate in Tail could not be of Copy-hold-lands. It was the opinion of <hi>Fenner</hi> and <hi>Popham,</hi> That by Equity of the Statute <hi>de Donis</hi> an Eſtate<g ref="char:EOLhyphen"/>tail might be of Copy-hold-lands, though not otherwiſe.</p>
+            <p>Now on the other ſide, That Copy-hold-lands cannot be entailed, nor are within the Statute <hi>de Donis, &amp;c.</hi> ſee theſe Caſes and Reſolutions following.</p>
+            <p>
+               <hi>H. 35 Eliz. in Co. B.</hi> it was Reſolved
+<pb n="56" facs="tcp:31393:33"/> by all the Juſtices, that Copy-holds were<note place="margin">
+                  <hi>H. 35 Eliz. in Co. B. Pitts</hi> and <hi>Huckley's</hi> Caſe.</note> not within the Statute of <hi>Weſtm. 2. de Do<g ref="char:EOLhyphen"/>nis:</hi> For if they were within that Statute, then the Lord ſhould not enter nor take advantage of the Forfeiture of the Copy-hold for Felony, (the contrary of which was Reſolved in <hi>Borneford</hi> and Sir <hi>John Packington</hi>'s Caſe) but the Donor, and the Services ſhould be done to the Donor, and not to the Lord of the Manor; which is againſt the nature of a Copy-hold-Te<g ref="char:EOLhyphen"/>nure.</p>
+            <p>The Caſe was, That a Copy-holder<note place="margin">
+                  <hi>Tr. 18 Jac. in Co. B. Royden</hi> and <hi>Moulſter</hi>'s Caſe, <hi>Cro.</hi> 3. part, 32, 33. <hi>Godb.</hi> 367. acc.</note> ſurrendred to the Uſe of one in Tail, there being no Cuſtome to warrant ſuch Sur<g ref="char:EOLhyphen"/>render. In this Caſe the Queſtion was, whether a Copy-hold might be entailed within the Statute <hi>de Donis.</hi> It was hol<g ref="char:EOLhyphen"/>den by all the Juſtices, That it could not be entailed within the Statute, and that for divers cauſes. 1. Becauſe it is not with<g ref="char:EOLhyphen"/>in the Letter of the Statute, which ſpeaks onely <hi>de Tenement is per Chartam datis:</hi> and Copy-holds cannot paſs by Deed, but by Surrender onely, as is agreed on all ſides. 2. Becauſe they are not within the mean<g ref="char:EOLhyphen"/>ing of the Statute, becauſe that before 7 <hi>E.</hi> 4. 19. they were not of any account in Law, being onely Eſtates at will of the
+<pb n="57" facs="tcp:31393:33"/> Lord <hi>ſecundùm Conſuetudinem Manerii.</hi> 3. Becauſe the ſaid Statute <hi>de Donis</hi> pro<g ref="char:EOLhyphen"/>vides onely againſt thoſe who might make Diſinheriſon by Fine or Recovery, which a Copy-holder there could not doe or make, becauſe that then upon ſuch Grants in Tail the Reverſion ſhould be left in themſelves, which could not be, being to the prejudice of the Lord of the Manor. And alſo 4. becauſe it would be very miſchievous, becauſe then there ſhould be no means to dock or cut off ſuch Entails, (common Recoveries and Fines not be<g ref="char:EOLhyphen"/>ing then in uſe) unleſs there were a ſpe<g ref="char:EOLhyphen"/>cial Cuſtome to that purpoſe.</p>
+            <p>Having thus declared and made men<g ref="char:EOLhyphen"/>tion of the ſeveral Caſes and Reſolutions in this much-controverted Point, Whe<g ref="char:EOLhyphen"/>ther Copy-hold may be entailed within the ſaid Statute <hi>de Donis, &amp;c.</hi> I ſhall not de<g ref="char:EOLhyphen"/>liver any abſolute opinion upon the ſame, although I do much incline to the Affir<g ref="char:EOLhyphen"/>mative part, being chiefly led thereunto by the opinion of Mr. <hi>Littleton,</hi> and by the Reſolution in <hi>Manxell</hi>'s Caſe, and of my Lord <hi>Coke</hi> in <hi>Heydon</hi>'s Caſe, and a late Reſolution in the ſaid Point, 42 <hi>Eliz.</hi> in <hi>Eriſh</hi> and <hi>Rives</hi> Caſe, where it was ad<g ref="char:EOLhyphen"/>judged in the Court of <hi>Common Pleas,</hi>
+               <pb n="58" facs="tcp:31393:34"/> upon an Evidence given in a Caſe of Copy-hold-lands within the Manor of <hi>Iſtleworth-Sion</hi> in the County of <hi>Middle<g ref="char:EOLhyphen"/>ſex;</hi> where it was Reſolved, That no E<g ref="char:EOLhyphen"/>ſtate-tail could be of a Copy-hold with<g ref="char:EOLhyphen"/>out a particular Cuſtome to warrant the ſame: but if there was ſuch a particu<g ref="char:EOLhyphen"/>lar Cuſtome within the Manor to warrant ſuch Eſtates, then by the Cuſtome co-o<g ref="char:EOLhyphen"/>perating with the Statute (as before is ex<g ref="char:EOLhyphen"/>preſſed) Copy-hold-lands might be well entailed within the ſaid Statute.</p>
+            <p>Admitting then that by an eſpecial Cu<g ref="char:EOLhyphen"/>ſtome of the Manor Lands may be entai<g ref="char:EOLhyphen"/>led; the next matter to be conſidered of is, By what and whoſe Acts the ſaid E<g ref="char:EOLhyphen"/>ſtate ſhall be either diſcontinued or bar<g ref="char:EOLhyphen"/>red, and what ſhall amount to a Diſcon<g ref="char:EOLhyphen"/>tinuance or a Bar to the Iſſue in Tail of ſuch Eſtate.</p>
+            <p>In 13 <hi>R.</hi> 2. ſits. Judgment 7. it is<note place="margin">
+                  <hi>13 R.</hi> 2. ſits. Judgment 7.</note> ſaid, That the Heir who is inheritable to the Copy-lands by Cuſtome may re<g ref="char:EOLhyphen"/>cover the ſame by Plaint in the Court of the Lord in the nature of an Aſſiſe of <hi>Mort-daunceſtor,</hi> but he ſhall not have an<note place="margin">
+                  <hi>15 H.</hi> 8. Te<g ref="char:EOLhyphen"/>nant by Co<g ref="char:EOLhyphen"/>py 24.</note> Aſſiſe of <hi>Novel Diſſciſin:</hi> And 15 <hi>H.</hi> 8. Tenant by Copy 24. The Heir of a Copy-holder Tenant in Tail ſhall re<g ref="char:EOLhyphen"/>cover
+<pb n="59" facs="tcp:31393:34"/> the Lands in a Formedon in the Diſcender.</p>
+            <p>The Cuſtome of a Manor was, That Plaints in the Court of the Lord of the Manor have uſed to be in real Actions. A Recovery was by Plaint in the nature of a real Action againſt a Copy-holder being Tenant in Tail, and a Recovery thereupon had. It was holden in that Caſe, That the ſaid Recovery ſhall be a Diſcontinuance to take away the En<g ref="char:EOLhyphen"/>try of the Heir in Tail, becauſe ſuch Plaints are warranted by the Cuſtome, and it is an Incident which the Law an<g ref="char:EOLhyphen"/>nexeth to the Cuſtome, That a Reco<g ref="char:EOLhyphen"/>very ſhall be a Diſcontinuance. But <hi>vide Tr. 36 Eliz. in B. R.</hi> in <hi>Deal</hi> and<note place="margin">
+                  <hi>36 Eliz. B. R. Deal</hi> and <hi>Rigden</hi>'s Caſe, <hi>Moore 358.</hi>
+               </note> 
+               <hi>Rigden</hi>'s Caſe. If it had been a Surrender in Court, it had been no Diſcontinu<g ref="char:EOLhyphen"/>ance.</p>
+            <p>In 27 <hi>Eliz.</hi> in a Caſe concerning the<note place="margin">
+                  <hi>M. 9 Car. in Co. B. Hill</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>p<g ref="char:EOLhyphen"/>churche</hi>'s Caſe, <hi>Brown<g ref="char:EOLhyphen"/>loe 121.</hi>
+               </note> Manor of <hi>Northhall</hi> in the County of <hi>Eſ<g ref="char:EOLhyphen"/>ſex,</hi> That if Copy-hold-lands might be entailed within the Statute of <hi>Weſtm.</hi> 2. then a Cuſtome of a Surrender of it ſhould be a Bar or a Diſcontinuance of ſuch E<g ref="char:EOLhyphen"/>ſtate; for as the Eſtate might be created by Cuſtome, ſo it might be diſcontinued by a Surrender by Cuſtome. And <hi>Tr.</hi>
+               <pb n="60" facs="tcp:31393:35"/> 38 <hi>Eliz. Field</hi> and <hi>Eliot</hi>'s Caſe, A Sur<g ref="char:EOLhyphen"/>render by Tenant in Tail of a Copy-holder in Fee makes a Diſcontinuance of it. But yet notwithſtanding thoſe Authorities and Caſes, I do conceive that a Surrender is no Diſcontinuance of a Copy-hold-eſtate in Tail.</p>
+            <p>If a man be ſeiſed of a Copy-hold in<note place="margin">
+                  <hi>H. 30 Eliz. B. R. Right</hi> and <hi>Foote<g ref="char:EOLhyphen"/>man</hi>'s Caſe, <hi>Leon.</hi> 1. part, 95.</note> the right of his Wife, or be Tenant in Tail of a Copy-hold, and he doth ſur<g ref="char:EOLhyphen"/>render to the Uſe of another in Fee: It was holden in that Caſe, That the ſame doth not make any Diſcontinuance of the Eſtate of the Wife or of the Eſtate-tail, but that the Wife or the Iſſue in Tail may reſpectively enter into and upon the Land. And according to this it was adjudged in <hi>Gravenor</hi> and <hi>Brook</hi>'s Caſe be<g ref="char:EOLhyphen"/>fore mentioned in 36 <hi>Eliz.</hi>
+            </p>
+            <p>Copy-hold-lands were entailed, and<note place="margin">
+                  <hi>37 Eliz. in C. B. Lane</hi> and <hi>Hil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>'s Caſe.</note> the Copy-holder ſurrendred the ſaid Lands to the Uſe of another man in Tail with divers Remainders over, and then he died. It was ſaid in this Caſe, That it was no Diſcontinuance of the Tail, but the Iſſue in Tail, notwithſtanding the Surrender, might enter. But it was ſaid in that Caſe, That if it were a Diſconti<g ref="char:EOLhyphen"/>nuance, that in ſuch caſe a <hi>Formedon</hi> in
+<pb n="61" facs="tcp:31393:35"/> the <hi>Reverter</hi> did not lie by the Tenant in Tail, becauſe when a Copy-holder makes a Gift in Tail, he hath no Reverſion, but a Poſſibility; and the Lord ſhall avow upon the Donee for the Rents and Ser<g ref="char:EOLhyphen"/>vices, and not upon the Donor.</p>
+            <p>In Treſpaſs it was adjudged, That a<note place="margin">
+                  <hi>H. 1 Jac. Oldcat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'s</hi> Caſe, <hi>Moore 753.</hi>
+               </note> Surrender by Tenant in Tail of a Copy-hold was not any Diſcontinuance of it, no more then a Surrender by Tenant for life to another in Fee was a Forfei<g ref="char:EOLhyphen"/>ture.</p>
+            <p>If an Enfant Tenant in Tail ſurren<g ref="char:EOLhyphen"/>dreth<note place="margin">
+                  <hi>H. 35 Eliz. Goales</hi> and <hi>Gran</hi>'s Caſe adjudge; acc<g ref="char:punc">▪</g>
+               </note> his Copy-hold-lands to the Uſe of a Stranger, who is admitted; the Enfant may enter at his full age, becauſe it was not a Bar nor a Diſcontinuance.</p>
+            <p>It is not to be diſputed or queſtioned whether a Common Recovery of Lands at the Common Law with Voucher over and Warranty be a Bar of Lands entailed: It is univerſally received by all Learned in the Laws of the Realm to be a Bar of ſuch an Eſtate, and the Inheritances of a great many perſons of Quality and others do depend upon ſuch Common Recoveries had and ſuffered. But then the Que<g ref="char:EOLhyphen"/>ſtion hath been, whether a Common Recovery had and ſuffered in the Court
+<pb n="62" facs="tcp:31393:36"/> of the Lord of the Manor ſhall be a Bar of an Eſtate of Copy-hold-lands entailed: and for that, it will ſtand upon this dif<g ref="char:EOLhyphen"/>ference, Where the Cuſtome of the Ma<g ref="char:EOLhyphen"/>nor hath always been, that ſuch a Reco<g ref="char:EOLhyphen"/>very there had ſhall be a Bar, where not. For without a ſpecial Cuſtome, I do con<g ref="char:EOLhyphen"/>ceive that by a Recovery had and ſuffered in the Court of the Lord of the Manor an Eſtate-tail of Copy-hold-lands cannot be barred: But where ſuch a Cuſtome is or hath been out of mind uſed, there I con<g ref="char:EOLhyphen"/>ceive that a common Recovery had and ſuffered in the Court of the Manor will bar an Eſtate in Tail of Copy-hold-lands. I ſhall onely put you two Judgments and Reſolutions to make good this difference, although many others may be alled<g ref="char:EOLhyphen"/>ged.</p>
+            <p>Upon a ſpecial Verdict in an Action<note place="margin">
+                  <hi>P. 37 Eliz. in B. R. Clun</hi> and <hi>Peaſe</hi>'s Caſe, <hi>Cro.</hi> 1. part.</note> of: Treſpaſs it was found, That the Lands were Copy-hold demiſable in Tail, with the Remainder over in Tail: That Te<g ref="char:EOLhyphen"/>nant in Tail in poſſeſſion ſuffered a Com<g ref="char:EOLhyphen"/>mon Recovery with Voucher in the Court of the Manor of theſe Lands, and after<g ref="char:EOLhyphen"/>wards died: But there was not any Cu<g ref="char:EOLhyphen"/>ſtome found for ſuffering Recovery of ſuch Lands in the Court of the ſaid Ma<g ref="char:EOLhyphen"/>nor.
+<pb n="63" facs="tcp:31393:36"/> It was holden by the whole Court in that Caſe, That the Recovery ſhould not bind the Tail but upon a Recom<g ref="char:EOLhyphen"/>pence in value, and in that caſe the Iſſue could not have Land in value: Alſo the Lord ſhould loſe his Fine, and the party to whoſe Uſe the Recovery was had ſhould hold the Lands without Admit<g ref="char:EOLhyphen"/>tance or Grant from the Lord, which is contrary to the nature of a Copy-hold.</p>
+            <p>The other Caſe was this. Land was<note place="margin">
+                  <hi>M. 37 Eliz. in B. R. Eylett</hi> and <hi>Lane</hi>'s Caſe, <hi>Cro.</hi> 1. part.</note> demiſable in Tail by Cuſtome: A Copy-holder demiſed the Land in Tail by Co<g ref="char:EOLhyphen"/>py: The Copy-holder ſuffered a Com<g ref="char:EOLhyphen"/>mon Recovery in the Court of the Ma<g ref="char:EOLhyphen"/>nor with Voucher and Warranty. The Court at the firſt doubted of it, becauſe a Warranty could not be annexed to ſuch an Eſtate in Tail. But yet afterwards it was Reſolved, That the Recovery there was a Bar of the Tail. And Note, for a Concluſion of this Point, That at this day, by the Cuſtomes of ſeveral Ma<g ref="char:EOLhyphen"/>nors, Common Recoveries are had and ſuffered in the Courts of Lords of Ma<g ref="char:EOLhyphen"/>nors for the docking and barring of E<g ref="char:EOLhyphen"/>ſtate tails of Copy-holds. And much inconvenience would enſue, both if Co<g ref="char:EOLhyphen"/>py-holds at this day might not by Cu<g ref="char:EOLhyphen"/>ſtome
+<pb n="64" facs="tcp:31393:37"/> be entailed, and likewiſe if by Cu<g ref="char:EOLhyphen"/>ſtome Common Recoveries had of Eſtate<g ref="char:EOLhyphen"/>tails with Voucher over in the Courts of Lords of Manors ſhould not thereby be docked and barred.</p>
+         </div>
+         <div n="13" type="section">
+            <head>SECT. XIII.</head>
+            <argument>
+               <p>What things are incident to a Copy-holder, and what he may take of common right without the Grant or Licence of the Lord: And what Acts upon the Land ſhall bind the Copy-holder, what not.</p>
+            </argument>
+            <p>IF a Copy-holder according to the Cu<g ref="char:EOLhyphen"/>ſtome doth ſurrender into the hands of 2 Tenants to the Uſe of <hi>J S</hi> and his Heirs, and afterwards the Copy-holder dieth before the Preſentment be made of the Surrender by the Tenants, and the Lord before the Preſentment accepts of the Rent of <hi>J S</hi> generally, but not as a Copy-holder: the Heir of the Surrende<g ref="char:EOLhyphen"/>ror may e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter into and upon the Lands, and receive the Profits thereof to his own uſe, for that nothing veſteth in the Surrenderee before Admittance, and the Inheritance of the Copy-hold is in the Heir <hi>quaſi</hi> by Diſcent.</p>
+            <pb n="65" facs="tcp:31393:37"/>
+            <p>To have Common in the Waſtes of<note place="margin">
+                  <hi>Paſch. 45 E<g ref="char:EOLhyphen"/>liz.</hi> adjudge. acc.</note> the Lord is not a thing incident to his Copy-hold, but is by Preſcription or Cuſtome of the Manor. If therefore a Copy-holder purchaſeth the Inheritance of the Land, the Intereſt of the Com<g ref="char:EOLhyphen"/>mon being a thing intire is gone and determined. But if the Copy-holder doth ſurrender part of his Copy-hold-lands to the Uſe of another, who is ad<g ref="char:EOLhyphen"/>mitted, yet his whole Common is not thereby determined, but he ſhall have Common ſtill for the Lands not ſurren<g ref="char:EOLhyphen"/>dred.</p>
+            <p>A Copy-holder may take Houſe-bote,<note place="margin">
+                  <hi>9 H.</hi> 4. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Waſte 59. <hi>Coke</hi> ſelect Caſes 68.</note> Hedg-bote and Plough-bote upon his Co<g ref="char:EOLhyphen"/>py-hold-lands of common right, as a thing incident to the Grant, if it be not re<g ref="char:EOLhyphen"/>ſtrained by a Cuſtome, that the Copy-holder ſhall not take it but by Aſſign<g ref="char:EOLhyphen"/>ment of the Lord or his Bailiff. And if the Lord, where the Tenant hath ſuch Botes, cuts down all the Woods and Un<g ref="char:EOLhyphen"/>der-woods which are ſtanding and grow<g ref="char:EOLhyphen"/>ing upon the Lands, to prevent the Co<g ref="char:EOLhyphen"/>py-holder of his Botes, he may have an Action of Treſpaſs againſt the Lord, as it was Reſolved in <hi>Heydon</hi> and <hi>Smith</hi>'s Caſe, <hi>Paſch. 8 Jac. in Co. B.</hi>
+            </p>
+            <pb n="66" facs="tcp:31393:38"/>
+            <p>A Manor may be Copy-hold, and hol<g ref="char:EOLhyphen"/>den<note place="margin">
+                  <hi>M. 8 Jac. B. R.</hi> The King and <hi>Stafferton</hi>'s Caſe, <hi>Yelv. 190, 191.</hi>
+               </note> of another Manor by Copy of Court-Roll: and if ſuch a Copy-hold-Manor be granted unto <hi>J S</hi> and his Heirs, <hi>J S</hi> may hold a Copy-Court within his ſaid Manor without a ſpecial Grant of it; for that of common right a Court-Baron or a Copy-hold Court is incident to every Manor.</p>
+            <p>A Lord of a Manor grants a Copy-hold<note place="margin">
+                  <hi>P. 26 Eliz. C. B. Chaw</hi> and <hi>Dover</hi>'s Caſe, <hi>Leon.</hi> 1. part, 16.</note> for <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lives, and afterwards takes a Wife: The 3 Lives end <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> determine: The Lord enters into the Manor; and keeps the Copy-hold-lands in his hands for a time, and then grants the Lands over again by Copy, and dieth: The Wife of the Lord enters, and clums Dower in it. In this Caſe it was Reſolved, That the Copy-holder ſhould hold the Lands diſ<g ref="char:EOLhyphen"/>charged of the Dower, becauſe the Co<g ref="char:EOLhyphen"/>py-holder comes and is in the Lands by the Cuſtome, which is paramount to the title of Dower.</p>
+            <p>A Copy-holder is feiſed of Lands at<note place="margin">
+                  <hi>P. 5 Eliz.</hi> by <hi>Dyer. V<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de</hi> Moore 50.</note> Common Law, and alſo of Lands holden by Copy of Court-Roll, and he by Indenture, without Licence of the Lord, makes one Leaſe of both Lands, rendring Rent. It was ſaid by <hi>Dyer,</hi> That in ſuch caſe the whole
+<pb n="67" facs="tcp:31393:38"/> Rent is iſſuing out of the Lands at Com<g ref="char:EOLhyphen"/>mon Law, becauſe the Leaſe as to the Copy-hold-lands was utterly void.</p>
+            <p>If the Lord grants to his Copy-holder<note place="margin">
+                  <hi>P. 12 Eliz. in B. R.</hi> Moore 94.</note> the Trees growing upon the Lands, and which ſhall after grow, with liberty to cut them down and carry them away; he may juſtifie the cutting of the Trees which are growing, and it ſhall not be a Forfeiture of his Copy-hold, becauſe the Lord hath by his Grant diſpenſed with it: But he cannot cut down the Trees which ſhall there after grow, as it was ſaid by <hi>Plowden</hi> and <hi>Popham.</hi>
+            </p>
+            <p>If a Copy-holder binds himſelf in a<note place="margin">
+                  <hi>Paſc. 12 Eliz. in B. R.</hi> ad<g ref="char:EOLhyphen"/>judge. acc.</note> Statute, his Copy-hold-lands ſhall not be extended upon the ſaid Statute, becauſe the Copy-holder in the eye of the Law hath an Eſtate but <hi>ad voluntatem Domini ſecundùm Conſuetudinem Manerii:</hi> But if a man be Tenant for life or years of a Ma<g ref="char:EOLhyphen"/>nor, and a Copy-hold comes to his hands by Forfeiture or other determination, and he binds himſelf in a Statute; al<g ref="char:EOLhyphen"/>though the Copy-hold be after granted, yet it may be extended upon the Sta<g ref="char:EOLhyphen"/>tute, becauſe the Copy-hold was an<g ref="char:EOLhyphen"/>nexed to the Free-hold, and joyned with it in the hands of the Lord, when
+<pb n="68" facs="tcp:31393:39"/> the Statute was acknowledged and entred into.</p>
+            <p>The Cuſtome of a Manor was, That a Copy-holder might cut and lop Trees<note place="margin">
+                  <hi>M. 5 Jac. Swayn</hi> and <hi>Beckett</hi>'s Caſe, <hi>Moore 812.</hi>
+               </note> for Hedg-bote and other neceſſaries: The Queen made a Leaſe of the Manor to <hi>J S,</hi> with Exception of Trees: King <hi>James</hi> granted the Reverſion to <hi>J D</hi> in Fee: The Aſſignees of the Term granted a Copy-hold to other for 3 Lives, <hi>Ha<g ref="char:EOLhyphen"/>bendum</hi> to them <hi>ſucceſſivé:</hi> The Copy-holder cut Trees. It was Reſolved, That the Copy-holder was in by the Cuſtome paramount the Exception, although he took his Eſtate after the Exception, and therefore might juſtifie the cutting of the Trees for the Hedg-b<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e and other ne<g ref="char:EOLhyphen"/>ceſſaries.</p>
+            <p>The Husband ſeiſed in Fee of Copy-hold-lands<note place="margin">
+                  <hi>35 Eliz. Co.</hi> 4. part, <hi>Bullock</hi> and <hi>Dibles</hi>'s Caſe.</note> in the right of his Wife ſur<g ref="char:EOLhyphen"/>rendred the ſame to another, who was ad<g ref="char:EOLhyphen"/>mitted, and afterwards the Husband died. It was Adjudged that in this caſe the Wife might enter, and ſhe ſhould not be put to her <hi>Cui in vita.</hi>
+            </p>
+            <p>If there be Leſſee for life, the Remain<g ref="char:EOLhyphen"/>der<note place="margin">
+                  <hi>M. 9 Jac. in Co. B.</hi> ad<g ref="char:EOLhyphen"/>iudge. acc.</note> for life, of a Copy-hold, and the firſt Tenant for life doth purchaſe the Free<g ref="char:EOLhyphen"/>hold of the Copy-hold, and levies a Fine
+<pb n="69" facs="tcp:31393:39"/> thereof, and 5 years paſs: it was Ad<g ref="char:EOLhyphen"/>judged, That this Fine ſhould bar him in the Remainder of his Copy-hold.</p>
+         </div>
+         <div n="14" type="section">
+            <head>SECT. XIV.</head>
+            <argument>
+               <p>Where the Lord of the Manor ſhall be Chancellour in his own Court, to deter<g ref="char:EOLhyphen"/>mine the Differences which ariſe betwixt Copy-holders.</p>
+            </argument>
+            <p>A Copy-holder doth ſurrender his Co<g ref="char:EOLhyphen"/>py-hold-lands<note place="margin">
+                  <hi>H. 25 Eliz. in B. R. Le<g ref="char:EOLhyphen"/>on.</hi> 1. part, 2.</note> to <hi>A,</hi> to hold the Lands till he hath levied the ſumme of 100 <hi>l.</hi> upon truſt that afterwards he ſhall ſurrender to the Uſe of <hi>B: A</hi> levies the money, and being required to make the ſurrender to <hi>B,</hi> he refuſeth to doe it; whereupon <hi>B</hi> exhibits his Bill to the Lord in the Court of the Manor: The Lord there makes a Decree, that <hi>A</hi> make the Surrender to <hi>B,</hi> which he again refuſeth to doe; and thereupon the Lord ſeizeth the Lands, and afterwards admits <hi>B</hi> to the ſame. It was the opinion of the whole Court in this Caſe, That both the Seizure of the Lord and his Admittance of <hi>B</hi> were lawfull, becauſe the Lord in ſuch Caſes of Equity to execute Truſts
+<pb n="70" facs="tcp:31393:40"/> is Chancellour in his own Court.</p>
+            <p>If a falſe Judgment be given in a<note place="margin">Vid. 14 H. 4. 34.</note> Court-Baron by the Steward againſt a Copy-holder, the Copy-holder in ſuch caſe ſhall not have either a Writ of Errour or a Writ of Falſe Judgment; but he may ſue in the Court of the Lord by Bill, to be relieved againſt ſuch Judgment; and the Lord, as Chancellour, may give him Relief therein, and ſhall reſtore the Land to the party upon the falſe Judgment gi<g ref="char:EOLhyphen"/>ven by the Steward, and Reſtitution made to the Copy-holder.</p>
+         </div>
+         <div n="15" type="section">
+            <head>SECT. XV.</head>
+            <argument>
+               <p>Of Surrenders upon Conditions; and where ſuch Surrenders ſhall be good, where not.</p>
+            </argument>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>A Copy-holder in Fee ſurrendred out<note place="margin">
+                     <hi>P. 31 Eliz. Co.</hi> 4. part, <hi>Kite</hi> and <hi>Queinton</hi>'s Caſe.</note> of Court his Copy-hold-lands to the Uſe of another and his Heirs upon Condition: At the next Court the Sur<g ref="char:EOLhyphen"/>render was preſented, but in the Preſent<g ref="char:EOLhyphen"/>ment the Condition was omitted: He to whoſe Uſe the Surrender was made be<g ref="char:EOLhyphen"/>ing dead, the Lord admitted his Heir. It
+<pb n="71" facs="tcp:31393:40"/> was Reſolved in this Caſe, That the Pre<g ref="char:EOLhyphen"/>ſentment of the Surrender was void, be<g ref="char:EOLhyphen"/>cauſe it was not made in ſuch manner as the Surrender was made. But if the Conditional Surrender had been preſen<g ref="char:EOLhyphen"/>ted, it had beed good, although it was not entred into the Court-Roll.</p>
+               <p>A Copy-holder ſurrendred his Copy-hold<note place="margin">
+                     <hi>Tr. 2 Jac. B. R. Cro.</hi> 2. part, <hi>Hall</hi> &amp; <hi>Shardbrook</hi>'s Caſe.</note> upon Condition, and afterwards by Deed he releaſed the Condition. Re<g ref="char:EOLhyphen"/>ſolved it was good without a Surrender, for that a Condition or a Right cannot properly be ſaid to be determined by a Surrender, but it may be by a Releaſe.</p>
+               <p>The Caſe was; Grandfather, Father,<note place="margin">M. 15 E. 3. 13.</note> and Son: The Grandfather died: The Father aſſigned Dower to the Grandmo<g ref="char:EOLhyphen"/>ther, being his Mother, who ſurrendred it back to the Father paying 10 <hi>l. per an<g ref="char:EOLhyphen"/>num:</hi> The Father died; his Wife brought Dower againſt the Son and recovered, becauſe the Father had the Fee and Free<g ref="char:EOLhyphen"/>hold conjoyned in the life of the Grand<g ref="char:EOLhyphen"/>mother by the Surrender. It was Re<g ref="char:EOLhyphen"/>ſolved in this Caſe, That when the Wife of the Father doth recover Dower, ſhe ſhall pay to the Grandmother ſo much Rent as doth belong to her proportion in Dower. And in this Caſe it was hol<g ref="char:EOLhyphen"/>den,
+<pb n="72" facs="tcp:31393:41"/> That although the Eſtate of a man be Conditional and defeaſible upon a bad Title; yet the Wife ſhall not be ouſted of her Dower untill the Conditional or defeaſible Title be defeated. And where Husband and Wife are Tenants for life, and ſurrender to him in the Reverſion, the Wife of him in the Reverſion ſhall be endowed, and yet the Surrender is but Conditional; for if the Wife of the Tenant for life overliveth her Husband, the Surrender is defeaſible: <hi>à fortiori</hi> in caſe where it is not defeaſible, as in this Caſe. And it was ſaid in caſe of a Sur<g ref="char:EOLhyphen"/>render of Copy-hold-land, where it was Conditional, the Wife is dowable of it, if the Condition do not determine the E<g ref="char:EOLhyphen"/>ſtate in the life-time of the Husband: But a Feme is not dowable of Copy-hold but by Cuſtome of the Manor.<note place="margin">
+                     <hi>H. 27 Eliz. Cro.</hi> 3. part, 68. <hi>Bright</hi> and <hi>Hub<g ref="char:EOLhyphen"/>bard</hi>'s Caſe.</note>
+               </p>
+               <p>A Copy-holder deviſed his Lands to his Wife for life, and that ſhe ſhould ſell the Lands for the payment of his Debts; and ſurrendred to the Uſe of his Will: The Copy-holder died: His Wife ſur<g ref="char:EOLhyphen"/>rendred the Land upon Condition to pay 12 <hi>l.</hi> It was Adjudged, It was a good Sur<g ref="char:EOLhyphen"/>render upon the Condition, and that it was a good Sale made by her.</p>
+               <pb n="73" facs="tcp:31393:41"/>
+               <p>The Father, Copy-holder in Fee, ſur<g ref="char:EOLhyphen"/>rendred<note place="margin">
+                     <hi>Tr. 33 Eliz. Cro.</hi> 1. part, <hi>Symonds</hi> and <hi>Lawn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>'s Caſe.</note> his Copy-hold-lands to the Uſe of his Son in Fee, upon Condition to perform Covenants in an Indenture: The Son after Admittance ſurrendred to <hi>J S</hi> upon Condition that if the Son pay 10 <hi>l.</hi> the Surrender to be void: The Son nei<g ref="char:EOLhyphen"/>ther pays the 10 <hi>l.</hi> nor performs the Co<g ref="char:EOLhyphen"/>venants in the Indenture: The Father enters. Reſolved, That by the Entry of the Father both the Surrenders were avoided, and there the Son might well en<g ref="char:EOLhyphen"/>ter after the death of his Father, and the Surrender made by him to <hi>J S.</hi>
+               </p>
+               <p>If a Copy-holder doth ſurrender his<note place="margin">
+                     <hi>33 Eliz. Co.</hi> 4. part, <hi>Weſt<g ref="char:EOLhyphen"/>wick</hi>'s Caſe.</note> Lands to the Uſe of <hi>J S</hi> and his Heirs abſolutely, and the Lord admits the Te<g ref="char:EOLhyphen"/>nant upon Condition, it is void; for that after Admittance the Tenant is in by him who made the Surrender, &amp; not by the Lord.</p>
+               <p>The Cuſtome was, That a Copy-hol<g ref="char:EOLhyphen"/>der might out of Court ſurrender to the<note place="margin">
+                     <hi>Tr. 28 Eliz. in B. R. Cro.</hi> 1. part, <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>dett</hi>'s Caſe.</note> Uſe of a Stranger in Fee: The Lord of the Manor made <hi>J</hi> his Steward <hi>ad exe<g ref="char:EOLhyphen"/>quendum per ſe,</hi> or his ſufficient Deputy, who made <hi>A</hi> his Deputy <hi>pro hac vice</hi> to take a Surrender of Husband and Wife, the Remainder in Fee: The Deputation was farther, <hi>viz. Et ulteriùs faciendum
+<pb n="74" facs="tcp:31393:42"/> quantum in me eſt: A</hi> took a Surrender of the Husband and Wife upon Condition, which Condition was afterwards peform<g ref="char:EOLhyphen"/>ed and executed. Reſolved in this Caſe, That although the authority to take the Surrender was abſolute, and to be with<g ref="char:EOLhyphen"/>out a Condition; yet when <hi>A</hi> took it upon a Condition to be performed, it was a good Surrender made to him, by reaſon of the words in the Deputation, <hi>Et ulteri<g ref="char:EOLhyphen"/>ùs faciendum, &amp;c.</hi>
+               </p>
+               <p>A Woman Copy-holder <hi>durante Vidui<g ref="char:EOLhyphen"/>tate</hi>
+                  <note place="margin">
+                     <hi>P. 39 Eliz. B. R. Oland</hi> and <hi>Bar<g ref="char:EOLhyphen"/>wick</hi>'s Caſe, <hi>Cro.</hi> 1. part, acc.</note> ſowed the Land, and before Seve<g ref="char:EOLhyphen"/>rance of the Corn ſhe took Husband. Reſolved, That although the Eſtate of the Wife was incertain, and determined by the Limitation, and not by any Con<g ref="char:EOLhyphen"/>dition either in Fact or in Law, that the Lord ſhould have the Corn ſowed upon the Lands.</p>
+               <p>A Copy-holder in Fee of Lands diſ<g ref="char:EOLhyphen"/>cendable in <hi>Borough-Engliſh</hi> had 3 Sons,<note place="margin">
+                     <hi>H. 2 Jac. B. R. Cro.</hi> 2. part, <hi>Cur<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ies</hi> and <hi>Wolverſton</hi>'s Caſe.</note> and ſurrendred to the Uſe of his Will, and thereby deviſed his Lands to his middle Son in Fee, upon Condition to pay to his 4 Daughters, to every of them 20 <hi>l.</hi> at their full age: The eldeſt Son had Iſſue 2 Daughters, and died: The middle Son is admitted, and doth not
+<pb n="75" facs="tcp:31393:42"/> pay the Daughters their Summs at their full ages: The youngeſt Son entred in the name of the Daughters, who diſagreed to it. It was Reſolved, That it was a Condition, but not broken without demand of their Summs at their full ages; and when they diſagreed to the Entry, the Entry of the youngeſt Brother was not lawfull.</p>
+               <p>A Copy-holder ſurrendred his Lands<note place="margin">
+                     <hi>M. 13 Jac. B. R. Simp<g ref="char:EOLhyphen"/>ſon</hi> and <hi>So<g ref="char:EOLhyphen"/>thern</hi>'s Caſe, <hi>Cro.</hi> 2. part.</note> into the hands of the Lord, <hi>Haben<g ref="char:EOLhyphen"/>dum</hi> after his death to the Uſe of an Enfant <hi>en ventre ſa Mier.</hi> Reſolved that a Surrender to an Enfant <hi>en ventre ſa Mier</hi> was not good as an immediate Surrender, for that it cannot begin at a day to come. And whereas a Re<g ref="char:EOLhyphen"/>mainder was thereupon limited over, it was holden to be void, becauſe it was to begin upon a Condition precedent, (<hi>Vid.</hi> the Condition) which was never performed; and therefore the Surren<g ref="char:EOLhyphen"/>der into the hands of the Lord was void, becauſe he takes it but as an Inſtrument to convey it over.</p>
+            </div>
+         </div>
+         <div n="16" type="section">
+            <pb n="76" facs="tcp:31393:43"/>
+            <head>SECT. XVI.</head>
+            <argument>
+               <p>Where Cuſtome which warrants the Lord or his Copy-holder to grant greater E<g ref="char:EOLhyphen"/>ſtates, warrants the Grants of leſſer E<g ref="char:EOLhyphen"/>ſtates.</p>
+            </argument>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>THE Cuſtome of a Manor is, That<note place="margin">
+                     <hi>36 Eliz. Co.</hi> 4. part, <hi>Gra<g ref="char:EOLhyphen"/>venor</hi> and <hi>Tedd</hi>'s Caſe.</note> a Copy-hold-eſtate may be grant<g ref="char:EOLhyphen"/>ed in Fee-ſimple. In that Caſe it was adjudged, That an Eſtate thereof granted to one and the Heirs of his body is good, and within the Cuſtome; for <hi>Ubi licet quod eſt majus, non debet quod eſt minus non licere.</hi>
+               </p>
+               <p>The Cuſtome of a Manor is, That<note place="margin">
+                     <hi>39 Eliz. in B. R. Downs</hi> and <hi>Hop<g ref="char:EOLhyphen"/>kins</hi> Caſe.</note> Copy-hold-eſtates may be granted for life or lives: In ſuch caſe a Grant is made to a Woman <hi>durante Viduitate ſuâ:</hi> And it was adjudged good, and within the Cu<g ref="char:EOLhyphen"/>ſtome, for that every Grant for life is <hi>durante Viduitate;</hi> but every Grant <hi>du<g ref="char:EOLhyphen"/>rante Viduitate</hi> is not for life.</p>
+               <p>The Cuſtome of a Manor out of mind<note place="margin">
+                     <hi>H. 34 Eliz. B. R. Stanton</hi> and <hi>Bar<g ref="char:EOLhyphen"/>ney's</hi> Caſe.</note> uſed was, To grant certain Lands, par<g ref="char:EOLhyphen"/>cell of the ſaid Manor, in Fee-ſimple, and never any Grant was made to any and the
+<pb n="77" facs="tcp:31393:43"/> Heirs of his body for life or for years: The Lord of the Manor did make a Grant by Copy to one for life, the Remainder over to another and the Heirs of his bo<g ref="char:EOLhyphen"/>dy. It was adjudged, That the Grant and the Remainder over was good; for the Lord having an Authority by Cu<g ref="char:EOLhyphen"/>ſtome, and an Intereſt withall, might grant any leſſer Eſtate: but otherwiſe it is where one hath but a bare Authority.</p>
+               <p>In Treſpaſs the Iſſue was, if the Lord<note place="margin">
+                     <hi>P. 29 Eliz. C. B. Kempe</hi> and <hi>Carter</hi>'s Caſe, <hi>Leon.</hi> 1. part, 56.</note> of the Manor granted the Lands <hi>per Co<g ref="char:EOLhyphen"/>piam Rotulorum Curiae Manerii ſecundùm Conſuetudinem Manerii praedict.</hi> It was given in Evidence, that the Lord of late at his Court granted the Lands <hi>per Copiam Curiae,</hi> where it was never granted by Co<g ref="char:EOLhyphen"/>py before. In that caſe the Jury are bound to find <hi>quòd Dominus non conceſſit,</hi> as it was holden by the Court. For al<g ref="char:EOLhyphen"/>though <hi>de facto Dominus conceſſit per Co<g ref="char:EOLhyphen"/>piam Rotulorum Curiae,</hi> yet <hi>non conceſſit ſecundùm Conſuetudinem Manerii praedict.</hi> But in that Caſe it was holden, If Cuſto<g ref="char:EOLhyphen"/>mary Lands had been grantable in Fee, if the ſame Land eſcheat to the Lord, and he grant the ſame to another for life, it is a good Grant, and warranted by the Cuſtome; for the Cuſtome which enables
+<pb n="78" facs="tcp:31393:44"/> him to grant in Fee ſhall enable him to grant for life.</p>
+               <p>If a Copy-hold-eſtate fall into the<note place="margin">
+                     <hi>M. 15 &amp; 16 Eliz. in Co. B.</hi> ad<g ref="char:EOLhyphen"/>judge. acc.</note> hands of the Lord by Eſcheat, Forfei<g ref="char:EOLhyphen"/>ture, or the like, and the Lord make a Leaſe thereof for years or life by Deed or without Deed, or if he make a Feoffment of it upon Condition, or if the Copy-hold ſo eſcheated, <hi>&amp;c.</hi> be extended up<g ref="char:EOLhyphen"/>on a Statute or a Recognizance, or the ſame Land be aſſigned to the Wife of the Lord in Dower; In all theſe caſes the Land can never be granted again by Copy, becauſe after ſuch Diſpoſi<g ref="char:EOLhyphen"/>tion thereof it was not demiſeable. But if the Interruptions were not lawfull, but tortious, as if the Lord be diſſei<g ref="char:EOLhyphen"/>ſed, or if the Land be recovered a<g ref="char:EOLhyphen"/>gainſt the Lord by a falſe Verdict, or by an erroneous Judgment; yet after the Land is re-continued, and the In<g ref="char:EOLhyphen"/>terruption which was wrongfull remo<g ref="char:EOLhyphen"/>ved, the Land is grantable again by the Lord by Copy.</p>
+            </div>
+         </div>
+         <div n="17" type="section">
+            <pb n="79" facs="tcp:31393:44"/>
+            <head>SECT. XVII.</head>
+            <argument>
+               <p>Who ſhall be ſaid ſuch a Lord of a Ma<g ref="char:EOLhyphen"/>nor as may grant Copy-hold-eſtates; and how long ſuch Eſtates ſhall continue; and what perſons ſhall be capable of Co<g ref="char:EOLhyphen"/>py-hold-eſtates, what not; and what may be granted by Copy.</p>
+            </argument>
+            <p>EVery one who hath a lawfull Eſtate<note place="margin">
+                  <hi>Coke</hi> 1. part, Inſtit. 58.</note> or Intereſt in the Manor, be it Fee, Fee-tail, Dower, Tenantry by the curteſie of <hi>England,</hi> Tenantry for life or years, Guardian, Tenant by Statute-Merchant or <hi>Elegit,</hi> are ſufficient Lords and perſons to grant Copy-hold-eſtates to others. And in ſome ſpecial caſe Eſtates in Co<g ref="char:EOLhyphen"/>py-hold-lands may be granted by ſuch a one who hath no Eſtate or Intereſt in the Manor.</p>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>A Guardian in Socage held a Copy-Court<note place="margin">
+                     <hi>Tr. 1 Jac. B. R. Soap<g ref="char:EOLhyphen"/>land</hi> and <hi>Ridler</hi>'s Caſe, <hi>Owen 115.</hi>
+                  </note> in his own name, and granted Copies in Reverſion. Adjudged he was <hi>Dominus pro tempore,</hi> and had an Intereſt in the Lands; for he might make a Leaſe
+<pb n="80" facs="tcp:31393:45"/> thereof in his own name, and therefore he might both grant Copies, and alſo admit Copy-holders to Eſtates before granted. But the Bailiff of a Manor hath no Intereſt in the Manor, and therefore he cannot grant Copies of the Land holden of the Manor.</p>
+               <p>The Cuſtome of a Manor was, That<note place="margin">
+                     <hi>P. 41 Eliz. B. R. Ga<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> and <hi>Kay</hi>'s Caſe, <hi>Cro.</hi> 1. part.</note> 
+                  <hi>Dominus pro tempore</hi> might make a De<g ref="char:EOLhyphen"/>miſe for 2 or 3 Lives in Poſſeſſion or Reverſion: A Woman Tenant in Dower for life of the Manor granted a Copy-hold to <hi>J S</hi> and 2 others for their Lives, <hi>Habendum poſt mortem</hi> of <hi>A B,</hi> and di<g ref="char:EOLhyphen"/>ed: <hi>A B</hi> died. It was holden by the Court in this Caſe, That the Grant was good in Reverſion, although it was not executed in the life of the Tenant in Dower: And <hi>Vide,</hi> That the Lord of a Manor for life, or any other particular Eſtate, having In<g ref="char:EOLhyphen"/>tereſt in the Manor, might grant Copies in Reverſion of Lands which are holden by Copy of Court-Roll, although the Grants were not executed in the life of the Grantors; as it was adjudged in Sir<note place="margin">
+                     <hi>H. 14 Eliz.</hi> the Earl of <hi>Oxford</hi>'s Caſe, <hi>Moore 95.</hi>
+                  </note> 
+                  <hi>Peter Carew</hi>'s Caſe. <hi>Quere:</hi> for <hi>Hil. 14 Eliz.</hi> in the Earl of <hi>Oxford</hi>'s Caſe in <hi>Moore</hi> 95. it is not good, unleſs it come in Poſſeſſion during the life of the Grantor.</p>
+               <pb n="81" facs="tcp:31393:45"/>
+               <p>Note, It was holden by the Juſtices<note place="margin">
+                     <hi>P. 15 Car. C. B.</hi> Godb. 6. acc.</note> 
+                  <hi>P. 15 Jac. in Co. B.</hi> That there ought to be a Cuſtome to enable the Lord of the Manor to make a Grant of a Copy-hold in Reverſion.</p>
+               <p>Generally, Things which lie not in Tenure, as Advowſons in groſſe, Com<g ref="char:EOLhyphen"/>mons in groſſe, or the like incorporate Inheritances, out of which a Rent can<g ref="char:EOLhyphen"/>not be reſerved, cannot be granted by Copy of Court-Roll by the Lord of the Manor; nor can they be holden by any Service to be done for them. But Ad<g ref="char:EOLhyphen"/>vowſons appendants, Commons appen<g ref="char:EOLhyphen"/>dants, and ſuch things as are parcell of a Manor, and which have Continu<g ref="char:EOLhyphen"/>ance, may be granted by the Lord of the Manor, to be holden by Copies of Court-Roll, according to the Cuſtome of the Manor.</p>
+               <p>In Treſpaſs for cutting down of Un<g ref="char:EOLhyphen"/>der-woods,<note place="margin">
+                     <hi>M. 38 Eliz. B. R. Cro.</hi> 1. part, <hi>Hoe</hi> and <hi>Taylor</hi>'s Caſe.</note> the Queſtion was, Whether Under-woods might be granted by Copy of Court-Roll, for that by ſuch Grant or Leaſe the Soil paſſeth not. But it was Reſolved, That Under-woods are a thing of Inheritance and perpetuity, which may have Continuance for ever; for af<g ref="char:EOLhyphen"/>ter they are once cut, they will grow a<g ref="char:EOLhyphen"/>gain
+<pb n="82" facs="tcp:31393:46"/> 
+                  <hi>ex ſtipitibus,</hi> and ſo they may be well granted by Copy.</p>
+               <p>In Trover and Converſion of 20 Loads<note place="margin">
+                     <hi>P. 43 Eliz. B. R. Sands</hi> and <hi>Darcie</hi>'s Caſe, <hi>Cro.</hi> 1. part, acc.</note> of Tith-Hay, the onely Queſtion was, Whether Tithes were grantable by Copy. It was objected they were not, becauſe it is againſt the nature of Tithes, and none could have a property in them be<g ref="char:EOLhyphen"/>fore the Council of <hi>Lateran,</hi> and there<g ref="char:EOLhyphen"/>fore it was impoſſible to have any Cu<g ref="char:EOLhyphen"/>ſtome ſo to grant them. But it was Re<g ref="char:EOLhyphen"/>ſolved, That they might be granted by Copy, if there had been a Cuſtome time out of mind ſo to grant them.</p>
+               <p>One Manor may be holden of another<note place="margin">
+                     <hi>39 H. 6. 9. b. Vid. M. 11 Jac. Moore</hi> and <hi>Good<g ref="char:EOLhyphen"/>greave</hi>'s Caſe, <hi>Cro.</hi> 2. part. <hi>Coke</hi> 11. part, Sir <hi>Henry Nevil</hi>'s Caſe. <hi>M. 37 Eliz. B. R.</hi> Sir <hi>John Bourn</hi>'s Caſe, acc.</note> Manor, and may be demiſeable by Copy of Court-Roll, and there may be Cuſto<g ref="char:EOLhyphen"/>mary Tenants, according to the Cuſtome of the Manor; and ſo it was ſaid, That a Market or a Fair, although they are things of Priviledge and Liberty onely, yet becauſe they might be appendant unto or parcel of a Manor, or uſed with a Ma<g ref="char:EOLhyphen"/>nor and Lands, that an Eſtate might be granted of them by Copy of Court-Roll.</p>
+            </div>
+         </div>
+         <div n="18" type="section">
+            <pb n="83" facs="tcp:31393:46"/>
+            <head>SECT. XVIII.</head>
+            <argument>
+               <p>What Acts or things are inſeparable, and muſt be done by the Copy-holder himſelf; and what acts and where may be done by his Attorney.</p>
+            </argument>
+            <p>A Copy-holder, notwithſtanding that generally and according to the Cu<g ref="char:EOLhyphen"/>ſtome of the Manor he hath an Eſtate of Inheritance in his Copy-hold-lands, <hi>viz. ſecundùm Conſuetudinem Manerii;</hi> yet it hath this Qualification, that it is <hi>ad vo<g ref="char:EOLhyphen"/>luntatem Domini:</hi> and in that reſpect, upon the Original Grants of ſuch Eſtates, the Lords of Manors did reſerve unto themſelves certain Duties and Services and Suits to be done by their Copy-holders; ſome of which were ſo inſeparable to the perſon of the Copy-holder, that they could not be done by any other perſon; others were ſuch as concerned and had reſpect both to the Lord for his good, and the good of the Manor, as thoſe which con<g ref="char:EOLhyphen"/>cerned the particular good of the Copy-holders themſelves, or the Lands which they held of the Lord.</p>
+            <p>The principal Dutie inſeparably to
+<pb n="84" facs="tcp:31393:47"/> be done to the perſon of the Lord, and by his Copy-holder, is his doing of Fealty,<note place="margin">
+                  <hi>Co.</hi> 9. part, in <hi>Comb</hi>'s Caſe.</note> which upon every Admittance he is to doe to the Lord, for that is eſpecially mentio<g ref="char:EOLhyphen"/>ned in the Copy granted by the Lord in theſe words, <hi>viz. Dat. Domino pro Fine, &amp; fecit Domino fidelitatem:</hi> and Fealty cannot be done but in perſon, and not by an Attorney. And although (as Mr. <hi>Littleton</hi> ſaith) Fealty may be taken by the Steward of the Court of the Lord of the Manor, yet it is done to the Lord himſelf, and it muſt be done by the Copy-holder himſelf in perſon.</p>
+            <p>A Copy-holder may take an Eſtate in the Copy-hold by the Surrender of ano<g ref="char:EOLhyphen"/>ther Copy-holder into the hands of two Tenants of the Manor by Cuſtome, (as before is declared.) But then this Surren<g ref="char:EOLhyphen"/>der muſt be preſented in Court, and he to whoſe Uſe the Surrender was made muſt perſonally appear in Court, and be there admitted to the Land; and he can<g ref="char:EOLhyphen"/>not be admitted by Attorney.</p>
+            <p>The Suit and Service which is to be done in the Court of the Lord by his Co<g ref="char:EOLhyphen"/>py-holder muſt be done in perſon, and not by another for him; and it is to be done upon his Oath, and a man cannot
+<pb n="85" facs="tcp:31393:47"/> ſwear by Attorney; and therefore he cannot make an Attorney to doe his Suit and Service, but the ſame muſt be done by him in perſon.</p>
+            <p>Again, If a Copy-holder, upon No<g ref="char:EOLhyphen"/>tice given him of the ſpecial day of hol<g ref="char:EOLhyphen"/>ding the Lord's Court, and being ſum<g ref="char:EOLhyphen"/>moned to appear and to doe his Suit and Service, ſhall wilfully neglect, or refuſe to appear and doe his Suit, it is a Forfeiture of his Copy-hold: and there<g ref="char:EOLhyphen"/>fore ſuch Suits and Services cannot be done by Attorney, but in proper perſon.</p>
+            <p>A Copy-holder of a Manor of the Earl<note place="margin">
+                  <hi>Tr. 28 Eliz. in B. R.</hi> the Earl of <hi>Arundel</hi>'s Caſe, <hi>Leon.</hi> 1. part, 36.</note> of <hi>Arundel</hi> did ſurrender his Lands to the Uſe of his Will, and thereby devi<g ref="char:EOLhyphen"/>ſed them to his youngeſt Son and his Heirs, who being in Priſon made a Let<g ref="char:EOLhyphen"/>ter of Attorney to <hi>J D,</hi> to pray to be admitted to the Land for his Uſe, and af<g ref="char:EOLhyphen"/>ter ſuch Admittance to ſurrender the ſame Lands to the Uſe of <hi>J S</hi> and his Heirs, to whom he had ſold it for the payment of his Debts, who came into Court accordingly, and prayed to be ad<g ref="char:EOLhyphen"/>mitted, and make a Surrender of the Land to <hi>J S;</hi> all which was done. In this Caſe it was Reſolved by the Juſtices, That it was no good Admittance, nor
+<pb n="86" facs="tcp:31393:48"/> no good Surrender; for that the Heir ought to have come himſelf in perſon in Court to take up his Land, and after<g ref="char:EOLhyphen"/>wards to ſurrender it, or otherwiſe have procured the Lord to appoint his Stew<g ref="char:EOLhyphen"/>ard to have gone to the Priſon unto him to have been admitted, and after<g ref="char:EOLhyphen"/>wards to have ſurrendred the Lands.</p>
+            <p>Some particular things a Copy-hol<g ref="char:EOLhyphen"/>der may doe by his Attorney; as he may pay his Rent by his Servant or Attorney, or tender it by them; and ſuch Payment and Tender ſhall be good. So if the Cu<g ref="char:EOLhyphen"/>ſtome of the Manor be, That upon the death of every Copy-holder the Tenant ſhall pay and render his beſt Beaſt unto the Lord for a Heriot, there the Heriot may be paid by the Heir before his Ad<g ref="char:EOLhyphen"/>mittance, or by the Executor of the Co<g ref="char:EOLhyphen"/>py-holder; and ſuch Payment or Ten<g ref="char:EOLhyphen"/>der of it ſhall be good.</p>
+            <p>So by an eſpecial Cuſtome within the Manor a Copy-holder may appoint or<note place="margin">
+                  <hi>M. 5 Jac. in B. R. Bale</hi>'s Caſe.</note> nominate, in the preſence of two Te<g ref="char:EOLhyphen"/>nants of the Manor or other two ſufficient Witneſſes, who ſhall have his Copy-hold-lands after his deceaſe, and alſo that they may appoint what Fine the Lord ſhall have for the Admittance of the Tenant,
+<pb n="87" facs="tcp:31393:48"/> ſo it be a reaſonable Fine; and ſuch Diſ<g ref="char:EOLhyphen"/>poſition of his Lands and appointment of Fine ſhall be good by the Cuſtome: But yet after ſuch Diſpoſition made, the party who is to have the Land muſt in perſon come into the Lord's Court, and pray to be admitted unto the ſame. And ſo was it very lately adjudged in the Court of <hi>Common Pleas,</hi> both for the Point of the Cuſtome, that it was a good Cuſtome, and Admittance.</p>
+            <p>A Copy-holder dwelling in a Town<note place="margin">
+                  <hi>M. 3 Eliz. B. R.</hi> Sir <hi>John Braun<g ref="char:EOLhyphen"/>che</hi>'s Caſe, <hi>Leon.</hi> 1. part, 104.</note> long diſtant from the Manor, having No<g ref="char:EOLhyphen"/>tice of the Court-day when it was to be holden, upon Summons appeared not himſelf, but appointed his Son his At<g ref="char:EOLhyphen"/>torney to appear and doe the Services for him for his Copy-hold-lands. In this Caſe it was holden by the Court, That ſuch a perſon ſo appointed might eſ<g ref="char:EOLhyphen"/>ſoign the Copy-holder, but not doe the Services for him, for that none could doe the ſame but the Tenant himſelf.</p>
+         </div>
+         <div n="19" type="section">
+            <pb n="88" facs="tcp:31393:49"/>
+            <head>SECT. XIX.</head>
+            <argument>
+               <p>What Cuſtomes within Copy-hold-Manors ſhall be ſaid to be good and reaſonable Cuſtomes, and what not.</p>
+            </argument>
+            <p>CUſtome is the very Soul and life of<note place="margin">
+                  <hi>Coke</hi> 4. part, 21.</note> Copy-hold-eſtates; for without Cu<g ref="char:EOLhyphen"/>ſtome, or if they break their Cuſtomes, they are at the Lord's will, for they hold their Lands <hi>ad voluntatem Domini,</hi> al<g ref="char:EOLhyphen"/>though (as before is ſaid) it be <hi>ſecun<g ref="char:EOLhyphen"/>dùm Conſuetudinem Manerii, &amp;c.</hi> But then the Cuſtomes muſt be reaſonable, and not unreaſonable Cuſtomes.</p>
+            <p>If the Lord doth challenge a Cuſtome<note place="margin">
+                  <hi>Coke</hi> 1. part Inſtitut. 59.</note> within his Manor, to have a Fine of e<g ref="char:EOLhyphen"/>very of his Copy-holders of the ſaid Ma<g ref="char:EOLhyphen"/>nor at the Alteration or Change of the Lord of the Manor, be it by Alienation, Demiſe, Death, or otherwiſe; this is an unreaſonable Cuſtome, for by this means his Copy-holders may be oppreſſed by the Lords by the payment of a multitude of Fines.</p>
+            <p>A Cuſtome within a Manor, That e<g ref="char:EOLhyphen"/>very<note place="margin">
+                  <hi>Coke</hi> 5. part, <hi>Pennieman</hi>'s Caſe.</note> Alienation of Lands within the Ma<g ref="char:EOLhyphen"/>nor ſhall be preſented at the next Court
+<pb n="89" facs="tcp:31393:49"/> holden for the ſaid Manor, upon pain that ſuch Alienation ſhall be void, is a good and reaſonable Cuſtome; for it is but reaſonable that the Lord ſhould know who is his Tenant.</p>
+            <p>A Copy-holder alledged a Cuſtome<note place="margin">
+                  <hi>Paſch. 6 Jac. in Co. B. Glaſcock</hi>'s Caſe. <hi>Vid.</hi> God Godb. acc.</note> within a Manor in <hi>Eſſex</hi> to be, That all the Tenants within the ſaid Manor had uſed to cut down Trees, to repair their Copy-hold and Free-hold Tenements within the ſaid Manor, and alſo to ſell their Trees at their pleaſures. It was doubted if it was a good Cuſtome: but the better opinion of the Court ſeemed to be that the Cuſtome was good.</p>
+            <p>The Cuſtome of a Manor in <hi>Worce<g ref="char:EOLhyphen"/>ſter-ſhire</hi>
+               <note place="margin">
+                  <hi>M. 6 Jac. in Co. B. Paginton</hi> and <hi>Hunt</hi>'s Caſe.</note> was, That if any Copy-holder committed Felony, and that the ſame be preſented by 12 Homagers in the Lord's Court, the Tenant ſhould forfeit his Co<g ref="char:EOLhyphen"/>py-hold. It was preſented that <hi>J S,</hi> a Tenant of the ſaid Manor, had commit<g ref="char:EOLhyphen"/>ted Felony at ſuch a time; but that at the Aſſizes next after he was acquitted of the ſame: After which the Lord ſeized the Lands. In this Caſe it was adjudg<g ref="char:EOLhyphen"/>ed, That the Cuſtome was not good, be<g ref="char:EOLhyphen"/>cauſe in judgment of Law, before Con<g ref="char:EOLhyphen"/>viction or Attainder he was not a Felon.
+<pb n="90" facs="tcp:31393:50"/> But whether in that Caſe the Verdict and finding of the Jurors upon the Bill of Indictment agreeing with the finding of the Homagers, that the party had com<g ref="char:EOLhyphen"/>mitted Felony, did entitle the Lord to the Copy-hold-lands, notwithſtanding the Acquitall of the Jury which was af<g ref="char:EOLhyphen"/>terwards, was not Reſolved.</p>
+            <p>A Copy-holder did alledge the Cu<g ref="char:EOLhyphen"/>ſtome of the Manor to be, That the Lord might grant Copies in Remainder with the aſſent of the Tenants, and not otherwiſe, and that Copies otherwiſe granted in Remainder ſhould be void. It was ſaid, That this Cuſtome might be good, for it might be ſo agreed and gran<g ref="char:EOLhyphen"/>ted by the Lord at the beginning upon the Creation of the Manor; and that it ſeemed to be grounded upon the reaſon of the Common Law, That a Remainder<note place="margin">
+                  <hi>M. 31 Eliz. Co. B.</hi> Godb. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>40.</note> ſhould not be without the aſſent of the particular Tenant, and to commence with his Eſtate, and that therefore it was a good Cuſtome. <hi>Quere</hi> the Caſe, for it was not Reſolved, <hi>M. 31 Eliz. in Co. B.</hi>
+            </p>
+            <p>The Cuſtome of a Manor was, That thoſe who claimed Copy-holds by Diſ<g ref="char:EOLhyphen"/>cent ought to come at the firſt, ſecond, or third Court, upon Proclamations made, to
+<pb n="91" facs="tcp:31393:50"/> take up their Eſtates, or elſe they ſhould<note place="margin">
+                  <hi>H. 7 Jac. in Co. B. Cop<g ref="char:EOLhyphen"/>ley</hi>'s Caſe.</note> be forfeited. A Tenant of the Manor (having Iſſue inheritable by the Cuſtome beyond the Sea) died: The Proclama<g ref="char:EOLhyphen"/>tions all paſſed, and the Heir did not return in two years; but upon his return he prayed to be admitted to the Co<g ref="char:EOLhyphen"/>py-hold, and profered the Lord his Fine in Court, which the Lord refuſed to ac<g ref="char:EOLhyphen"/>cept of, and to admit the Heir, but ſeized the Land as forfeited. It was adjudged in this Caſe, That it was no cauſe of Forfeiture, becauſe the Heir was beyond the Seas at the time of the Proclamati<g ref="char:EOLhyphen"/>ons, and the Lord was at no prejudice, for that, for any thing appeared in the Caſe, the Lord had taken all the Pro<g ref="char:EOLhyphen"/>fits of the Land in the mean time.</p>
+            <p>The Cuſtome of a Manor was, That<note place="margin">
+                  <hi>M. 7 Jac. in Co. B.</hi> by <hi>Dodderidge.</hi>
+               </note> every Copy-holder at his death ſhould pay to the Lord his beſt Beaſt for a He<g ref="char:EOLhyphen"/>riot: A Feme-ſole within the Manor Tenant for life took a Husband, and died. It was the opinion of <hi>Dodderidge</hi> in this Caſe, That although the Cuſtome was good, yet, as this Caſe was, no Heriot ſhould be paid, becauſe the Wife had not any Goods, by Cattell to pay the ſame.</p>
+            <pb n="92" facs="tcp:31393:51"/>
+            <p>A Cuſtome of a Manor was ſaid to be,<note place="margin">
+                  <hi>M. 42 Eliz. B. R. Cro.</hi> 1. part, <hi>Parker</hi> and <hi>Combleford</hi>'s Caſe.</note> That the Lord had uſed after the death of every one dying within his Manor to have the beſt Beaſt of ſuch a perſon for a Heriot, and to ſeize and diſtrain for it. It was adjudged a void Cuſtome,<note place="margin">
+                  <hi>Vid. 3 &amp; 4 Eliz. in Co. B. Wilſon</hi> and <hi>Wiſe</hi>'s Caſe, <hi>Moore,</hi> acc.</note> not good to bind a Stranger: but ſuch a Cuſtome to extend to and bind the Te<g ref="char:EOLhyphen"/>nants of the Manor might be good.</p>
+            <p>The Cuſtome of a Manor was, <hi>Quòd</hi>
+               <note place="margin">
+                  <hi>Paſc. 24 E<g ref="char:EOLhyphen"/>liz.</hi> Moore. <hi>Vide Skip<g ref="char:EOLhyphen"/>with</hi>'s Caſe, <hi>Tr. 33 Eliz. in Co. B.</hi> Godb. 143. where the contrary ſeemeth to be adjudg<g ref="char:EOLhyphen"/>ed.</note> 
+               <hi>quilibet tenens per Copiam poterit dimit<g ref="char:EOLhyphen"/>tere terras ſuas</hi> for life, in Fee, or other<g ref="char:EOLhyphen"/>wiſe; and that a Woman <hi>Cooperta viro po<g ref="char:EOLhyphen"/>terit deviſare</hi> her Copy-hold-lands to any other, or to her Husband, by the aſſent of the Husband. In this Caſe the Court held, That the Cuſtome was not unreaſo<g ref="char:EOLhyphen"/>nable; but becauſe it was <hi>poterit deviſa<g ref="char:EOLhyphen"/>re,</hi> where it ought to have been alledged <hi>uſi ſunt deviſare,</hi> for that cauſe it was ſaid it was not good<g ref="char:punc">▪</g>
+            </p>
+            <p>Note by the whole Court, That if the<note place="margin">
+                  <hi>Paſc. 8 Jac. in Co. B. Rapley</hi> and <hi>Chaffyn</hi>'s Caſe, acc.</note> Cuſtome of a Manor is alledged to be, That the eldeſt Daughter ſhall ſolely in<g ref="char:EOLhyphen"/>herit the Land, ſuch a Cuſtome may be good: But then ſuch Cuſtome ſhall be taken ſtrictly<g ref="char:punc">▪</g> 
+               <hi>viz.</hi> That the eldeſt Siſter ſhall not inherit the Land by force of the ſaid Cuſtome.</p>
+            <pb n="93" facs="tcp:31393:51"/>
+            <p>It was Reſolved by the Juſtices, That<note place="margin">
+                  <hi>Vid. Moore</hi>'s Rep. 3 <hi>E. 6.</hi>
+               </note> a Cuſtome that a Leſſee for years may hold the Land for half a year after his Term ended, is no good Cuſtome: But it was agreed, That the Lord of a Copy-hold might by Cuſtome leaſe the ſame for life and 40 years after, and that ſuch a Cuſtome was good.</p>
+            <p>A Cuſtome was alledged, That all In<g ref="char:EOLhyphen"/>habitants<note place="margin">
+                  <hi>Tr. 14 Jac. in Co. B. Harbin</hi> and <hi>Green</hi>'s Caſe, <hi>Moore 887.</hi>
+               </note> of certain Meſſuages holden of the Biſhop of <hi>S</hi> had uſed to grind their Corn which they uſed to ſpend in their Houſes, or ſhould ſell, at certain Mills, called <hi>the Biſhops Mills in S,</hi> and not elſewhere, without the Licence of the Biſhop. It was the opinion of the Ju<g ref="char:EOLhyphen"/>ſtices, That it was a void and unreaſo<g ref="char:EOLhyphen"/>nable Cuſtome, to grind all their Corn there which they ſhould ſell, <hi>&amp;c.</hi>
+            </p>
+            <p>The Cuſtome of the Manor of <hi>Y</hi> in the<note place="margin">
+                  <hi>P. 13 Jac. Ford</hi> and <hi>Ho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi>'s Caſe, <hi>Moore 842.</hi>
+               </note> County of <hi>Dorſet</hi> was, That every Co<g ref="char:EOLhyphen"/>py-holder might name who ſhould have his Copy-hold, and that the Lord ought to admit the Copy-holder ſo named at the death of the Nominator. <hi>Quere</hi> if it be a good Cuſtome, becauſe the perſon nominated hath neither <hi>jus ad rem, nec in re,</hi> the Intereſt being in the Lord, and a man cannot gain an Intereſt to him<g ref="char:EOLhyphen"/>ſelf
+<pb n="94" facs="tcp:31393:52"/> from the Lord againſt the will of the Lord. And therefore it was holden, That where the party in that caſe brought an Action againſt the Lord for denying to admit him to the Copy-hold upon ſuch Nomination, the Action would not lie. But <hi>Quere</hi> that Caſe as to the Cuſtome, for that in 45 <hi>Eliz. in B. R.</hi> in <hi>Powell</hi>
+               <note place="margin">
+                  <hi>45 Eliz. B. R. Powell</hi> and <hi>Peacock</hi>'s Caſe.</note> and <hi>Peacock</hi>'s Caſe it was adjudged, That a Cuſtome that a Copy-holder in Fee might nominate his Succeſſor, and ſo <hi>in perpetuum,</hi> was adjudged a good Cuſtome.<note place="margin">
+                  <hi>Vid. Hob.</hi> Reports 6, and 11. <hi>Brock</hi> and <hi>Spencer</hi>'s Caſe.</note> And <hi>Vid. Brock</hi> and <hi>Spencer</hi>'s Caſe in <hi>Hobart</hi> 6 and 11. a Cuſtome that ſuch a Copy-holder in Fee might<g ref="char:punc">▪</g> fell Timber<g ref="char:EOLhyphen"/>trees was adjudged a good Cuſtome.</p>
+            <p>The Cuſtome of a Manor was, That<note place="margin">
+                  <hi>P. 41 Eliz. B. R. Parman</hi> and <hi>Bowyer</hi>'s Caſe.</note> if any Tenant allowed his Lands holden of the Manor by Writing or Feoffment, or deviſed them, or ſurrendred them in<g ref="char:EOLhyphen"/>to<note place="margin">
+                  <hi>Vid.</hi> the ſame Caſe in <hi>Anderſon</hi>'s 2. part, 125. where it ſeemeth the Cuſtome was much doubed, if good, or <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot.</note> the hands of the Lord of the Manor to the Uſe of another, that ſuch Alie<g ref="char:EOLhyphen"/>nation, Feoffment, Deviſe or Surrender ought to be preſented within one Year next after. It was ſaid, It was no good Cuſtome. But the Court ruled the Cu<g ref="char:EOLhyphen"/>ſtome to be good and agreeable to the Law; for that it is reaſon that the Lord ſhould know, <hi>&amp;c. Tant. Vid.</hi> before.</p>
+            <pb n="95" facs="tcp:31393:52"/>
+            <p>A Cuſtome was, That a Copy-holder<note place="margin">
+                  <hi>Vid. Willis</hi> and <hi>Buck<g ref="char:EOLhyphen"/>nall</hi>'s Caſe, <hi>in B. R. Style</hi>'s Re<g ref="char:EOLhyphen"/>ports, 311.</note> of Inheritance might make a Letter of Attorney to two Joynt-tenants, and ſe<g ref="char:EOLhyphen"/>verally, to ſurrender his Copy-hold-lands in Fee to certain Uſes after his death. It was Reſolved, That the Cuſtome was a void Cuſtome, becauſe by the death of the Copy-holder the Lands were ſet<g ref="char:EOLhyphen"/>tled in the Heir, and an Authority given to deveſt him was not good.</p>
+            <p>The Cuſtome of a Manor was, That<note place="margin">
+                  <hi>M. 21 Jac. Cro.</hi> 2. part<g ref="char:punc">▪</g> 
+                  <hi>Page</hi>'s Caſe.</note> the Land was deviſable by Cuſtome for 21 years, paying the treble value of the Rent, and if the Leſſee died, that the Term ſhould be to his Heirs, paying for a Fine one year's Rent, and if he aſſigned it, the Aſſignee to have it for one year's value of the Rent, and that he might renew the Deviſe for 3 years va<g ref="char:EOLhyphen"/>lue. The Court held all the ſaid Cu<g ref="char:EOLhyphen"/>ſtomes to be good and reaſonable.</p>
+            <p>The Cuſtome of a Manor was, That if<note place="margin">
+                  <hi>P. 17 Car. in B. R. Thorne</hi> and <hi>Tyler</hi>'s Caſe.</note> any Copy-hold-tenant did ſuffer his Meſ<g ref="char:EOLhyphen"/>ſuage to be ruined for want of Repara<g ref="char:EOLhyphen"/>tions, and the ſame be preſented in Court by the Homage, that ſuch a Te<g ref="char:EOLhyphen"/>nant ſhould be amerced, and that the Lord had uſed to diſtrain the Beaſts as well of the Under-tenant as of the Te<g ref="char:EOLhyphen"/>nant
+<pb n="96" facs="tcp:31393:53"/> himſelf, which were levant and couchant upon the Lands, for ſuch A<g ref="char:EOLhyphen"/>mercement. It was ſaid, That the Cu<g ref="char:EOLhyphen"/>ſtome was not good, but unreaſonable, to diſtrain a Stranger's Cattel, ſuch as the Under-tenant was. But it was Reſolved that the Cuſtome was good: for the Un<g ref="char:EOLhyphen"/>der-tenant, although he was but Tenant for a year, yet he ſhould have all the bene<g ref="char:EOLhyphen"/>fits and privileges which the Copy-hol<g ref="char:EOLhyphen"/>der himſelf ſhould have had; <hi>&amp; qui ſentit Commodum ſentire debet &amp; Onus;</hi> and he is diſtrainable for the Rents and Services due and payable to the Lord; and the Charge lies upon the Land, and not upon the Cuſtome: and therefore the Cuſtome is good.</p>
+            <p>The Cuſtome of a Manor was ſhewed<note place="margin">
+                  <hi>H. 37 Eliz. B. R. Brown</hi> and <hi>Foſter</hi>'s Caſe, <hi>Cro.</hi> 1. part, acc.</note> to be, That any Copy-holder of the Ma<g ref="char:EOLhyphen"/>nor may ſurrender within any place of the Manor into the hands of two Te<g ref="char:EOLhyphen"/>nants; and if a Surrender be to the Uſe of a Stranger, without expreſſing any Eſtate, that the Lord might grant it in Fee to him to whom the Surrender was made. It was objected, That the Cuſtome was unrea<g ref="char:EOLhyphen"/>ſonable, becauſe it is to charge the Land with a greater Eſtate then the Copy-hol<g ref="char:EOLhyphen"/>der gave. On the other ſide it was ſaid,
+<pb n="97" facs="tcp:31393:53"/> That the Cuſtome was good; for that the Lord is Chancellour in his own Court, and might diſpoſe thereof when the Tenant leaves it uncertain. <hi>Quere;</hi> for the Caſe was not Reſolved.</p>
+         </div>
+         <div n="20" type="section">
+            <head>SECT. XX.</head>
+            <argument>
+               <p>Where and in what caſe a Copy-holder or his Leſſee upon an Ouſter may have and maintain againſt the Ejector an <hi>Ejecti<g ref="char:EOLhyphen"/>one firme,</hi> and where and in what not.</p>
+            </argument>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>IN <hi>Ejectione firme</hi> the Caſe was, The<note place="margin">
+                     <hi>H. 38 Eliz. C. B. Wells</hi> and <hi>Par<g ref="char:EOLhyphen"/>tridge</hi>'s Caſe, <hi>Cro.</hi> 1. part.</note> Plaintiff was Leſſee for years of a Co<g ref="char:EOLhyphen"/>py-hold; and the Cuſtome of the Manor was, That a Copy-holder might let the Land for 3 years. It was the opinion of <hi>Anderſon</hi> Chief Juſtice, That the Leſſee of a Copy-holder cannot maintain <hi>Ejecti<g ref="char:EOLhyphen"/>one firme;</hi> but if he might, he ought to ſhew his Leſſor's Eſtate, or his Licence, or a ſpecial Cuſtome, to warrant it.</p>
+               <p>A Copy-holder made a Leaſe for<note place="margin">
+                     <hi>M. 14 &amp; 15 Eliz. Leon.</hi> 1. part, 4.</note> years by Indenture warranted by the Cu<g ref="char:EOLhyphen"/>ſtome. It was adjudged, That the
+<pb n="98" facs="tcp:31393:54"/> Leſſee ſhould maintain <hi>Ejectione firme;</hi> although it was ſtrongly objected, That if it were ſo, then the Plaintiff ſhould have an <hi>Habere facias poſſeſſionem,</hi> and ſo Copy-holds ſhould be ordered by the Laws of the Land.</p>
+               <p>The Cuſtome of a Manor was, That if any Copy-holder of Inheritance died,<note place="margin">
+                     <hi>P. 33 Eliz. in B. R. Cole</hi> and <hi>Wall</hi>'s Caſe, <hi>Leon.</hi> 1. part, 328.</note> his Heir within the age of 14 years, then the Lord of the Manor might grant the Cuſtody of his Body and Lands<g ref="char:punc">▪</g> to whom he pleaſed: A Copy-holder of Inheri<g ref="char:EOLhyphen"/>tance died, his Heir within the age of 14 years: The Lord committed the Cu<g ref="char:EOLhyphen"/>ſtody of his Body and Lands to <hi>J S,</hi> who, being ejected, brought a Writ of <hi>Ejectione Cuſtodie</hi> of his Body. It was the opinion of the Juſtices, That the Action did not lie. But it was agreed in that Caſe, That an <hi>Ejectione firme</hi> lieth upon a De<g ref="char:EOLhyphen"/>miſe of Copy-hold-lands by Leaſe for years by the Copy-holder himſelf, but not upon a Demiſe by the Lord of the Copy-hold.</p>
+               <p>Note, It was Reſolved by the Juſtices,<note place="margin">
+                     <hi>Coke</hi> 4. part, 26. in <hi>Mel<g ref="char:EOLhyphen"/>wich<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>'s Caſe. <hi>M. 8 Jac. in C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. B. Crane<g ref="char:EOLhyphen"/>ford</hi> and <hi>Freſhwater</hi>'s Caſe, acc.</note> That the Leſſee of a Copy-holder for a year may maintain an <hi>Ejectione firme:</hi> for inaſmuch as his Term is warranted by the Law by force of the general Cu<g ref="char:EOLhyphen"/>ſtome
+<pb n="99" facs="tcp:31393:54"/> of the Realm, it is but reaſon that,<note place="margin">
+                     <hi>H. 39 Eliz. Cro.</hi> 1. part, <hi>Goodwin</hi> and <hi>Langhurſt</hi>'s Caſe, acc.</note> if he be ejected, he ſhould have an <hi>E<g ref="char:EOLhyphen"/>jectione firme;</hi> for it is a ſpeedy Courſe for a Copy-holder to gain the poſſeſſion of the Land againſt a Stranger, being no more then what right requires to be yielded him for the Recovery of his E<g ref="char:EOLhyphen"/>ſtate.</p>
+            </div>
+         </div>
+         <div n="21" type="section">
+            <head>SECT. XXI.</head>
+            <argument>
+               <p>What Statutes and Acts of Parliament do extend to Copy-holds and Copy-hold-e<g ref="char:EOLhyphen"/>ſtates, what not.</p>
+            </argument>
+            <p>SOme things concerning this Diviſion being ſpoken of in the former part of this Treatiſe, and ſome particular Sta<g ref="char:EOLhyphen"/>tutes there being mentioned within which Copy-holds are included, and in what not, I ſhall refer the Reader thereunto; adding onely a few Caſes upon ſome par<g ref="char:EOLhyphen"/>ticular Acts not therein mentioned, with the Authorities and Reſolutions of the Ju<g ref="char:EOLhyphen"/>ſtices therein. And as concerning with<g ref="char:EOLhyphen"/>in what Statutes Copy-holds are, I ſhall take and relie upon the general Rule<note place="margin">
+                  <hi>Coke</hi> 3. part<g ref="char:punc">▪</g> 
+                  <hi>Heydon</hi>'s Caſe.</note> which is put in Sir <hi>Edward Coke</hi>'s 3. part of his Reports, in <hi>Heydon</hi>'s Caſe,
+<pb n="100" facs="tcp:31393:55"/> 
+               <hi>viz.</hi> When a Statute or Act of Parlia<g ref="char:EOLhyphen"/>ment doth alter the Service, Tenure, In<g ref="char:EOLhyphen"/>tereſt of the Eſtate, or other thing in prejudice of the Lord or of the Cuſtome of the Manor, or in prejudice of the Tenant, there the general words of ſuch Statute or Act of Parliament do not extend to Copy-holds or Copy-hold-eſtates: But when the Statute or Act of Parliament is generally made for the good of the Commonweal, and no prejudice can come thereby, by alteration of any Service, Tenure, or Intereſt, or Cuſtome uſed within the Manor, there Copy-holds and Copy-hold-eſtates are within the pur<g ref="char:EOLhyphen"/>view of ſuch Statutes or Acts.</p>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <p>It was Reſolved by all the Juſtices,<note place="margin">
+                     <hi>6 Jac. in Co. B. Coke</hi> Select Caſes 27, 28.</note> That no Tenure ſhall pay for a reaſonable Aid to make the eldeſt Son Knight, or to marry the eldeſt Daughter, but Te<g ref="char:EOLhyphen"/>nure by Knight's-Service or Tenure in<note place="margin">
+                     <hi>Littl.</hi> 16. ſect. 36.</note> Socage. Now <hi>Littleton</hi> ſaith, that all Te<g ref="char:EOLhyphen"/>nures are either Knight's-Service or So<g ref="char:EOLhyphen"/>cage: And the Statute of <hi>Weſtm. 1. cap.</hi> 36. of reaſonable Aid extends onely to ſuch Tenures. The Queſtion then is,
+<pb n="101" facs="tcp:31393:55"/> Whether a Copy-hold-Tenure be with<g ref="char:EOLhyphen"/>in that Statute. I ſhall not determine the Queſtion, for that I do not find it moved in any Book of the Common Law: But although I humbly conceive Copy-holds be within the general words of Mr. <hi>Littleton,</hi> (all Tenures in So<g ref="char:EOLhyphen"/>cage;) yet that the ſaid Statute of <hi>Weſtm. 1. cap.</hi> 36. doth not extend to Copy-holds. <hi>Quere</hi> of it.</p>
+               <p>The Statute of <hi>Weſtm. 2. de Donis con<g ref="char:EOLhyphen"/>ditionalibus</hi>
+                  <note place="margin">Statute <hi>Weſtm. 2. de Donis.</hi>
+                  </note> I conceive doth not extend to Copy-holds within the general words thereof. The words of the Statute are of Gifts <hi>per Chartam datis;</hi> and Copy-holds do not paſs by Deeds, but by Surren<g ref="char:EOLhyphen"/>ders. But yet it is conceived, that al<g ref="char:EOLhyphen"/>though they be not within the general Words of the Statute, yet they are within the Equity of the ſaid Statute, if there be a Cuſtome to warrant ſuch Eſtates.</p>
+               <p>The Caſe was, A Copy-holder in Fee<note place="margin">
+                     <hi>H. 37 Eliz. in Co. B. Church</hi> and <hi>Wyatt's</hi> Caſe, <hi>Moore 637.</hi>
+                  </note> ſurrendred his Copy-hold-lands to the Life of his Will; and having a Daugh<g ref="char:EOLhyphen"/>ter born, and his Wife with Child, he deviſed part of his ſaid Lands to his Son or Daughter which his Wife went with, <hi>&amp; Haeredibus ſuis legitimè procreatis;</hi> and the reſidue thereof he deviſed to his
+<pb n="102" facs="tcp:31393:56"/> Daughter born, to have to her and the fruit of her body. One Point in this Caſe was, What Eſtate the Daughter born had in the ſaid Copy-hold-lands, if in Tail or not. It was ſaid, It was a Fee-tail in the Daughter born. But it was much doubted if it was an Eſtate within the ſaid Statute <hi>de Donis, &amp;c.</hi> But in that Caſe it was agreed, That Co<g ref="char:EOLhyphen"/>py-hold might be entailed by Cuſtome co-operating with the ſaid Statute, and if not within the words, yet within the Equi<g ref="char:EOLhyphen"/>ty of the ſaid Statute.</p>
+               <p>The Statute of <hi>Praerogativa Regis, cap.</hi>
+                  <note place="margin">Stat. <hi>Prae<g ref="char:EOLhyphen"/>rogat. Regis,</hi> cap. 9 &amp; 10. <hi>Co.</hi> 8. part, 170. in <hi>Tow<g ref="char:EOLhyphen"/>erſon</hi>'s Caſe. <hi>Co.</hi> 4. part, 127. in <hi>Be<g ref="char:EOLhyphen"/>verly's</hi> Caſe.</note> 9 and 10. gives the Lands of Idiots na<g ref="char:EOLhyphen"/>tural to the King, he finding them con<g ref="char:EOLhyphen"/>venient Maintenance out of the Profits thereof: But if the Idiot hath Copy-hold-lands diſcended unto him, the King ſhall not have the Wardſhip of thoſe Lands therewith, out of the Profits there<g ref="char:EOLhyphen"/>of to maintain the Idiot, becauſe the ſame would be prejudicial to the Lord of the Manor, of whom the Lands are holden by Copy. But yet all Alienations made by an Idiot of his Copy-hold-lands, af<g ref="char:EOLhyphen"/>ter Office found, ſhall be avoided by the King.</p>
+               <div type="part">
+                  <head>
+                     <pb n="103" facs="tcp:31393:56"/>
+                     <hi>Copy-hold-lands are not within the</hi>
+                     <note place="margin">
+                        <hi>Stat. Weſt.</hi> 2. cap. 20.</note> 
+                     <hi>Statute of</hi> Weſtm. 2. cap. 20. <hi>of</hi> Exe<g ref="char:EOLhyphen"/>cutions.</head>
+                  <p>For if a Judgment be had in a Court of Record againſt a Copy-holder for Debt and Dammages, although the Plain<g ref="char:EOLhyphen"/>tiff may have Execution by <hi>Fieri facias</hi> againſt his Goods, or a <hi>Capias</hi> againſt his Body; yet he cannot have Execution of the moyetie of his Copy-hold-lands by <hi>Elegit,</hi> for that Copy-hold-lands are not within that Statute. And ſo it is, if a Statute-Merchant or Staple be acknow<g ref="char:EOLhyphen"/>ledged by a Copy-holder for the pay<g ref="char:EOLhyphen"/>ment of Money at a day certain, which is not payed, his Copy-hold-lands are not extendable for the ſame. And the rea<g ref="char:EOLhyphen"/>ſon of theſe Caſes is, becauſe no perſon can come to Copy-holds but by Admit<g ref="char:EOLhyphen"/>tance of the Lord; and the Lord ſhould thereby loſe his Fine which is due upon Admittance, if the party might have the Lands upon Extent delivered unto him.</p>
+                  <p>If Tenant by the Curteſie, or Leſſee<note place="margin">
+                        <hi>Paſc. 12 E<g ref="char:EOLhyphen"/>liz. in Co. B.</hi> Moore 94.</note> for years, be of a Manor, and Copy-holds were in his hands by Forfeiture or
+<pb n="104" facs="tcp:31393:57"/> other determination, and he bindeth him<g ref="char:EOLhyphen"/>ſelf in a Statute, and afterwards he de<g ref="char:EOLhyphen"/>viſeth the Copy-hold again; the Co<g ref="char:EOLhyphen"/>py-hold ſhall be liable to the Statute. But if a Copy-holder bindeth himſelf in a Statute-Merchant or Staple, his Co<g ref="char:EOLhyphen"/>py-hold-lands ſhall not be extended upon the ſaid Statute, becauſe therein he hath but an Eſtate at will.</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>Copy-hold-lands are not within the Sta<g ref="char:EOLhyphen"/>tute</hi>
+                     <note place="margin">
+                        <hi>Stat. 31 H.</hi> 8. cap. 13.</note> 
+                     <hi>of</hi> 31 H. 8. cap. 13. <hi>of</hi> Monaſteries.</head>
+                  <p>The Guardians of the Colledge of <hi>Otlery,</hi> Lords of a Manor, granted<note place="margin">
+                        <hi>M. 25 &amp; 26 Eliz.</hi> in the <hi>Exchequer, Leon.</hi> 1. part, 4.</note> Lands for 3 Lives by Copy, according to the Cuſtome of the Manor; afterwards in 30 <hi>H.</hi> 8. they leaſed the Lands to <hi>J S,</hi> rendring the accuſtomed Rent, and af<g ref="char:EOLhyphen"/>terwards ſurrendred their Colledge to King <hi>Hen.</hi> 8. And if the Leaſe, being within one year of the Surrender, was with<g ref="char:EOLhyphen"/>in the Statute or not, was the Queſtion. The Caſe is not adjudg'd, but a <hi>Quere</hi> made of it. But in that Caſe it was adjudged, That if there be Lord of a Copy-holder for life, and the Lord grants a Rent-charge out of his Manor, of which the Copy-hold is parcell, and then the Copy-hol<g ref="char:EOLhyphen"/>der
+<pb n="105" facs="tcp:31393:57"/> doth ſurrender to the Uſe of another, who is admitted; he ſhall not hold the Lands charged: but if he dieth, ſo as his Eſtate is determined, and the Lord grants the Land to another <hi>de novo</hi> to hold by Copy, the new Tenant ſhall hold the Land charged.</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>Copy-hold-lands not within the Statute of</hi> 32 H. 8. <hi>of</hi> Rents.</head>
+                  <p>The Lord of a Manor (of which<note place="margin">
+                        <hi>Tr. 27 Eliz. in B. R. Rot. 1201. Sands</hi> and <hi>Hemp<g ref="char:EOLhyphen"/>ſtrie</hi>'s Caſe, <hi>Leon.</hi> 2. part, 109.</note> there were Copy-holds) granted a Rent-charge for life, and afterwards made a Feoffment of the Manor to <hi>J S</hi> and his Heirs, who granted a Copy-hold for life: <hi>J S</hi> died, and the Rent was behind, and the Grantee of the Rent di<g ref="char:EOLhyphen"/>ſtrained for the Arrerages. It was Re<g ref="char:EOLhyphen"/>ſolved in that Caſe, That the poſſeſſion of the Copy-holder was not chargeable to the Diſtreſs, for that the Copy-holder was not in by him who immediately ought to pay the Rent, but in the poſſeſſion of the Land by the Cuſtome. But <hi>Quere</hi>
+                     <note place="margin">
+                        <hi>Hil. 18 Eliz. in Co. B.</hi> the Earl of <hi>Weſtmor<g ref="char:EOLhyphen"/>land</hi>'s Caſe, <hi>Leon.</hi> 3. part, 59.</note> that Caſe: and <hi>vide Hill. 18 Eliz. in Co. B.</hi> the Earl of <hi>Weſtmorland</hi>'s Caſe. For there the Caſe was, That the De<g ref="char:EOLhyphen"/>meſnes of a Manor were uſually let for
+<pb n="106" facs="tcp:31393:58"/> lives by Copy, and the Lord granted a Rent-charge to <hi>J D pro Conſilio impen<g ref="char:EOLhyphen"/>dendo</hi> for life, and afterwards conveyed the Manor to <hi>J N</hi> in Tail: The Rent was behind, and the Grantee of the Rent died, and the Executors of the Grantee diſtrained for the Arrerages. And there it was adjudged, That the Copy-holder ſhould hold the Lands charged.</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>Copy-hold-lands not within the Statute of</hi> 32 H. 8. <hi>of</hi> Conditions.</head>
+                  <p>A Copy-holder by Licence made a Leaſe by Indenture for 21 years ren<g ref="char:EOLhyphen"/>dring Rent: The Leſſee covenanted to lay upon the Lands yearly 40 Loads of Dung: Afterwards the Copy-holder ſur<g ref="char:EOLhyphen"/>rendred his Lands unto another in Fee,<note place="margin">
+                        <hi>M. 20 Jac. in C. B. Plott</hi> and <hi>Plomer</hi>'s Caſe, <hi>Cro.</hi> 1. part, 17.</note> who was admitted. The Point was, If he was ſuch an Aſſignee as might have Covenant within the Statute of 32 <hi>H. 8. Quere;</hi> for the Caſe was not Reſolved.</p>
+                  <p>A Copy-holder by Licence of the Lord<note place="margin">
+                        <hi>Tr. 10 Jac. in B. R. Braſier</hi> and <hi>Beale</hi>'s Caſe, <hi>Yelv. 223.</hi>
+                     </note> made a Leaſe for 60 years, if he ſo long lived, rendring Rent, upon Condition to re-enter: The Copy-holder ſurrendred to the Leſſor of the Plaintiff in Fee, who demanded the Rent, which was not pay<g ref="char:EOLhyphen"/>ed.
+<pb n="107" facs="tcp:31393:58"/> It was Reſolved in this Caſe, That the Entry of the Leſſor was not lawfull, for that Copy-hold-lands were not within the Statute of <hi>Conditions,</hi> nor the Leſſor ſuch an Aſſignee as the Statute inten<g ref="char:EOLhyphen"/>ded: For the Aſſignee of a Copy-hol<g ref="char:EOLhyphen"/>der being in onely by Cuſtome, is not privy to the Leaſe made by the firſt Copy-holder, nor in by him, but may plead his Eſtate immediately under the Lord.</p>
+                  <p>Note, That in no caſe, where the King claims a ſhare in the Forfeiture of the Lands, (as in the Statute of 2 <hi>H.</hi> 5. which ſpeaks of Lands forfeited for He<g ref="char:EOLhyphen"/>reſie, <hi>viz.</hi> that the King ſhall have <hi>An<g ref="char:EOLhyphen"/>num, diem &amp; vaſtum,</hi> as he hath for Lands forfeited for Felony) Copy-hold-lands are not within the general words of ſuch Statute; for that in ſuch caſe, if the Copy-holder committeth Felony, the Copy-hold is preſently forfeited to the Lord of the Manor; and therefore out of the words of that Statute, and other the like Statutes.</p>
+                  <p>The Statute of 12 <hi>Eliz. cap.</hi> 8. which ſpeaks of Inquiſitions or Offices found by Eſcheators, doth not extend to Copy-hold-lands:
+<pb n="108" facs="tcp:31393:59"/> for although the ſame are not found within the Inquiſitions or Offices, yet the King ſhall not be entitled to any of the ſaid Copy-hold-lands, but all ſuch Copy-holders ſhall and may hold and enjoy their Eſtates and Intereſts in their ſaid Copy-hold-lands as for<g ref="char:EOLhyphen"/>merly they might have done; and the Intereſt of the Copy-hold is preſerved by the ſaid Statute, though it be not found by Office after the death of the King's Tenant.</p>
+                  <p>The Statute of 13 <hi>Eliz. cap.</hi> 4. of<note place="margin">
+                        <hi>Vid. 30 Eliz. in Scaccario, Leon.</hi> 1. part, 98.</note> Auditors and Regiſters of the Queen, doth not extend to Copy-holds, for that it ſhould be a great prejudice.</p>
+                  <p>Then for the ſecond part of this Di<g ref="char:EOLhyphen"/>viſion.</p>
+               </div>
+            </div>
+            <div type="proofs">
+               <head>Proofs.</head>
+               <div type="part">
+                  <head>Copy-hold-lands are within the Statute of <hi>4 H. 7.</hi> of <hi>Fines.</hi>
+                  </head>
+                  <p>If I levy a Fine of my Copy-hold-lands,<note place="margin">
+                        <hi>Vid. 30 Eliz. Leon.</hi> 99. acc.</note> and 5 years paſs; not onely the Lord is thereby barred as to the Free-hold of it and the Inheritance, but I,
+<pb n="109" facs="tcp:31393:59"/> who am the Copy-holder, am alſo barred as to my Poſſeſſion: For the intent of the<note place="margin">
+                        <hi>Vid. Coke</hi> 5. part, <hi>Sat<g ref="char:EOLhyphen"/>tyn</hi>'s Caſe.</note> Statute was to take away all Controver<g ref="char:EOLhyphen"/>ſies, <hi>&amp; litibus finem imponere;</hi> and Con<g ref="char:EOLhyphen"/>tention may as well ariſe and be about Copy-hold-lands as for Free-hold-lands at the Common Law.</p>
+               </div>
+               <div type="part">
+                  <head>Copy-hold-lands are within the Statute of <hi>29 Eliz.</hi> and other Statutes of <hi>Recu<g ref="char:EOLhyphen"/>ſancy.</hi>
+                  </head>
+                  <p>A Recuſant being convict for not pay<g ref="char:EOLhyphen"/>ing<note place="margin">
+                        <hi>Tr. 30 Eliz. in Scacca<g ref="char:EOLhyphen"/>rio, Saliard</hi> and <hi>Ever<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t</hi>'s Caſe, <hi>Leon.</hi> 1. part, 97.</note> of 20 <hi>l.</hi> a month forfeited by the ſaid Statute, a Commiſſion iſſued out of the <hi>E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>chequer</hi> to enquire and ſeize all his Goods, Lands, Tenements and Heredi<g ref="char:EOLhyphen"/>taments liable to ſuch Seizure: Upon the Return of the Commiſſion it appeared, That ſome of the Lands returned were Copy-hold-lands. It was a Queſtion if they were within the Statute. It was the opinion of the Court, That they were within the Equity of the Statute: for the words of the Statute are, <hi>Lands, Te<g ref="char:EOLhyphen"/>nements and Hereditaments,</hi> which are for<g ref="char:EOLhyphen"/>cible words; and the intention of the Statute was, That the Queen ſhould have all the Goods, and the Recuſant by
+<pb n="110" facs="tcp:31393:60"/> the words of the Statute was onely to have the third part of his Lands, which is all that the Law gives him: And if Co<g ref="char:EOLhyphen"/>py-hold-lands ſhould not be within the Statute, if a Recuſant, who had great Poſſeſſions onely of Copy-hold-lands, ſhould go unpuniſhed, it was contra<g ref="char:EOLhyphen"/>ry to the meaning of the Makers of the Act.</p>
+               </div>
+               <div type="part">
+                  <head>Copy-holds are within the Statutes of <hi>13 Eliz.</hi> and <hi>1 Jacobi.</hi>
+                  </head>
+                  <p>It was Reſolved by all the Juſtices,<note place="margin">
+                        <hi>Tr. 15 Jac. in<g ref="char:punc">▪</g> B. R. Criſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> and <hi>Prat</hi>'s Caſe, <hi>Noth.</hi> 34, 35, and 36.</note> That Copy-hold is within the Statutes of 13 <hi>Eliz.</hi> and 1 <hi>Jacobi,</hi> becauſe it is no prejudice to the Lord, for that there ought to be a Compoſition with the Lord and the Vendee of the Lands; and al<g ref="char:EOLhyphen"/>though the Sale is and ought to be by In<g ref="char:EOLhyphen"/>denture, yet the Vendee ought to be ad<g ref="char:EOLhyphen"/>mitted by the Lord. 2. The words of the Statute of 13 <hi>Eliz.</hi> expreſly are, That the Commiſſioners ſhall diſpoſe of Lands as well Copy as Free; and the ſaid Sta<g ref="char:EOLhyphen"/>tutes ſhall be conſtrued moſt beneficially for Creditors, <hi>i. e. ſuum cuique tribuere.</hi>
+                  </p>
+                  <pb n="111" facs="tcp:31393:60"/>
+                  <p>There are divers other Statutes and Acts of Parliament which extend to Co<g ref="char:EOLhyphen"/>py-hold-lands, <hi>viz.</hi> 1. The Statute of 5 <hi>Eliz. cap. 13 &amp;</hi> 14. of <hi>Forgery.</hi> 2. The Statutes of 5 <hi>R.</hi> 2. of <hi>Departure out of the Realm,</hi> and 14 <hi>Eliz.</hi> of <hi>Fugitives.</hi> 3. The Statute of 32 <hi>H. 8. cap.</hi> 9. of <hi>Buying of Pretenſed Titles.</hi> All which Statutes ex<g ref="char:EOLhyphen"/>tend to Copy-hold-lands; of which I might ſhew many Caſes and Reſolutions of the Juſtices in their ſeveral Courts. But becauſe the ſame would make this Section to be long and tedious, and my Intention was to uſe much brevity in this Addition and Amplification of what in the former part of this Treatiſe hath been written concerning <hi>Copy-hold and Cuſto<g ref="char:EOLhyphen"/>mary Eſtates;</hi> I ſhall here put an End to the Work.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:31393:61"/>
+            <head>The Contents of the ſeveral Sections.</head>
+            <list>
+               <item>SECTION I. <hi>WHat a Surrender of Copy-hold or Cuſtomary Eſtate is; to whom, and in what manner and place it is to be done; and who ſhall be ſaid ſuch a Tenant of a Copy-hold<g ref="char:punc">▪</g> as may make ſuch a Surrender.</hi> Page 1</item>
+               <item>Sect. II. <hi>Whether a Copy-hold may be ſaid to be ſurrendred by any Act, Words, or Agreement, made betwixt the Lord and the Copy-holder, or by the Copy-holder with a Stranger made in the Court, in the Preſence of the Lord or his Steward.</hi> 5</item>
+               <item>Sect. III. <hi>Of Surrenders out of Court; and where Surrenders to the Steward, Depu<g ref="char:EOLhyphen"/>ty-ſteward, or into the hands of Tenants of the Manor, out of Court, ſhall be good, where not.</hi> 9</item>
+               <item>Sect. IV. <hi>Where, although Surrenders are
+<pb facs="tcp:31393:61"/> made to the Lord or to Tenants out of Court by Cuſtome, yet nothing paſſeth out of the Copy-holder before Admit<g ref="char:EOLhyphen"/>tance: And what ſhall be a good Admit<g ref="char:EOLhyphen"/>tance in ſuch caſe, what not.</hi> 17</item>
+               <item>Sect. V. <hi>Where ſome things, and what things, may be done by the Copy-holder or his Heir before Admittance.</hi> 21</item>
+               <item>Sect. VI. <hi>Where the Lord is but an Inſtru<g ref="char:EOLhyphen"/>ment to convey the Copy-hold by Admit<g ref="char:EOLhyphen"/>tance onely, and that the Surrenderee is in by the Copy-holder, and not by the Lord.</hi> 23</item>
+               <item>Sect. VII. <hi>Where the Admittance of the particular Tenant ſhall be the Admit<g ref="char:EOLhyphen"/>tance of him in the Remainder.</hi> 27</item>
+               <item>Sect. VIII. <hi>By what and whoſe Act, either of the Law, of the Copy-holder himſelf, or of the Lord, ſeverally or all together, the Copy-land or Eſtate ſhall be gone, deter<g ref="char:EOLhyphen"/>mined, or extinguiſhed; and where ſuſ<g ref="char:EOLhyphen"/>pended onely.</hi> 30</item>
+               <item>Sect. IX. <hi>Of Forfeitures of Copy-holds and Copy-hold-eſtates; and what Acts or things done<g ref="char:punc">▪</g> by the Copy-holder ſhall a<g ref="char:EOLhyphen"/>mount unto or be adjudged a Forfeiture of the Copy-holder's Eſtate, what not.</hi> 36</item>
+               <item>Sect. X. <hi>Where deniall or refuſall to pay
+<pb facs="tcp:31393:62"/> his Rent, Fine, or to doe his other Cu<g ref="char:EOLhyphen"/>ſtomes and Services, ſhall be a Forfeiture of his Copy-hold and Copy-hold-eſtate, and where not.</hi> 39</item>
+               <item>Sect. XI. <hi>Where the Act of the Lord, and what Act of his, ſhall diſpenſe with a Forfeiture made by his Copy-holder; where and what not.</hi> 48</item>
+               <item>Sect. XII. <hi>Whether Copy-hold-lands be within the Statute of</hi> Weſtm. 2. <hi>and may be entailed, or not; and where and by what Acts the Iſſues in tail may be barred; and what ſhall be a Diſcontinu<g ref="char:EOLhyphen"/>ance of the Eſtate, what not.</hi> 51</item>
+               <item>Sect. XIII. <hi>What things are incident to a Copy-holder, and what he may take of common right without the Grant or Li<g ref="char:EOLhyphen"/>cence of the Lord: And what Acts up<g ref="char:EOLhyphen"/>on the Land ſhall bind the Copy-holder, what not.</hi> 64</item>
+               <item>Sect. XIV. <hi>Where the Lord of the Manor ſhall be Chancellour in his own Court, to determine the Differences which ariſe be<g ref="char:EOLhyphen"/>twixt Copy-holders.</hi> 69</item>
+               <item>Sect. XV. <hi>Of Surrenders upon Conditions; and where ſuch Surrenders ſhall be good, where not.</hi> 70</item>
+               <item>Sect. XVI. <hi>Where Cuſtome which warrants</hi>
+                  <pb facs="tcp:31393:62"/>
+                  <pb facs="tcp:31393:63"/>
+                  <pb facs="tcp:31393:63" rendition="simple:additions"/> 
+                  <hi>the Lord or his Copy-holder to grant grea<g ref="char:EOLhyphen"/>ter Eſtates, warrants the Grants of leſſer Eſtates.</hi> 76</item>
+               <item>Sect. XVII. <hi>Who ſhall be ſaid ſuch a Lord of a Manor as may grant Copy-hold-e<g ref="char:EOLhyphen"/>ſtates; and how long ſuch Eſtates ſhall continue; and what perſons ſhall be ca<g ref="char:EOLhyphen"/>pable of Copy-hold-eſtates, what not; and what may be granted by Copy.</hi> 79</item>
+               <item>Sect. XVIII. <hi>What Acts or things are in<g ref="char:EOLhyphen"/>ſeparable, and muſt be done by the Copy-holder himſelf; and what acts and where may be done by his Attorney.</hi> 83</item>
+               <item>Sect. XIX. <hi>What Cuſtomes within Copy-hold-Manors ſhall be ſaid to be good and reaſonable Cuſtomes, and what not.</hi> 88</item>
+               <item>Sect. XX. <hi>Where and in what caſe a Copy-holder or his Leſſee upon an Ouſter may have and maintain againſt the Ejector an</hi> Ejectione firme, <hi>and where and in what not.</hi> 97</item>
+               <item>Sect. XXI. <hi>What Statutes and Acts of Parliament do extend to Copy-holds and Copy-hold-eſtates, what not.</hi> 99</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
